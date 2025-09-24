@@ -1,0 +1,41 @@
+*** WooCommerce Wholesale and Tier Prices Change log ***
+
+2025-03-12 - version 1.6.0
+* Update - Compatible with WooCommerce cart & checkout blocks.
+* Update - Compatible with Divi, Astra, Avada, Woodmart themes and Elementor plugin.
+* Fix - Fixed bug with mini cart.
+
+2024-07-23 - version 1.5.1
+* Fix - Fixed issues in pricing templates displayed on product page when tax is enabled.
+
+2024-06-22 - version 1.5.0
+* Add - Added option to disable coupon when prices rule are applied.
+* Add - Added option for prices import / export.
+* Add - Multiple template designs for pricing details on product page.
+* Add - Implemented dynamic price display on the product page that changes based on the quantity selected by the user.
+* Fix - Fixed bug with rules on order in admin panel.
+
+2024-02-21 - version 1.4.0
+* Add - Added option to apply prices to all users at once.
+
+2023-11-02 - version 1.3.0
+* Update - Compatible with WooCommerce High-Performance Order Storage (HPOS).
+* Update - Compatibility updated for latest versions of WooCommerce and WordPress.
+
+2022-06-23 - version 1.2.1
+* Fix - Fixed the issue of undefined index error when price settings are not saved.
+
+2021-05-19 - version 1.2.0
+* Add - Added compatibility of wholesale prices when order created from admin panel.
+* Add - Added hide price and add to cart feature.
+* Add - Added compatibility of include and exclude tax variables.
+
+2021-03-12 - version 1.1.1
+* Fix - Fixed category prices application issue.
+* Add - Added custom columns for CSV export on the product level.
+
+2021-02-23 - version 1.1.0
+* Feature - Feature added, Ability to add backend order using the wholesale prices.
+
+2021-02-15 - version 1.0.0
+* Other - Initial release of the plugin.

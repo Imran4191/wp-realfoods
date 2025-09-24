@@ -1,0 +1,52 @@
+.bwip-stock-manager-form {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.bwip-stock-manager-form label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.toplevel_page_bwip-stock-manager .wp-list-table {
+    margin-top: 20px;
+}
+
+.toplevel_page_bwip-stock-manager .wp-list-table th {
+    background-color: #555;
+    color: #fff !important;
+    padding: 12px;
+    text-align: left;
+}
+
+.toplevel_page_bwip-stock-manager .wp-list-table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.toplevel_page_bwip-stock-manager .wp-list-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.toplevel_page_bwip-stock-manager .wp-list-table tbody tr td a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.toplevel_page_bwip-stock-manager .wp-list-table tbody tr td a:hover {
+    text-decoration: underline;
+}
+
+.toplevel_page_bwip-stock-manager .pagination {
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.toplevel_page_bwip-stock-manager .page-numbers {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 0 5px;
+}

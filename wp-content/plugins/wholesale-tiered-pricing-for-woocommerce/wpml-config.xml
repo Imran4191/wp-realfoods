@@ -1,0 +1,10 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">af_wholesale_price</custom-type>
+  </custom-types>
+  <admin-texts>
+    <key name="addify_wsp_max_qty_error_msg"/>
+    <key name="addify_wsp_min_qty_error_msg"/>
+    <key name="wsp_price_text"/>
+  </admin-texts>
+</wpml-config>

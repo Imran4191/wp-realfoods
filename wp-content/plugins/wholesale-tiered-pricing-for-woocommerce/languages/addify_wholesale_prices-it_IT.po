@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Wholesale and Tier Prices\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-20 11:19+0000\n"
+"PO-Revision-Date: 2024-05-20 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: addify_wholesale_prices"
+
+#: afwsp_import_prices.php:105
+msgid ""
+"Add email address of the customer for which might want to add prices. If you "
+"need to import prices by user role any, please leave this empty."
+msgstr ""
+
+#: af_wholesale_prices.php:174
+msgid "Add New Rule"
+msgstr ""
+
+#: af_wholesale_prices.php:175 afwsp_product_level.php:142
+#: afwsp_product_level.php:300 afwsp_product_level_variable_product.php:135
+#: afwsp_product_level_variable_product.php:268 afwsp_rule_level.php:211
+#: afwsp_rule_level.php:353
+msgid "Add Rule"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wholesale Pricing for WooCommerce by Addify enables you to add quantity based product pricing based on specific customers and user roles."
+msgstr ""
+
+#: wsp_hide_price.php:97
+msgid "Add to Cart Button Link"
+msgstr ""
+
+#: wsp_hide_price.php:89
+msgid "Add to Cart Button Text"
+msgstr ""
+
+#. Author of the plugin
+msgid "Addify"
+msgstr ""
+
+#: afwsp_product_level.php:25 afwsp_product_level.php:174
+#: afwsp_product_level_variable_product.php:21
+#: afwsp_product_level_variable_product.php:149 afwsp_rule_level.php:94
+#: afwsp_rule_level.php:226
+msgid "Adjustment Type"
+msgstr ""
+
+#: afwsp_import_prices.php:108
+msgid "Adjustment Type: "
+msgstr ""
+
+#: afwsp_import_prices.php:43
+msgid "Adjustment/Discount Type"
+msgstr ""
+
+#: afwsp_rule_level.php:19
+msgid "Apply on All Products"
+msgstr ""
+
+#: afwsp_admin_class.php:1355
+msgid "Before Add to Cart"
+msgstr ""
+
+#: afwsp_admin_class.php:1143
+msgid "List Background Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1128
+msgid "List Border Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1158
+msgid "List Text Color"
+msgstr ""
+
+#: afwsp_import_prices.php:114
+msgid "Cautions:"
+msgstr ""
+
+#: afwsp_rule_level.php:25
+msgid "Check this if you want to apply this rule on all products."
+msgstr ""
+
+#: afwsp_admin_class.php:1148
+msgid "Choose List background color"
+msgstr ""
+
+#: afwsp_admin_class.php:1133
+msgid "Choose List border color"
+msgstr ""
+
+#: afwsp_admin_class.php:1163
+msgid "Choose List text color"
+msgstr ""
+
+#: afwsp_admin_class.php:1631
+msgid ""
+"Choose on which price wholesale tiered pricing should be applied i.e product "
+"regular price or sale price."
+msgstr ""
+
+#: afwsp_admin_class.php:1287
+msgid "Choose Sale Tag Background Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1303
+msgid "Choose Sale Tag Text Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1179
+msgid "Choose Selected List background color"
+msgstr ""
+
+#: afwsp_admin_class.php:1194
+msgid "Choose Selected List text color"
+msgstr ""
+
+#: afwsp_admin_class.php:1256
+msgid "Choose Selected Card border color"
+msgstr ""
+
+#: afwsp_admin_class.php:1086
+msgid "Choose table border color."
+msgstr ""
+
+#: afwsp_admin_class.php:1039
+msgid "Choose table even rows background color."
+msgstr ""
+
+#: afwsp_admin_class.php:1055
+msgid "Choose table even rows text color."
+msgstr ""
+
+#: afwsp_admin_class.php:979
+msgid "Choose table header background color."
+msgstr ""
+
+#: afwsp_admin_class.php:994
+msgid "Choose table header text color."
+msgstr ""
+
+#: afwsp_admin_class.php:1009
+msgid "Choose table odd rows background color."
+msgstr ""
+
+#: afwsp_admin_class.php:1024
+msgid "Choose table odd rows text color."
+msgstr ""
+
+#: afwsp_admin_class.php:1225
+msgid "Choose Card background color"
+msgstr ""
+
+#: afwsp_admin_class.php:1210
+msgid "Choose Card border color"
+msgstr ""
+
+#: afwsp_admin_class.php:1240
+msgid "Choose Card text color"
+msgstr ""
+
+#: afwsp_import_prices.php:110
+msgid ""
+"Choose to replace to display new price as special price along with existing "
+"one or just show the new price by replacing the existing one."
+msgstr ""
+
+#: afwsp_import_prices.php:30
+msgid "CSV file must be in this format."
+msgstr ""
+
+#: afwsp_product_level.php:24 afwsp_product_level_variable_product.php:20
+#: afwsp_rule_level.php:93
+msgid "Customer"
+msgstr ""
+
+#: afwsp_import_prices.php:40
+msgid "Customer Email"
+msgstr ""
+
+#: afwsp_import_prices.php:105
+msgid "Customer Email: "
+msgstr ""
+
+#: afwsp_admin_class.php:795
+msgid "Disable Coupon"
+msgstr ""
+
+#: afwsp_import_prices.php:44
+msgid "Discount Price/Value"
+msgstr ""
+
+#: afwsp_import_prices.php:109
+msgid "Discount Price: "
+msgstr ""
+
+#: af_wholesale_prices.php:176
+msgid "Edit Rule"
+msgstr ""
+
+#: wsp_hide_price.php:16
+msgid "Enable Hide Price & Add to Cart"
+msgstr ""
+
+#: afwsp_admin_class.php:1071
+msgid "Enable if do you want to use table border as a separator."
+msgstr ""
+
+#: afwsp_admin_class.php:1267
+msgid "Enable Sale Tag"
+msgstr ""
+
+#: afwsp_admin_class.php:1272
+msgid "Enable Sale tag for card."
+msgstr ""
+
+#: afwsp_admin_class.php:1066
+msgid "Enable Table Border"
+msgstr ""
+
+#: afwsp_admin_class.php:881
+msgid "Enable Template Heading"
+msgstr ""
+
+#: afwsp_admin_class.php:926
+msgid "Enable Template Icon"
+msgstr ""
+
+#: afwsp_admin_class.php:886
+msgid "Enable the heading for template."
+msgstr ""
+
+#: afwsp_admin_class.php:931
+msgid "Enable the icon for template."
+msgstr ""
+
+#: afwsp_admin_class.php:750
+msgid "Enable Tiered Pricing Template"
+msgstr ""
+
+#: afwsp_admin_class.php:755
+msgid ""
+"Enable tiered pricing template(table / list /card) on the product page."
+msgstr ""
+
+#: afwsp_admin_class.php:780
+msgid "Enforce Min & Max Quantity"
+msgstr ""
+
+#: afwsp_admin_class.php:956
+msgid "Enter Font Family for Template"
+msgstr ""
+
+#: afwsp_admin_class.php:916
+msgid ""
+"Enter font size for template heading, by default theme values will be "
+"inherted."
+msgstr ""
+
+#: afwsp_admin_class.php:901
+msgid "Enter template heading text."
+msgstr ""
+
+#: afwsp_product_level.php:217 afwsp_product_level.php:431
+#: afwsp_product_level_variable_product.php:189
+#: afwsp_product_level_variable_product.php:406 afwsp_rule_level.php:270
+#: afwsp_rule_level.php:487
+msgid "Everyone"
+msgstr ""
+
+#: afwsp_import_prices.php:10
+msgid "Export Product Prices"
+msgstr ""
+
+#: afwsp_front_ajax_controller_class.php:20
+msgid "Failed security check!"
+msgstr ""
+
+#: afwsp_import_prices.php:32
+msgid "File Format:"
+msgstr ""
+
+#: afwsp_import_prices_function.php:44
+msgid "File type is not allowed."
+msgstr ""
+
+#: afwsp_product_level.php:84 afwsp_product_level.php:242
+#: afwsp_product_level.php:334 afwsp_product_level.php:455
+#: afwsp_product_level_variable_product.php:80
+#: afwsp_product_level_variable_product.php:213
+#: afwsp_product_level_variable_product.php:303
+#: afwsp_product_level_variable_product.php:432 afwsp_rule_level.php:153
+#: afwsp_rule_level.php:295 afwsp_rule_level.php:388 afwsp_rule_level.php:511
+msgid "Fixed Decrease"
+msgstr ""
+
+#: afwsp_product_level.php:83 afwsp_product_level.php:241
+#: afwsp_product_level.php:333 afwsp_product_level.php:454
+#: afwsp_product_level_variable_product.php:79
+#: afwsp_product_level_variable_product.php:212
+#: afwsp_product_level_variable_product.php:302
+#: afwsp_product_level_variable_product.php:431 afwsp_rule_level.php:152
+#: afwsp_rule_level.php:294 afwsp_rule_level.php:387 afwsp_rule_level.php:510
+msgid "Fixed Increase"
+msgstr ""
+
+#: afwsp_product_level.php:82 afwsp_product_level.php:240
+#: afwsp_product_level.php:332 afwsp_product_level.php:453
+#: afwsp_product_level_variable_product.php:78
+#: afwsp_product_level_variable_product.php:211
+#: afwsp_product_level_variable_product.php:301
+#: afwsp_product_level_variable_product.php:430 afwsp_rule_level.php:151
+#: afwsp_rule_level.php:293 afwsp_rule_level.php:386 afwsp_rule_level.php:509
+msgid "Fixed Price"
+msgstr ""
+
+#: afwsp_admin_class.php:1101
+msgid "Font size for table header, by default theme values will be inherted."
+msgstr ""
+
+#: afwsp_admin_class.php:1116
+msgid "Font size for table rows, by default theme values will be inherted."
+msgstr ""
+
+#: afwsp_admin_class.php:694
+msgid "General Settings"
+msgstr ""
+
+#: afwsp_admin_class.php:1666 afwsp_product_level.php:230
+#: afwsp_product_level.php:443 afwsp_product_level_variable_product.php:201
+#: afwsp_product_level_variable_product.php:418 afwsp_rule_level.php:283
+#: afwsp_rule_level.php:499
+msgid "Guest"
+msgstr ""
+
+#: wsp_hide_price.php:81
+msgid "Hide Add to Cart Button"
+msgstr ""
+
+#: wsp_hide_price.php:22
+msgid "Hide for Guest Users"
+msgstr ""
+
+#: wsp_hide_price.php:27
+msgid "Hide for Registered Users"
+msgstr ""
+
+#: wsp_hide_price.php:65 afwsp_admin_class.php:2516
+msgid "Hide Price"
+msgstr ""
+
+#: wsp_hide_price.php:8
+msgid "Hide Price & Add to Cart"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://woocommerce.com/products/wholesale-tiered-pricing-for-woocommerce"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com/vendor/addify/"
+msgstr ""
+
+#: wsp_hide_price.php:84
+msgid ""
+"If this option is checked then Add To Cart button is hidden on the archive "
+"and product pages."
+msgstr ""
+
+#: wsp_hide_price.php:68
+msgid ""
+"If this option is checked then Price is hidden on the archive and product "
+"pages. The price will not be hidden in cart. If you enable the \"Add to "
+"Cart\" Button. "
+msgstr ""
+
+#: afwsp_admin_class.php:785
+msgid ""
+"If this option is enabled, the user will not be allowed to add to cart "
+"beyond the minimum and maximum quantity."
+msgstr ""
+
+#: afwsp_admin_class.php:800
+msgid ""
+"If this option is enabled, then coupon will be disabled if cart contains "
+"product on which price rule applied."
+msgstr ""
+
+#: afwsp_admin_class.php:2520
+msgid "Import / Export Prices"
+msgstr ""
+
+#: afwsp_import_prices.php:8
+msgid "Import / Export Product Prices"
+msgstr ""
+
+#: afwsp_import_prices.php:129
+msgid "Import CSV"
+msgstr ""
+
+#: afwsp_import_prices.php:118
+msgid "Import prices using CSV file only."
+msgstr ""
+
+#: afwsp_import_prices.php:28
+msgid "Import Product Prices"
+msgstr ""
+
+#: afwsp_product_level.php:6 afwsp_product_level.php:156
+#: afwsp_product_level_variable_product.php:3
+msgid "Important Notes:"
+msgstr ""
+
+#: afwsp_import_prices.php:98
+msgid "Instructions:"
+msgstr ""
+
+#: afwsp_import_prices.php:155
+msgid "Invalid file type, Only csv file is allowed."
+msgstr ""
+
+#: afwsp_import_prices_function.php:63
+msgid "Invalid Path."
+msgstr ""
+
+#: afwsp_admin_class.php:1341
+msgid "Manage wholesale prices plugin general settings from here."
+msgstr ""
+
+#: afwsp_product_level.php:28 afwsp_product_level.php:177
+#: afwsp_product_level_variable_product.php:24
+#: afwsp_product_level_variable_product.php:152 afwsp_rule_level.php:97
+#: afwsp_rule_level.php:229
+msgid "Max Qty"
+msgstr ""
+
+#: afwsp_admin_class.php:825
+msgid "Max Qty Error Message"
+msgstr ""
+
+#: afwsp_product_level.php:27 afwsp_product_level.php:176
+#: afwsp_product_level_variable_product.php:23
+#: afwsp_product_level_variable_product.php:151 afwsp_rule_level.php:96
+#: afwsp_rule_level.php:228
+msgid "Min Qty"
+msgstr ""
+
+#: afwsp_admin_class.php:810
+msgid "Min Qty Error Message"
+msgstr ""
+
+#: af_wholesale_prices.php:135
+msgid ""
+"must be active for this plugin to work. Please install &amp; activate "
+"WooCommerce."
+msgstr ""
+
+#: af_wholesale_prices.php:177
+msgid "New Rule"
+msgstr ""
+
+#: af_wholesale_prices.php:181
+msgid "No rule found"
+msgstr ""
+
+#: af_wholesale_prices.php:182
+msgid "No rule found in trash"
+msgstr ""
+
+#: afwsp_product_level.php:85 afwsp_product_level.php:243
+#: afwsp_product_level.php:335 afwsp_product_level.php:456
+#: afwsp_product_level_variable_product.php:81
+#: afwsp_product_level_variable_product.php:214
+#: afwsp_product_level_variable_product.php:304
+#: afwsp_product_level_variable_product.php:433 afwsp_rule_level.php:154
+#: afwsp_rule_level.php:296 afwsp_rule_level.php:389 afwsp_rule_level.php:512
+msgid "Percentage Decrease"
+msgstr ""
+
+#: afwsp_product_level.php:86 afwsp_product_level.php:244
+#: afwsp_product_level.php:336 afwsp_product_level.php:457
+#: afwsp_product_level_variable_product.php:82
+#: afwsp_product_level_variable_product.php:215
+#: afwsp_product_level_variable_product.php:305
+#: afwsp_product_level_variable_product.php:434 afwsp_rule_level.php:155
+#: afwsp_rule_level.php:297 afwsp_rule_level.php:390 afwsp_rule_level.php:513
+msgid "Percentage Increase"
+msgstr ""
+
+#: afwsp_import_prices.php:104
+msgid ""
+"Please add the user role ID/Value. For example the admin user roles is "
+"usually administrator, Shop Manager has shop_manager. No Caps and spaces!"
+msgstr ""
+
+#: afwsp_import_prices.php:117
+msgid ""
+"Please do not add empty rows like if you are not adding price for specific "
+"product, please remove its row."
+msgstr ""
+
+#: afwsp_import_prices.php:164
+msgid "Please upload a CSV file."
+msgstr ""
+
+#: afwsp_import_prices.php:108
+msgid ""
+"Please use the values as fixed_price, fixed_increase, fixed_decrease, "
+"percentage_decrease, percentage_increase."
+msgstr ""
+
+#: afwsp_admin_class.php:1325
+msgid "Price setting by user role"
+msgstr ""
+
+#: afwsp_admin_class.php:698
+msgid "Price Settings"
+msgstr ""
+
+#: afwsp_product_level.php:10 afwsp_product_level.php:160
+#: afwsp_product_level_variable_product.php:7
+msgid "Price Specific to a Customer"
+msgstr ""
+
+#: afwsp_product_level.php:11 afwsp_product_level.php:161
+#: afwsp_product_level_variable_product.php:8
+msgid "Price Specific to a Role"
+msgstr ""
+
+#: wsp_hide_price.php:73
+msgid "Price Text"
+msgstr ""
+
+#: afwsp_admin_class.php:2674
+msgid "Prices imported successfully."
+msgstr ""
+
+#: afwsp_product_level.php:8 afwsp_product_level.php:158
+#: afwsp_product_level_variable_product.php:5
+msgid "Pricing Priority:"
+msgstr ""
+
+#: afwsp_admin_class.php:696
+msgid "Pricing Template Settings"
+msgstr ""
+
+#: afwsp_import_prices.php:36
+msgid "Product ID"
+msgstr ""
+
+#: afwsp_import_prices.php:100
+msgid "Product ID: "
+msgstr ""
+
+#: afwsp_import_prices.php:38
+msgid "Product Name"
+msgstr ""
+
+#: afwsp_import_prices.php:103
+msgid ""
+"Product name can be added as the third column for reference. Just like SKU "
+"this won’t be used by extension while importing prices."
+msgstr ""
+
+#: afwsp_import_prices.php:103
+msgid "Product Name: "
+msgstr ""
+
+#: afwsp_rule_level.php:14
+msgid ""
+"Provide number between 0 and 100, If more than one rules are applied on same "
+"item then rule with higher priority will be applied. 1 is high and 100 is "
+"low."
+msgstr ""
+
+#: afwsp_import_prices.php:41
+msgid "Quantity From(min qty)"
+msgstr ""
+
+#: afwsp_import_prices.php:106
+msgid "Quantity From: "
+msgstr ""
+
+#: afwsp_import_prices.php:42
+msgid "Quantity To(max qty)"
+msgstr ""
+
+#: afwsp_import_prices.php:107
+msgid "Quantity To: "
+msgstr ""
+
+#: afwsp_admin_class.php:1654 afwsp_admin_class.php:1670
+msgid "Regular Price"
+msgstr ""
+
+#: afwsp_product_level.php:12 afwsp_product_level.php:162
+#: afwsp_product_level_variable_product.php:9
+msgid "Regular Product Price"
+msgstr ""
+
+#: afwsp_admin_class.php:1465
+msgid "Remove Image"
+msgstr ""
+
+#: afwsp_product_level.php:29 afwsp_product_level.php:178
+#: afwsp_product_level_variable_product.php:25
+#: afwsp_product_level_variable_product.php:153 afwsp_rule_level.php:98
+#: afwsp_rule_level.php:230
+msgid "Replace"
+msgstr ""
+
+#: afwsp_product_level.php:31 afwsp_product_level.php:180
+#: afwsp_product_level_variable_product.php:27
+#: afwsp_product_level_variable_product.php:155 afwsp_rule_level.php:100
+#: afwsp_rule_level.php:232
+msgid ""
+"Replace original price. This will only work for Fixed Price, Fixed Decrease "
+"and Percentage Decrease."
+msgstr ""
+
+#: afwsp_import_prices.php:45
+msgid "Replace Orignal Price"
+msgstr ""
+
+#: afwsp_import_prices.php:110
+msgid "Replace Orignal Price: "
+msgstr ""
+
+#: afwsp_admin_class.php:474
+msgid "Rule Details"
+msgstr ""
+
+#: afwsp_rule_level.php:10
+msgid "Rule Priority"
+msgstr ""
+
+#: afwsp_admin_class.php:2512
+msgid "Rules"
+msgstr ""
+
+#: afwsp_admin_class.php:1655 afwsp_admin_class.php:1671
+msgid "Sale Price"
+msgstr ""
+
+#: afwsp_admin_class.php:1282
+msgid "Sale Tag Background Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1298
+msgid "Sale Tag Text Color"
+msgstr ""
+
+#: wsp_hide_price.php:369 afwsp_admin_class.php:729
+msgid "Save Settings"
+msgstr ""
+
+#: af_wholesale_prices.php:179
+msgid "Search Rule"
+msgstr ""
+
+#: afwsp_admin_class.php:2660 afwsp_import_prices_function.php:8
+msgid "Security Violated."
+msgstr ""
+
+#: wsp_hide_price.php:133 afwsp_rule_level.php:64
+msgid "Select Categories"
+msgstr ""
+
+#: wsp_hide_price.php:358
+msgid ""
+"Select Categories for which Products you want to hide price and add to cart."
+msgstr ""
+
+#: wsp_hide_price.php:106 afwsp_rule_level.php:30
+msgid "Select Products"
+msgstr ""
+
+#: wsp_hide_price.php:127
+msgid "Select Products for which you want to hide price and add to cart."
+msgstr ""
+
+#: afwsp_admin_class.php:869
+msgid "Select the wholesale pricing design template."
+msgstr ""
+
+#: wsp_hide_price.php:32
+msgid "Select User Roles"
+msgstr ""
+
+#: wsp_hide_price.php:59
+msgid ""
+"Select User Roles for which users you want to hide price and add to cart on "
+"frontend. If no user role is selected then price and add to cart will not be "
+"hidden for registered users."
+msgstr ""
+
+#: afwsp_admin_class.php:1174
+msgid "Selected List Background Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1189
+msgid "Selected List Text Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1251
+msgid "Selected Card Border Color"
+msgstr ""
+
+#: af_wholesale_prices.php:123 afwsp_admin_class.php:2524
+msgid "Settings"
+msgstr ""
+
+#: afwsp_admin_class.php:2421
+msgid "Settings saved successfully."
+msgstr ""
+
+#: afwsp_import_prices.php:37
+msgid "SKU"
+msgstr ""
+
+#: afwsp_import_prices.php:102
+msgid "SKU: "
+msgstr ""
+
+#: afwsp_admin_class.php:961
+msgid ""
+"Specify the font family for the template text, or leave it blank to use the "
+"website's default font family."
+msgstr ""
+
+#: afwsp_import_prices.php:102
+msgid ""
+"Stock keeping unit can be added as the second column for your reference as "
+"it won’t be used by extension while importing."
+msgstr ""
+
+#: afwsp_admin_class.php:1356
+msgid "Tab"
+msgstr ""
+
+#: afwsp_admin_class.php:1081
+msgid "Table Border Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1034
+msgid "Table Even Rows Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1050
+msgid "Table Even Rows Text Color"
+msgstr ""
+
+#: afwsp_admin_class.php:974
+msgid "Table Header Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1096
+msgid "Table Header Font Size"
+msgstr ""
+
+#: afwsp_admin_class.php:989
+msgid "Table Header Text Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1004
+msgid "Table Odd Rows Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1019
+msgid "Table Odd Rows Text Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1111
+msgid "Table Rows Font Size"
+msgstr ""
+
+#: afwsp_admin_class.php:911
+msgid "Template Heading Font Size"
+msgstr ""
+
+#: afwsp_admin_class.php:896
+msgid "Template Heading Text"
+msgstr ""
+
+#: afwsp_import_prices.php:109
+msgid ""
+"The value will be considered as percentage value when percentage price "
+"adjustment is applied and when its fixed price, fixed increase or decrease, "
+"this will be considered as a number value."
+msgstr ""
+
+#: afwsp_import_prices.php:107
+msgid ""
+"This is the maximum quantity at the prices will be applicable. If you want "
+"to add same price for no matter the quantity, please leave this empty."
+msgstr ""
+
+#: afwsp_import_prices.php:106
+msgid ""
+"This is the minimum required quantity number to add prices. If you want to "
+"add same price for no matter the quantity, please leave this empty."
+msgstr ""
+
+#: wsp_hide_price.php:100
+msgid "This link will replace Add to Cart Button link."
+msgstr ""
+
+#: wsp_hide_price.php:76
+msgid "This text will be shown in place of price in archive and product pages."
+msgstr ""
+
+#: wsp_hide_price.php:92
+msgid "This text will be shown in place of text of Add to Cart Button."
+msgstr ""
+
+#: afwsp_admin_class.php:1220
+msgid "Card Background Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1205
+msgid "Card Border Color"
+msgstr ""
+
+#: afwsp_admin_class.php:1235
+msgid "Card Text Color"
+msgstr ""
+
+#: afwsp_import_prices.php:100
+msgid ""
+"Unique product identifier, this is required as the extension will import "
+"prices based on product and variation IDs."
+msgstr ""
+
+#: afwsp_admin_class.php:840
+msgid "Update Cart Error Message"
+msgstr ""
+
+#. %s File Type
+#: afwsp_import_prices_function.php:24
+msgid "Upload a CSV file to import."
+msgstr ""
+
+#: afwsp_import_prices.php:123
+msgid "Upload CSV File"
+msgstr ""
+
+#: afwsp_admin_class.php:1464
+msgid "Upload Image"
+msgstr ""
+
+#: afwsp_admin_class.php:941
+msgid "Upload Template Icon"
+msgstr ""
+
+#: afwsp_admin_class.php:946
+msgid "Upload the icon for template. Leave it blank to use deafult icon."
+msgstr ""
+
+#: afwsp_import_prices.php:39 afwsp_product_level.php:173
+#: afwsp_product_level_variable_product.php:148 afwsp_rule_level.php:225
+msgid "User Role"
+msgstr ""
+
+#: afwsp_import_prices.php:104
+msgid "User Role: "
+msgstr ""
+
+#: afwsp_product_level.php:26 afwsp_product_level.php:175
+#: afwsp_product_level_variable_product.php:22
+#: afwsp_product_level_variable_product.php:150 afwsp_rule_level.php:95
+#: afwsp_rule_level.php:227
+msgid "Value"
+msgstr ""
+
+#: af_wholesale_prices.php:178
+msgid "View Rule"
+msgstr ""
+
+#: afwsp_import_prices.php:116
+msgid ""
+"When importing the existing prices will be removed. For example, if the "
+"import sheet includes prices for Album, the existing role based prices for "
+"album will be removed and the new prices will be added using CSV."
+msgstr ""
+
+#: af_wholesale_prices.php:184 af_wholesale_prices.php:185
+#: afwsp_admin_class.php:2595 afwsp_admin_class.php:2596
+#: afwsp_admin_class.php:2609 afwsp_admin_class.php:2610
+#: afwsp_admin_class.php:2624 afwsp_admin_class.php:2625
+#: afwsp_admin_class.php:2638 afwsp_admin_class.php:2639
+msgid "Wholesale Prices"
+msgstr ""
+
+#: afwsp_product_level.php:19 afwsp_product_level_variable_product.php:15
+#: afwsp_rule_level.php:87
+msgid "Wholesale Prices (By Customers)"
+msgstr ""
+
+#: afwsp_product_level.php:168 afwsp_product_level_variable_product.php:143
+#: afwsp_rule_level.php:220
+msgid "Wholesale Prices (By User Roles)"
+msgstr ""
+
+#: af_wholesale_prices.php:135
+msgid "Wholesale Prices for WooCommerce plugin is inactive."
+msgstr ""
+
+#: af_wholesale_prices.php:172 af_wholesale_prices.php:173
+msgid "Wholesale Prices Rules"
+msgstr ""
+
+#: afwsp_admin_class.php:321
+msgid "Wholesale Prices(By Customers)"
+msgstr ""
+
+#: afwsp_admin_class.php:328
+msgid "Wholesale Prices(By User Roles)"
+msgstr ""
+
+#: afwsp_admin_class.php:864
+msgid "Wholesale Pricing Design"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Wholesale and Tier Prices"
+msgstr ""
+
+#: afwsp_product_level.php:34 afwsp_product_level.php:117
+#: afwsp_product_level.php:183 afwsp_product_level.php:275
+#: afwsp_product_level.php:369 afwsp_product_level.php:490
+#: afwsp_product_level_variable_product.php:30
+#: afwsp_product_level_variable_product.php:158
+#: afwsp_product_level_variable_product.php:338
+#: afwsp_product_level_variable_product.php:467 afwsp_rule_level.php:103
+#: afwsp_rule_level.php:186 afwsp_rule_level.php:235 afwsp_rule_level.php:328
+#: afwsp_rule_level.php:423 afwsp_rule_level.php:546
+msgid "X"
+msgstr ""
+
+#: afwsp_import_prices_function.php:12
+msgid "You are not allowed to upload_files."
+msgstr ""

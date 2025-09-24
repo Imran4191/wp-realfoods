@@ -1,0 +1,34 @@
+#cfw-payment-request-buttons {
+
+    #wc-stripe-payment-request-wrapper {
+        padding-top: 0 !important;
+        margin-top: 0 !important;
+        clear: none !important;
+        order: 2;
+        width: 140px;
+    }
+
+    #wc-stripe-payment-request-button {
+        iframe {
+            height: 42px !important;
+            max-height: 42px !important;
+            min-height: 42px !important;
+        }
+    }
+
+}
+
+#cfw-payment-request-buttons {
+    #wc-stripe-payment-request-button-separator, #wc-stripe-express-checkout-button-separator {
+        display: none !important;
+    }
+}
+
+/**
+ Firefox fix
+ */
+@supports (-moz-appearance:none) {
+    .woocommerce-checkout #payment ul.payment_methods li img.stripe-icon {
+        min-width: 40px;
+    }
+}

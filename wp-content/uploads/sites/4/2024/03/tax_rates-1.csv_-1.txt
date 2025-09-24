@@ -1,0 +1,30 @@
+Country code,State code,Postcode / ZIP,City,Rate %,Tax name,Priority,Compound,Shipping,Tax class
+AT,,,,20,RRFEU VAT - Austria - Standard Rate,1,0,0,RRFEU VAT - Standard
+BE,,,,21,RRFEU VAT - Belgium - Standard Rate,1,0,0,RRFEU VAT - Standard
+BG,,,,20,RRFEU VAT - Bulgaria - Standard Rate,1,0,0,RRFEU VAT - Standard
+CH,,,,0,Switzerland,1,0,0,RRFEU VAT - Standard
+CY,,,,19,RRFEU VAT - Cyprus - Standard Rate,1,0,0,RRFEU VAT - Standard
+CZ,,,,21,RRFEU VAT - Czechia - Standard Rate,1,0,0,RRFEU VAT - Standard
+DE,,,,19,RRFEU VAT - Germany - Standard Rate,1,0,0,RRFEU VAT - Standard
+DK,,,,25,RRFEU VAT - Denmark - Standard Rate,1,0,0,RRFEU VAT - Standard
+EE,,,,20,RRFEU VAT - Estonia - Standard Rate,1,0,0,RRFEU VAT - Standard
+ES,,,,21,RRFEU VAT - Spain - Standard Rate,1,0,0,RRFEU VAT - Standard
+FI,,,,24,RRFEU VAT - Finland - Standard Rate,1,0,0,RRFEU VAT - Standard
+FR,,,,20,RRFEU VAT - France - Standard Rate,1,0,0,RRFEU VAT - Standard
+GR,,,,24,RRFEU VAT - Greece - Standard Rate,1,0,0,RRFEU VAT - Standard
+HR,,,,25,RRFEU VAT - Croatia - Standard Rate,1,0,0,RRFEU VAT - Standard
+HU,,,,27,RRFEU VAT - Hungary - Standard Rate,1,0,0,RRFEU VAT - Standard
+IE,,,,23,RRFEU VAT - Ireland - Standard Rate,1,0,0,RRFEU VAT - Standard
+IT,,,,22,RRFEU VAT - Italy - Standard Rate,1,0,0,RRFEU VAT - Standard
+LT,,,,21,RRFEU VAT - Lithuania - Standard Rate,1,0,0,RRFEU VAT - Standard
+LU,,,,17,RRFEU VAT - Luxembourg - Standard Rate,1,0,0,RRFEU VAT - Standard
+LV,,,,21,RRFEU VAT - Latvia - Standard Rate,1,0,0,RRFEU VAT - Standard
+MT,,,,18,RRFEU VAT - Malta - Standard Rate,1,0,0,RRFEU VAT - Standard
+NL,,,,21,RRFEU VAT - Netherlands - Standard Rate,1,0,0,RRFEU VAT - Standard
+NO,,,,0,Norway,1,0,0,RRFEU VAT - Standard
+PL,,,,23,RRFEU VAT - Poland - Standard Rate,1,0,0,RRFEU VAT - Standard
+PT,,,,23,RRFEU VAT - Portugal - Standard Rate,1,0,0,RRFEU VAT - Standard
+RO,,,,19,RRFEU VAT - Romania - Standard Rate,1,0,0,RRFEU VAT - Standard
+SE,,,,25,RRFEU VAT - Sweden - Standard Rate,1,0,0,RRFEU VAT - Standard
+SI,,,,22,RRFEU VAT - Slovenia - Standard Rate,1,0,0,RRFEU VAT - Standard
+SK,,,,20,RRFEU VAT - Slovak Republic - Standard Rate,1,0,0,RRFEU VAT - Standard

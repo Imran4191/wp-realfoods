@@ -1,0 +1,27 @@
+.elementor-14538 .elementor-element.elementor-element-64aadc9{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-14538 .elementor-element.elementor-element-bda81a6{--display:flex;--background-transition:0.3s;}.elementor-14538 .elementor-element.elementor-element-6d76877{--display:flex;--background-transition:0.3s;}.elementor-14538 .elementor-element.elementor-element-6d40a77{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}/* Start custom CSS */.contact-us-page .e-con-inner {
+    max-width: 100%;
+    margin-top: -3rem;
+}
+.elementor-element.contact-us-page.e-flex.e-con-boxed.e-con.e-parent {
+    padding: 0;
+}
+@media (max-width: 767px){
+    .contact-us-page div.wpforms-container-full {
+        margin: -3rem 0rem !important;
+    }
+    .form-heading.text-center {
+    top: 1rem;
+    }
+ .wpforms-container.wpforms-container-full .wpforms-confirmation-container-full{
+    max-width:70%;
+ }
+
+}
+.container.contact_box {
+    margin-top: -4rem;
+}
+@media (max-width: 1080px) and (min-width: 768px){
+.elementor-element.e-flex.e-con-boxed.e-con.e-child {
+    padding: 0;
+}
+}/* End custom CSS */

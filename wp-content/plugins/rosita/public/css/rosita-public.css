@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ #cfw-totals-list table tr.order-total .includes_tax {
+    display: none !important;
+}

@@ -1,0 +1,866 @@
+body.um-page-register {
+  background-color: #ebebec;
+}
+
+body.um-page-register .site-content:before {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  display: block;
+  content: " ";
+  background-image: url(../images/watermark_grey.svg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 100%;
+  background-size: 20%;
+  opacity: 0.03;
+}
+
+body.um-page-register footer#colophon .footer-width-fixer .elementor-element.page-footer {
+  background-color: #ebebec;
+  background-image: url(../images/footerbg-new.png);
+}
+
+#rosita-customer-registration {
+  padding: 9rem 0 0 0;
+}
+
+#rosita-customer-registration .um.um-register {
+  margin-bottom: 0 !important;
+}
+
+#rosita-customer-registration .um-form {
+  padding: 0 2rem;
+}
+
+#rosita-customer-registration .um-form form {
+  margin: 0;
+}
+
+#rosita-customer-registration .um-row-heading {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #333333;
+  border-bottom: solid 1px #c6c6c6 !important;
+}
+
+#rosita-customer-registration .customer-account-type .um-field-area {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+#rosita-customer-registration .customer-account-type .um-field-area>label {
+  width: 19%;
+  cursor: pointer;
+}
+
+#rosita-customer-registration .customer-account-type .um-field-area>label .um-field-radio-option {
+  display: inline-block;
+  padding: 1rem;
+  background-color: white;
+  color: #434343 !important;
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#rosita-customer-registration .customer-account-type .um-field-area>label.active .um-field-radio-option {
+  background-color: #09b0a9;
+  color: #ffffff !important;
+}
+
+#rosita-customer-registration .customer-billing-address .um-field-different_billing_shipping .um-field-checkbox-option {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+}
+
+#rosita-customer-registration .um-field .um-field-label label {
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.2rem !important;
+}
+
+#rosita-customer-registration .customer-newsletter .um-field-checkbox-option {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #000000 !important;
+  line-height: 1.5;
+}
+
+#rosita-customer-registration .customer-newsletter .um-field-checkbox-option a {
+  color: #05b1a9;
+}
+
+#rosita-customer-registration .customer-pensioner-information .um-field-pensioner_identification .um-field-area,
+#rosita-customer-registration .customer-practitioner-information .um-field-practitioner_certificate .um-field-area {
+  text-align: left !important;
+}
+
+#rosita-customer-registration .customer-practitioner-information .um-field-practitioner_how_long .um-field-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#rosita-customer-registration .customer-practitioner-information .um-field-practitioner_how_long .um-field-area label {
+  display: inline-block;
+}
+
+#rosita-customer-registration input[type="password"]::placeholder {
+  color: transparent;
+}
+
+#rosita-customer-registration .um a.um-button {
+  background-color: #05b1a9;
+  color: #ffffff !important;
+  border-radius: 0;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#rosita-customer-registration .um-field-checkbox-option,
+#rosita-customer-registration .um-field-radio-option {
+  color: #000000 !important;
+}
+
+#rosita-customer-registration .um-field-checkbox-state i,
+#rosita-customer-registration .um-field-radio-state i {
+  color: #000000 !important;
+}
+
+#rosita-customer-registration input[type="submit"]#um-submit-btn {
+  background-color: #05b1a9;
+  color: #ffffff !important;
+  border-radius: 0 !important;
+  border: none !important;
+  padding: 1rem 2rem;
+  font-size: 1.6rem;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  width: 100% !important;
+}
+
+#rosita-customer-registration .um-field .g-recaptcha {
+  margin: 0 !important;
+}
+
+#rosita-customer-registration table:not(.has-background) th,
+#rosita-customer-registration table:not(.has-background) tbody td {
+  background-color: transparent !important;
+}
+
+#rosita-customer-registration .um-field-error {
+  background-color: transparent;
+  font-size: 1.2rem;
+  color: #e02b27;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+#rosita-customer-registration .um-field-error .um-field-arrow {
+  display: none;
+}
+
+#rosita-customer-registration .um .um-tip {
+  color: #05b1a9;
+}
+
+.um .tipsy-arrow-w {
+  border-right-color: #05b1a9 !important;
+}
+
+.um .tipsy-inner {
+  background-color: #ffffff !important;
+  border: 2px solid #05b1a9 !important;
+  color: #333333 !important;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip {
+  position: relative;
+  display: inline-block;
+  left: 1.5rem;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip:hover {
+  cursor: pointer;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip i {
+  color: #05b1a9;
+  font-size: 1.6rem;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip .tool-tiptext {
+  visibility: hidden;
+  width: 30rem;
+  background-color: #fff;
+  color: #333;
+  text-align: left;
+  border-radius: 0.6rem;
+  padding: 1rem;
+  position: absolute;
+  z-index: 99;
+  top: 0;
+  left: 140%;
+  line-height: normal;
+  border: 2px solid #05b1a9;
+  font-weight: 400;
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip .tool-tiptext a {
+  text-transform: none;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip .tool-tiptext::before {
+  content: "\f0d9";
+  font: normal normal normal 1.8rem/1 FontAwesome;
+  position: absolute;
+  left: -0.8rem;
+  top: 0.1rem;
+  color: #05b1a9;
+  font-size: 1.8rem;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip:hover .tool-tiptext {
+  visibility: visible;
+}
+
+#rosita-customer-registration .customer-details .um-field-user_email .um-field-label .tool-tip:hover .tool-tiptext a {
+  text-transform: capitalize;
+}
+
+#rosita-customer-registration .um-col-alt {
+  margin-top: 3rem;
+}
+
+#customer-registration-header .elementor-heading-title {
+  font-size: 3.5rem;
+  margin-bottom: 2rem;
+}
+
+#customer-registration-header p {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  line-height: 2.7rem;
+}
+
+#rosita-customer-registration .um-postmessage {
+  font-size: 2rem;
+  color: #333333;
+  text-align: center;
+  width: 100%;
+  max-width: 85rem;
+  margin: 0 auto;
+}
+
+#rosita-customer-registration .um-postmessage .rosita-homepage-link {
+  margin-top: 1rem;
+  font-weight: 500;
+  color: #05b1a9;
+}
+
+.customer_deletion {
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+.customer_deletion p {
+  color: red;
+}
+
+.customer_deletion form fieldset {
+  background-color: transparent;
+}
+
+.customer_deletion form button {
+  border-radius: 0.3rem;
+}
+
+.customer_deletion form button span {
+  font-size: 1.4rem;
+  font-weight: 300;
+  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.customer_deletion form button:hover {
+  background: #e1e1e1;
+  border: 1px solid #ccc;
+  color: #333;
+}
+
+.tracking-order-wrapper .guest-track-order-form-wrapper {
+  padding: 2.5rem;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  font-size: 1.4rem;
+}
+
+.tracking-order-wrapper .guest-track-order-form {
+  position: relative;
+}
+
+.tracking-order-wrapper .guest-track-order-form fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+}
+
+.tracking-order-wrapper .guest-track-order-form h3 {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  font-weight: 300;
+  margin-bottom: 2.5rem;
+}
+
+.tracking-order-wrapper .guest-track-order-form p {
+  font-size: 1.4rem;
+  line-height: 2rem;
+}
+
+.tracking-order-wrapper .guest-track-order-form h3 span {
+  font-weight: 900;
+}
+
+.tracking-order-wrapper .field.field-name-order_number {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.tracking-order-wrapper .field.field-name-order_email {
+  margin-bottom: 3.5rem;
+}
+
+.tracking-order-wrapper .guest-track-order-form .field label {
+  color: #000000;
+  padding: 0 0 1.2rem;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 0 !important;
+  font-weight: 700;
+  max-width: 100%;
+}
+
+.tracking-order-wrapper .guest-track-order-form .field label.error {
+  color: red;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+.tracking-order-wrapper span.required {
+  color: red;
+}
+
+.tracking-order-wrapper .guest-track-order-form input[type="text"],
+.tracking-order-wrapper .guest-track-order-form input[type="email"] {
+  background-color: #ebebec;
+  font-weight: 300;
+}
+
+.tracking-order-wrapper .guest-track-order-form .action.primary {
+  background-color: #05b1a9;
+  color: #ffffff;
+  border-radius: 0.3rem;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+#track-order-result {
+  display: none;
+}
+
+#track-order-result #spinner {
+  display: none;
+  text-align: center;
+}
+
+#track-order-result #spinner img {
+  display: inline-block;
+  width: 5rem;
+  margin: 0 auto;
+}
+
+#track-order-result .result-content {
+  display: none;
+}
+
+#track-order-result .result-content p span.label {
+  font-weight: 700;
+}
+
+#track-order-result .result-content .status_message {
+  margin-top: 2rem;
+}
+
+#track-order-result .result-content .status_message a {
+  color: #05b1a9;
+  font-weight: 400;
+}
+
+#track-order-result .error-messages {
+  display: none;
+  color: red;
+}
+
+.woocommerce-account .account-header-wrapper .account-header h1 {
+  padding: 0;
+  margin: 0;
+  color: #fff;
+  font-size: 5.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.woocommerce-account .account-intro--main {
+  padding: 1.5rem;
+}
+
+.woocommerce-account .account-intro--main h3 {
+  font-size: 3.6rem;
+  font-weight: 200;
+  text-transform: capitalize;
+  margin-bottom: 15px;
+}
+
+.woocommerce-account .account-intro--main p {
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.4;
+  margin-bottom: 1rem;
+}
+
+.woocommerce-account .content-main .block {
+  margin-bottom: 3rem;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .practitioner-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .practitioner-link:last-of-type {
+  margin-bottom: 0;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .practitioner-link>div:first-of-type {
+  width: 50%;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .practitioner-link>div:last-of-type {
+  width: 150px;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .practitioner-link p {
+  font-size: 1.4rem;
+}
+
+.woocommerce-account .practitioner-accounts .practitioner-link>div:last-of-type .btn {
+  width: 100%;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .btn-default {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 1.3rem 2.5rem;
+  border-radius: 0;
+  line-height: 1;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .btn-green-inverse {
+  color: #05b1a9 !important;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #05b1a9;
+  transition: all .3s;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-register span,
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-link span,
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-contact span {
+  position: relative;
+  padding-right: 2rem;
+  margin: auto;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.btn-green-inverse:hover {
+  text-decoration: underline !important;
+  color: #fff !important;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts .btn-green:hover {
+  background-color: #05a69e !important;
+  border-color: #05b1a9 !important;
+  color: #fff !important;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-register span:after {
+  content: url(../images/Register_button_icon.svg);
+  position: absolute;
+  width: 1.1rem;
+  right: 0;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-register:is(:hover, :active, :focus) span:after {
+  content: url(../images/Register_button_icon_white.svg);
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-link span:after {
+  content: url(../images/Link_button_icon.svg);
+  position: absolute;
+  width: 1.1rem;
+  right: 0;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-link:is(:hover, :active, :focus) span:after {
+  content: url(../images/Link_button_icon_white.svg);
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-contact span:after {
+  content: url(../images/Contact_button_icon.svg);
+  position: absolute;
+  width: 1.1rem;
+  right: 0;
+}
+
+.woocommerce-account .account-content-wrapper .practitioner-accounts a.practitioner-contact:is(:hover, :active, :focus) span:after {
+  content: url(../images/Contact_button_icon_white.svg);
+}
+
+form#practitioner-registration fieldset,
+form#practitioner-client-registration fieldset {
+  padding: 0;
+  background-color: transparent;
+}
+
+form#practitioner-registration fieldset legend,
+form#practitioner-client-registration fieldset legend {
+  background-color: transparent;
+  padding: 0;
+  margin: 0 0 2rem 0.5rem;
+  box-sizing: border-box;
+  float: left;
+  line-height: 1.2;
+  font-size: 1.8rem;
+  border-bottom: 1px solid #c6c6c6;
+}
+
+form#practitioner-registration fieldset.create legend span,
+form#practitioner-client-registration fieldset.create legend span {
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  font-size: 2.4rem !important;
+  margin-right: .5rem;
+}
+
+form#practitioner-registration fieldset.create>.field,
+form#practitioner-registration fieldset.create>.fields>.field,
+form#practitioner-client-registration fieldset.create>.field,
+form#practitioner-client-registration fieldset.create>.fields>.field {
+  margin-bottom: 3rem;
+}
+
+form#practitioner-registration fieldset.create>.field>.label,
+form#practitioner-registration fieldset.create>.fields>.field>.label,
+form#practitioner-client-registration fieldset.create>.field>.label,
+form#practitioner-client-registration fieldset.create>.fields>.field>.label {
+  font-weight: 700 !important;
+  text-align: left;
+  color: #000000;
+  display: inline-block;
+  padding: 0 0 1.2rem;
+  text-transform: uppercase;
+  margin: 0 !important;
+  font-size: 1.2rem;
+}
+
+form#practitioner-registration .fieldset>.field.required>.label:after,
+form#practitioner-client-registration .fieldset>.field.required>.label:after {
+  content: '*';
+  color: #e02b27;
+  font-size: 1.2rem;
+  margin: 0 0 0 .5rem;
+}
+
+form#practitioner-registration fieldset.create>.field .control,
+form#practitioner-client-registration fieldset.create>.field .control {
+  position: relative;
+}
+
+form#practitioner-registration fieldset.create>.field .control label.error,
+form#practitioner-registration fieldset.create>.field .custom-error label.error,
+form#practitioner-client-registration fieldset.create>.field .control label.error,
+form#practitioner-client-registration fieldset.create>.field .custom-error label.error {
+  padding-top: 0.5rem;
+  font-size: 1.2rem;
+}
+
+form#practitioner-registration fieldset.create>.field .control .input-text,
+form#practitioner-client-registration fieldset.create>.field .control .input-text {
+  background-color: #ffffff;
+  font-weight: 300;
+  font-size: 1.4rem;
+}
+
+form#practitioner-registration fieldset.create>.field .control input[type="text"],
+form#practitioner-client-registration fieldset.create>.field .control input[type="text"] {
+  height: 4rem;
+  border: 1px solid #ddd;
+  background-color: #ffffff;
+  font-weight: 300;
+}
+
+form#practitioner-registration fieldset.create>.field .control select {
+  background: #fff url(../images/select-bg.svg) no-repeat 100% 45%;
+  background-clip: padding-box;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.4rem;
+  height: 4rem !important;
+  border-color: transparent;
+  line-height: 1.42857143;
+  padding: .4rem 2.5rem .5rem 1rem;
+  vertical-align: baseline;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+form#practitioner-registration fieldset.create>.field .control input[type="file"] {
+  font-size: 1.6rem;
+  border: 0;
+  background-color: transparent;
+  appearance: none;
+  box-shadow: none;
+}
+
+form#practitioner-registration fieldset.create>.field .control.radio {
+  display: flex;
+}
+
+form#practitioner-registration fieldset.create>.field .control.radio .radio-main {
+  padding-right: 2rem;
+}
+
+form#practitioner-registration fieldset.create>.field .control.radio .radio-main label {
+  color: #000;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-left: 0.5rem;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+form#practitioner-registration .field.bank-details,
+form#practitioner-registration .field.paypal {
+  display: none;
+}
+
+form#practitioner-registration .actions-toolbar .primary,
+form#practitioner-client-registration .actions-toolbar .primary {
+  width: 100% !important;
+}
+
+form#practitioner-registration.form-create-account .actions-toolbar button.primary,
+form#practitioner-client-registration.form-create-account .actions-toolbar button.primary {
+  border-width: 2px;
+  color: #fff;
+  text-decoration: none;
+  transition: all .3s;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  font-weight: 700;
+  padding: 1.3rem 2.5rem;
+  border-radius: 0;
+  line-height: 1;
+  background-color: #05b1a9;
+  border-color: #05b1a9;
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+}
+
+form#practitioner-registration.form-create-account .actions-toolbar button.primary:hover span,
+form#practitioner-client-registration.form-create-account .actions-toolbar button.primary:hover span {
+  text-decoration: underline;
+}
+
+form#practitioner-registration.form-create-account .actions-toolbar .primary span,
+form#practitioner-client-registration.form-create-account .actions-toolbar .primary span {
+  display: inline-block;
+  position: relative;
+  padding-left: 3rem;
+}
+
+form#practitioner-registration.form-create-account .actions-toolbar .primary span:before,
+form#practitioner-client-registration.form-create-account .actions-toolbar .primary span:before {
+  content: url(../images/registration.svg?v=3);
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: 0;
+  width: 2.4rem;
+  transition: all .3s;
+}
+
+form#practitioner-registration.form-create-account .actions-toolbar .secondary,
+form#practitioner-client-registration.form-create-account .actions-toolbar .secondary {
+  margin-top: 4rem;
+}
+
+form#practitioner-registration.form-create-account .actions-toolbar .secondary a,
+form#practitioner-client-registration.form-create-account .actions-toolbar .secondary a {
+  font-size: 1.4rem;
+  font-weight: 300;
+}
+
+#processing-feedback p,
+.notify-practitioner p {
+  font-size: 2.5rem;
+  margin-bottom: 5rem;
+  font-weight: 500;
+  color: #333333;
+  line-height: 1.5;
+}
+
+#processing-feedback p.error-notif {
+  color: red;
+}
+
+#pr-loading {
+  visibility: hidden;
+}
+
+#pr-loading img {
+  display: inline-block;
+  width: 5rem;
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+#pr-loading.show {
+  visibility: visible;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  opacity: 0.7;
+}
+
+.page-checkout #order_review_heading,
+.page-checkout #order_review {
+  float: none;
+  clear: none;
+  margin: 0;
+  width: 100%;
+}
+
+@media only screen and (min-width: 56.25rem) {
+  .tracking-order-wrapper .guest-track-order-form-wrapper {
+    padding: 2.5rem 7rem;
+  }
+}
+
+@media only screen and (min-width: 76.8rem) {
+  .tracking-order-wrapper .guest-track-order-form h3 {
+    font-size: 2.19rem;
+  }
+}
+
+@media only screen and (max-width: 128rem) {
+  #rosita-customer-registration {
+    padding-top: 4rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  #customer-registration-header {
+    padding: 6rem 3rem 6rem;
+  }
+
+  #rosita-customer-registration .customer-account-type .um-field-area {
+    column-gap: 0rem;
+  }
+
+  body.page-trackorder footer .footer-width-fixer .elementor-element.page-footer {
+    margin-top: -10rem;
+
+  }
+
+  .woocommerce-account .account-header-wrapper .account-header h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 48rem) {
+  #customer-registration-header {
+    padding: 5rem 1rem 5rem;
+  }
+
+  #customer-registration-header .elementor-heading-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  #customer-registration-header p {
+    font-size: 1.8rem;
+    line-height: 1.9rem;
+  }
+
+  #rosita-customer-registration .um-row-heading {
+    font-size: 1.8rem;
+  }
+
+  #rosita-customer-registration .customer-account-type .um-field-area>label {
+    width: 49%;
+  }
+}
+
+#rosita-customer-registration .um-postmessage {
+  font-size: 2rem;
+  color: #333333;
+  text-align: center;
+  width: 100%;
+  max-width: 85rem;
+  margin: 0 auto;
+}
+
+#rosita-customer-registration .um-postmessage .rosita-homepage-link {
+  margin-top: 1rem;
+  font-weight: 500;
+  color: #05b1a9;
+}

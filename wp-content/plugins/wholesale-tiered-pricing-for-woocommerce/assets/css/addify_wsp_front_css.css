@@ -1,0 +1,171 @@
+
+.afwsp_template_header{
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.afwsp_deals_icon{
+    width: 32px;
+    height: 32px;
+}
+.af-wsp-strike-regular-price{
+    margin-right: 8px;
+}
+.afwsp_template_header h2{
+    margin: 0px!important;
+    font-weight: bold;
+}
+.af_wsp_template_div{
+    margin: 15px 0;
+}
+.wc-block-product {
+    text-align: center!important;
+}
+.af_wsp_card_div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.af_wsp_card_div:hover{
+    cursor: pointer;
+}
+.af_wsp_inner_small_box {
+    max-width: 230px;
+    width: 48%;
+    padding: 10px;
+    /* border: 1px solid rgb(177, 180, 176); */
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.afwsp_card_inner_heading {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.afwsp_sale_tag {
+    background-color: red;
+    color: white;
+    padding: 3px 5px;
+    font-size: 12px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.afwsp_offer_data_contianer{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    display: grid;
+    grid-template-columns: 41% 52%;
+    column-gap: 12%;
+    padding-left: 12px;
+    box-sizing: border-box;
+}
+
+.afwsp_card_inner_text p{
+    margin: 0px 0px 3px 0px;
+}
+
+.afwsp_card_inner_text del,
+.af_wsp_list_price_text del,
+.af_wsp_no_discount{
+    color: #ada6a6;
+}
+
+.af_wsp_list_inner_container{
+    display: grid;
+    grid-template-columns: 5% 64% 25%;
+    box-sizing: border-box;
+    align-items: center;
+    column-gap: 3%;
+}
+
+.af_wsp_list_inner_container:hover{
+    cursor: pointer;
+}
+
+.af_wsp_list_box{
+    max-width: 400px;
+    padding: 10px;
+    margin-bottom: 12px; 
+    /* position: relative; */
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.af_wsp_list_price_text p{
+    margin: 0px;
+    padding-bottom: 0;
+}
+
+
+.af_wsp_list_inner_container .heading {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.responsive table{
+    width: auto;
+}
+
+.tab_bor thead tr th{
+    width: 25%;
+}
+
+.responsive table th{
+    padding: 8px 15px;
+}
+
+.responsive table td
+{
+
+    padding: 5px 25px
+}
+.af_wsp_radio_div{
+    height: 20px;
+}
+.af_wsp_radio_div input{
+        height: 14px;
+    width: 14px;
+}
+.af_wsp_list_price_text p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .tab_bor thead tr th{
+        width: 10%;
+    }
+
+    .responsive table th{
+        padding: 8px 10px;
+    }
+    
+    .responsive table td
+    {
+    
+        padding: 3px 10px
+    }
+
+    .af_wsp_inner_small_box {
+        max-width: 90%;
+    }
+
+    .af_wsp_list_inner_container {
+        grid-template-columns: 8% 50% 26%;
+        column-gap: 4%;
+    }
+
+}
+
+@media only screen and (max-width: 425px) {
+    .af_wsp_inner_small_box{
+        width: 100%;
+   }
+}
+

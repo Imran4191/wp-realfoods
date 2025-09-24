@@ -1,0 +1,105 @@
+2025-05-07 - version 10.1.7
+ * Improved - Handle forced billing address as shipping address scenario with ship-to-different-address-checkbox
+ * Fix - Fix issue with YITH Delivery Dates pickup times select refresh
+ * Fix - Fix issue that prevented usernames for login
+ * Fix - Fix potential JS error with totals on the side cart and checkout
+ * Fix - Fix hide coupon behind link setting for checkout.
+ * Fix - Disable conflicting tailwind container class
+ * Fix - Exclude terms and conditions checkbox from field persistence
+ * Fix - Refactor payment request / express checkout button styling to fix multiple issues
+ * Fix - Fix design link in Start Here
+ * Fix - Fix potential JS error on trust badges settings page
+ * Dev - Allow itemized shipping costs with cfw_totals_itemize_shipping_costs filter
+
+
+2025-04-14 - version 10.1.6
+ * Fix - Fix fatal error for users who downgrade from CheckoutWC premium to Lite from an older version of premium.
+
+2025-03-31 - version 10.1.0
+ * New - Unified CheckoutWC version. Updated codebase from premium version.
+
+2024-12-18 - version 1.1.13
+ * Fix - Fix CSS bug with Customizer
+ * Improved - Remove customizer controls as the customizer is deprecated and these settings are best handled in the admin settings area.
+
+2024-11-21 - version 1.1.12
+ * Fix - Update some incorrect info in admin settings
+ * Fix - Remove unused code
+
+2024-05-13 - version 1.1.11
+ * Fix - Fix missing order attribution data
+
+2024-03-21 - version 1.1.10
+ * Fix - Fixes for Brazilian Market for WooCommerce
+
+2024-03-14 - version 1.1.9
+ * Fix - Fix issue that prevented Mailerlite checkbox from outputting
+ * Dev - Declare WooCommerce as required plugin for WP 6.5
+
+2024-02-12 - version 1.1.8
+ * Fix - Fix wording of French translation for 'Use different billing address' radio
+
+2024-01-31 - version 1.1.7
+ * Hotfix - Fix bug that prevented error notices from showing during checkout submit and caused page to hang
+
+2024-01-24 - version 1.1.6
+ * Fix - Fix Klarna Payments 3.x support
+
+2024-01-24 - version 1.1.5
+ * Fix - Fix notice handling with WooCommerce 8.5.x
+
+2023-08-14 - version 1.1.4
+ * Fix - Fix issue with WP Engine that caused the deactivation survey to open when updating any plugin
+
+2023-07-19 - version 1.1.3
+ * Fix - Fix issue with Portugal DPD Pickup and Lockers network for WooCommerce
+
+2023-05-25 - version 1.1.2
+ * Fix - Fix issues with Brazilian Market for WooCommerce
+
+2023-05-02 - version 1.1.1
+ * Updated - Update info on premium plan
+ * Misc - Collect info on deactivation
+
+2023-02-20 - version 1.1.0
+ * Improved - Switch from update_checkout to update_order_review and add logic for detecting our requests versus others
+ * Fix - Fix issue with WooCommerce Pakettikauppa and the shipping email field during billing field sync
+ * Fix - Add messages since this is part of the default data package on updated_checkout
+ * Fix - Fix accidental compatibility issue with Stripe for WooCommerce (Payment Plugins)
+ * Fix - Add the ability to pass alert temporary status from PHP side and handle that better when there are no new alerts to replace existing alerts
+ * Dev - Get rid of symfony/finder so we can better support PHP 8.1
+
+2023-02-03 - version 1.0.7
+ * Fix - Fix another incorrect Polish translation
+
+2023-02-02 - version 1.0.6
+ * Improved - Remove unused polyfills
+ * Fix - Fix incorrect Polish translation
+ * Fix - Speed up the timing of the shadow root removal on the Amazon button to reduce flash of old button
+ * Fix - Fix password reset modal
+ * Fix - Switch to native name for complete order AJAX action hook to improve compatibility with other plugins
+ * Fix - Fix improperly escaped HTML on admin pages
+ * Fix - Fix bug with login and sanitization. Can’t use sanitize_email because it nukes non-email addresses and replaces with empty string
+ * Dev - Remove unused functions
+ * Dev - Declare support for HPOS
+
+2022-12-09 - version 1.0.5
+ * Fix - Fix bug that caused the login required message to show up even when login is not allowed at checkout
+ * Fix - Fix escaping of payment method title to match WooCommerce core
+ * Fix - Fix Amazon Pay button doubling when quantity is changed
+ * Dev - Disable WC Fields Factory notice because it really isn’t that relevant anymore
+
+2022-12-07 - version 1.0.4
+ * Fix - Add Czech and Lithuanian inline field validation translations
+
+2022-11-28 - version 1.0.3
+ * Fix - Fix author info
+
+2022-11-21 - version 1.0.2
+ * Fix - Fix improperly escaped HTML in account already registered notice
+
+2022-11-16 - version 1.0.1
+ * Improved - Add WooCommerce core detection protection
+
+2022-11-16 - version 1.0.0
+ * Initial Release

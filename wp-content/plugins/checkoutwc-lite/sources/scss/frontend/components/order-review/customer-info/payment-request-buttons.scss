@@ -1,0 +1,122 @@
+#cfw-payment-request-buttons {
+    position: relative;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding: 1em;
+    justify-content: center;
+    min-height: 77px;
+
+    &, & ul {
+        display: flex;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        gap: 0.5em;
+    }
+
+    h2 {
+        font-size: 14px;
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        transform: translateX(-50%) translateZ(0);
+        background: var(--cfw-body-background-color);
+        padding: 0 0.75em;
+        font-weight: 400;
+        white-space: nowrap;
+    }
+
+    & * {
+        clear: none;
+    }
+
+    // List of button elements/selectors to apply styles to
+    $base-selectors: (
+        'div',
+        'button',
+        '#checkout_paypal_message',
+        '#wc-stripe-payment-request-wrapper',
+    );
+
+    // List of parent classes to exclude
+    // These parents will get the flex gap styles above applied to them
+    $excluded-parents: (
+        '.wcpay-payment-request-wrapper',
+        '#wc-stripe-express-checkout-element',
+        '#wc-ppcp-express-button',
+        '.wcpay-express-checkout-wrapper',
+    );
+
+    @include apply-cfw-payment-request-button-styles-with-exclusions( $base-selectors, $excluded-parents );
+
+    // Fix for Payment Plugins PayPal
+    // Ticket: https://secure.helpscout.net/conversation/2869298814/19843?viewId=8485151
+    div#smart-menu, div#installments-modal {
+        min-height: unset;
+    }
+
+    // Fix for PayPal for WooCommerce (discovered in testing)
+    div#smart-menu {
+        pointer-events: none;
+    }
+
+    // Don't add this to the mixin because it needs
+    // to be a direct descendant rule and limited to divs for now
+    // :has fakes level 4 empty here: https://stackoverflow.com/a/78257580
+    > div:not(:has(*)) {
+        display: none;
+    }
+}
+
+.apple-pay-button-checkout-separator {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    display: none;
+}
+
+.apple-pay-button-wrapper {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.pay-button-separator {
+    align-items: center;
+    margin-bottom: 1em;
+    position: relative;
+    display: block;
+    padding-top: 1em;
+
+    &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 50%;
+        z-index: 2;
+        height: 1px;
+        background: #e6e6e6;
+        width: 100%;
+    }
+
+    span {
+        background: var(--cfw-body-background-color);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        background: var(--cfw-body-background-color);
+        z-index: 3;
+        padding: 0 1em;
+        text-transform: none;
+        white-space: nowrap;
+    }
+}
+
+#payment-info-separator-wrap {
+    margin-bottom: 1em;
+}
+
+.cfw-hide-payment-request-buttons {
+    #cfw-payment-request-buttons, #payment-info-separator-wrap {
+        display: none;
+    }
+}

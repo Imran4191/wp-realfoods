@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-coupons.php:87
+msgid "Importing coupons..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-coupons.php:172
+#, php-format
+msgid "%d coupon imported"
+msgid_plural "%d coupons imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:62
+#, php-format
+msgid "%d customer"
+msgid_plural "%d customers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:115
+msgid "Importing customers..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:171
+#, php-format
+msgid "%d customer imported"
+msgid_plural "%d customers imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:283
+msgid "Updating customers..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:327
+#, php-format
+msgid "%d customer updated"
+msgid_plural "%d customers updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-downloadable-products.php:92
+#, php-format
+msgid "Unable to create directory %s"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-grouped-products.php:47
+msgid "Setting grouped products relations..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-grouped-products.php:73
+msgid "Grouped products relations set"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:53
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:179
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:143
+msgid "Importing orders..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:177
+#, php-format
+msgid "%d order imported"
+msgid_plural "%d orders imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:652
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:921
+msgid "Error:"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:953
+msgid "Updating orders..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:989
+#, php-format
+msgid "%d order updated"
+msgid_plural "%d orders updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:136
+msgid "Import Magento Premium"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:137
+msgid ""
+"This plugin will import product categories, products, images, CMS, users, "
+"customers, orders, reviews and coupons from Magento to WooCommerce.<br /"
+">Compatible with Magento versions 1.3 to 2.3."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:138
+#, php-format
+msgid ""
+"For any issue, please read the <a href=\"%s\" target=\"_blank\">FAQ</a> "
+"first."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:175
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:604
+msgid "All"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:661
+msgid "Updating products..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:697
+#, php-format
+msgid "%d product updated"
+msgid_plural "%d products updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:48
+msgid "Importing attributes..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:112
+#, php-format
+msgid "%d attribute imported"
+msgid_plural "%d attributes imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:183
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:440
+msgid "No"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:184
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:440
+msgid "Yes"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-product-options.php:49
+msgid "Importing options..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-product-options.php:89
+#, php-format
+msgid "%d option imported"
+msgid_plural "%d options imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-product-variations.php:163
+#, php-format
+msgid "Too many variations (%d) for product #%d"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-product-variations.php:165
+#, php-format
+msgid ""
+"You may need the <a href=\"%s\" target=\"_blank\">WooCommerce Product Add-"
+"Ons plugin</a> and the <a href=\"%s\" target=\"_blank\">Product Options add-"
+"on</a> to import the Magento options as add-ons instead of as variations."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-reviews.php:58
+msgid "Importing reviews..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-reviews.php:119
+#, php-format
+msgid "%d review imported"
+msgid_plural "%d reviews imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-taxes.php:82
+msgid "Importing taxes..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-taxes.php:101
+#, php-format
+msgid "%d tax class imported"
+msgid_plural "%d tax classes imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-up-cross-sell.php:38
+msgid "Importing Up Sell and Cross Sell..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-up-cross-sell.php:76
+#, php-format
+msgid "%d Up Sell and Cross Sell imported"
+msgid_plural "%d Up Sell and Cross Sell imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-urls.php:59
+msgid "Importing redirects..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-urls.php:99
+msgid "Importing Enterprise Edition redirects..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-urls.php:135
+#, php-format
+msgid "%d redirect imported"
+msgid_plural "%d redirects imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-fg-magento-to-woocommerce-users.php:126
+msgid "Users deleted"
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-users.php:155
+msgid "Importing users..."
+msgstr ""
+
+#: admin/class-fg-magento-to-woocommerce-users.php:202
+#, php-format
+msgid "%d user imported"
+msgid_plural "%d users imported"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/partials/premium-actions.php:2
+msgid "Update:"
+msgstr ""
+
+#: admin/partials/premium-actions.php:4
+msgid "Update the products stocks only"
+msgstr ""
+
+#: admin/partials/premium-actions.php:10
+msgid "Update existing products, customers and orders status"
+msgstr ""
+
+#: admin/partials/premium-features.php:2
+msgid "Meta keywords:"
+msgstr ""
+
+#: admin/partials/premium-features.php:3
+msgid "Import meta keywords as tags"
+msgstr ""
+
+#: admin/partials/premium-features.php:6
+msgid "SEO:"
+msgstr ""
+
+#: admin/partials/premium-features.php:8
+msgid ""
+"Import the meta data (title, description and meta keywords) to Yoast SEO"
+msgstr ""
+
+#: admin/partials/premium-features.php:10
+msgid "Redirect the Magento URLs"
+msgstr ""
+
+#: admin/partials/premium-features.php:15
+msgid "Multisites / Multistores:"
+msgstr ""
+
+#: admin/partials/premium-features.php:17
+msgid "Import the web site:"
+msgstr ""
+
+#: admin/partials/premium-features.php:22
+msgid "Import the store:"
+msgstr ""
+
+#: admin/partials/premium-features.php:27
+msgid "Import customers and orders:"
+msgstr ""
+
+#: admin/partials/premium-features.php:28
+msgid "from all stores"
+msgstr ""
+
+#: admin/partials/premium-features.php:29
+msgid "from the selected store only"
+msgstr ""
+
+#: admin/partials/premium-features.php:34
+msgid "Partial import:"
+msgstr ""
+
+#: admin/partials/premium-features.php:36
+msgid "expand / collapse"
+msgstr ""
+
+#: admin/partials/premium-features.php:38
+msgid "Don't import the CMS"
+msgstr ""
+
+#: admin/partials/premium-features.php:40
+msgid "Don't import the products categories"
+msgstr ""
+
+#: admin/partials/premium-features.php:42
+msgid "Don't import the disabled products categories"
+msgstr ""
+
+#: admin/partials/premium-features.php:44
+msgid "Don't import the products"
+msgstr ""
+
+#: admin/partials/premium-features.php:46
+msgid "Don't import the disabled products"
+msgstr ""
+
+#: admin/partials/premium-features.php:48
+msgid "Don't import the product attributes"
+msgstr ""
+
+#: admin/partials/premium-features.php:50
+msgid "Don't import the users"
+msgstr ""
+
+#: admin/partials/premium-features.php:52
+msgid "Don't import the customers"
+msgstr ""
+
+#: admin/partials/premium-features.php:54
+msgid "Don't import the customers without order"
+msgstr ""
+
+#: admin/partials/premium-features.php:56
+msgid "Don't import the orders"
+msgstr ""
+
+#: admin/partials/premium-features.php:58
+msgid "Don't import the reviews"
+msgstr ""
+
+#: admin/partials/premium-features.php:60
+msgid "Don't import the coupons"
+msgstr ""
+
+#: admin/partials/premium-features.php:62
+msgid "Don't import the redirects"
+msgstr ""
+
+#: includes/class-fg-magento-to-woocommerce-premium.php:384
+msgid "Import"
+msgstr ""

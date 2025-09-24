@@ -1,0 +1,45 @@
+.elementor-9157 .elementor-element.elementor-element-be02093{--display:flex;--background-transition:0.3s;--padding-block-start:9.7rem;--padding-block-end:7rem;--padding-inline-start:0rem;--padding-inline-end:0rem;}.elementor-9157 .elementor-element.elementor-element-be02093:not(.elementor-motion-effects-element-type-background), .elementor-9157 .elementor-element.elementor-element-be02093 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/new_account-1-scaled.jpg");background-position:center center;background-size:cover;}.elementor-9157 .elementor-element.elementor-element-be02093, .elementor-9157 .elementor-element.elementor-element-be02093::before{--border-transition:0.3s;}.elementor-9157 .elementor-element.elementor-element-30e4585{text-align:center;}.elementor-9157 .elementor-element.elementor-element-30e4585 .elementor-heading-title{color:#FFFFFF;font-family:"Raleway-ExtraBold", Sans-serif;font-size:3.5rem;font-weight:800;}.elementor-9157 .elementor-element.elementor-element-be63475{text-align:center;color:#FFFFFF;font-family:"Raleway-Light", Sans-serif;font-size:3.5rem;font-weight:300;}.elementor-9157 .elementor-element.elementor-element-1e8580d5{--display:flex;--background-transition:0.3s;}@media(min-width:768px){.elementor-9157 .elementor-element.elementor-element-1e8580d5{--content-width:128rem;}}@media(min-width:1025px){.elementor-9157 .elementor-element.elementor-element-be02093:not(.elementor-motion-effects-element-type-background), .elementor-9157 .elementor-element.elementor-element-be02093 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Raleway-ExtraBold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.eot');
+	src: url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.eot?#iefix') format('embedded-opentype'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.woff2') format('woff2'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.woff') format('woff'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.ttf') format('truetype'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.svg#Raleway-ExtraBold') format('svg');
+}
+@font-face {
+	font-family: 'Raleway-ExtraBold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: ;
+}
+@font-face {
+	font-family: 'Raleway-ExtraBold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.eot');
+	src: url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.eot?#iefix') format('embedded-opentype'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.woff2') format('woff2'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.woff') format('woff'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.ttf') format('truetype'),
+		url('http://dev.rositarealfoods.eu/wp-content/uploads/sites/4/2024/02/Raleway-ExtraBold.svg#Raleway-ExtraBold') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Raleway-Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://dev.rositarealfoods.co.uk/wp-content/uploads/2024/01/Raleway-Light.eot');
+	src: url('https://dev.rositarealfoods.co.uk/wp-content/uploads/2024/01/Raleway-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://dev.rositarealfoods.co.uk/wp-content/uploads/2024/01/Raleway-Light.woff2') format('woff2'),
+		url('https://dev.rositarealfoods.co.uk/wp-content/uploads/2024/01/Raleway-Light.woff') format('woff'),
+		url('https://dev.rositarealfoods.co.uk/wp-content/uploads/2024/01/Raleway-Light.ttf') format('truetype'),
+		url('https://dev.rositarealfoods.co.uk/wp-content/uploads/2024/01/Raleway-Light.svg#Raleway-Light') format('svg');
+}
+/* End Custom Fonts CSS */

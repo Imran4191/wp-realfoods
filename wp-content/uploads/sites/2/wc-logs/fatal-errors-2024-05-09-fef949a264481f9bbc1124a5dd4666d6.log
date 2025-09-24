@@ -1,0 +1,21 @@
+2024-05-09T09:34:02+00:00 CRITICAL Uncaught Error: The script tried to modify a property on an incomplete object. Please ensure that the class definition "TierPricingTable\PricingRule" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php:5148
+Stack trace:
+#0 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php(5143): map_deep(Object(__PHP_Incomplete_Class), 'stripslashes_fr...')
+#1 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php(5143): map_deep(Array, 'stripslashes_fr...')
+#2 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php(5143): map_deep(Array, 'stripslashes_fr...')
+#3 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php(2855): map_deep(Array, 'stripslashes_fr...')
+#4 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php(5804): stripslashes_deep(Array)
+#5 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/meta.php(208): wp_unslash(Array)
+#6 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/user.php(1198): update_metadata('user', 17, '_woocommerce_pe...', Array, '')
+#7 /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(362): update_user_meta(17, '_woocommerce_pe...', Array)
+#8 /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(226): WC_Cart_Session->persistent_cart_update()
+#9 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/class-wp-hook.php(324): WC_Cart_Session->get_cart_from_session('')
+#10 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#11 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#12 /Users/imran/Local Sites/rrfwp/app/public/wp-settings.php(665): do_action('wp_loaded')
+#13 /Users/imran/Local Sites/rrfwp/app/public/wp-config.php(117): require_once('/Users/imran/Lo...')
+#14 /Users/imran/Local Sites/rrfwp/app/public/wp-load.php(50): require_once('/Users/imran/Lo...')
+#15 /Users/imran/Local Sites/rrfwp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/imran/Lo...')
+#16 {main}
+  thrown in /Users/imran/Local Sites/rrfwp/app/public/wp-includes/formatting.php on line 5148
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dev.rositarealfoods.com.au/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://dev.rositarealfoods.com.au/post-sitemap.xml</loc>
+		<lastmod>2023-12-28T06:04:25+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://dev.rositarealfoods.com.au/page-sitemap.xml</loc>
+		<lastmod>2024-02-28T05:14:08+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://dev.rositarealfoods.com.au/product-sitemap.xml</loc>
+		<lastmod>2024-03-26T21:09:44+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://dev.rositarealfoods.com.au/category-sitemap.xml</loc>
+		<lastmod>2023-12-28T06:04:25+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

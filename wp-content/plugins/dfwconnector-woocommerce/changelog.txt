@@ -1,0 +1,12 @@
+*** DataFeedWatch Connector Changelog ***
+
+2024-01-22 - version 1.8.0
+* Add encryption support
+* Plugin refactoring
+* Fix compatibility with Aelia Currency Switcher plugin
+
+2023-09-20 - version 1.0.3
+* Add support for WooCommerce 8.x
+
+2023-07-28 - version 1.0.2
+* Initial release

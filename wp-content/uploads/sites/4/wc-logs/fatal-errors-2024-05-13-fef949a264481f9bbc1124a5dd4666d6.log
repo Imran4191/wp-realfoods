@@ -1,0 +1,20 @@
+2024-05-13T21:34:51+00:00 CRITICAL Uncaught Exception: There was an error loading the CSV file. in /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/bwip-warehouse-configuration/bwip-warehouse-configuration.php:2024
+Stack trace:
+#0 /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/bwip-warehouse-configuration/bwip-warehouse-configuration.php(1499): get_stock_eu('EU')
+#1 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/class-wp-hook.php(324): get_stock_cron_function()
+#2 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#4 /Users/imran/Local Sites/rrfwp/app/public/wp-cron.php(191): do_action_ref_array('get_stock_cron', Array)
+#5 {main}
+  thrown in /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/bwip-warehouse-configuration/bwip-warehouse-configuration.php on line 2024
+
+2024-05-13T23:49:11+00:00 CRITICAL Uncaught Exception: There was an error loading the CSV file. in /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/bwip-warehouse-configuration/bwip-warehouse-configuration.php:2024
+Stack trace:
+#0 /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/bwip-warehouse-configuration/bwip-warehouse-configuration.php(1499): get_stock_eu('EU')
+#1 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/class-wp-hook.php(324): get_stock_cron_function()
+#2 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 /Users/imran/Local Sites/rrfwp/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#4 /Users/imran/Local Sites/rrfwp/app/public/wp-cron.php(191): do_action_ref_array('get_stock_cron', Array)
+#5 {main}
+  thrown in /Users/imran/Local Sites/rrfwp/app/public/wp-content/plugins/bwip-warehouse-configuration/bwip-warehouse-configuration.php on line 2024
+

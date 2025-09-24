@@ -1,0 +1,2339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoices, Packing Slips and Credit Notes "
+"(Pro)\n"
+"POT-Creation-Date: 2023-08-30 14:14+0530\n"
+"PO-Revision-Date: 2023-08-30 14:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wt-woocommerce-invoice-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:137
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:65
+msgid "Settings updated."
+msgstr "Ajustes actualizados."
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:138
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:66
+msgid "All fields are mandatory"
+msgstr "Todos los campos son obligatorios"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:139
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:67
+msgid "Meta key should not be numeric"
+msgstr "La meta clave no debe ser numérica"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:140
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:68
+#, php-format
+msgid ""
+"Unable to update settings due to an internal error. %s To troubleshoot "
+"please click %s here. %s"
+msgstr ""
+"No se puede actualizar la configuración debido a un error interno. %s Para "
+"solucionar problemas, haga clic %s aquí. %s"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:141
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:69
+msgid "You have to select order(s) first!"
+msgstr "¡Tienes que seleccionar el orden o los órdenes primero!"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:142
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:70
+msgid "One or more order do not have invoice generated. Generate manually?"
+msgstr "Uno o más pedidos no tienen factura generada. ¿Generar manualmente?"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:143
+#: admin/modules/customizer/customizer.php:32
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:71
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:287
+#: includes/licence_manager/licence_manager.php:143
+#: includes/licence_manager/licence_manager.php:563
+#: includes/licence_manager/licence_manager.php:789
+msgid "Error"
+msgstr "Error"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:144
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:72
+msgid "Please wait"
+msgstr "Por favor, espere"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:145
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:73
+msgid "is required"
+msgstr "se requiere"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:146
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:74
+msgid "You can't undo this action. Are you sure?"
+msgstr "No puedes deshacer esta acción. ¿Está seguro?"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:147
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:75
+#: public/modules/invoice/invoice.php:77
+msgid "Invoice"
+msgstr "Factura"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:148
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:76
+msgid ""
+"number has not been generated yet. Do you want to manually generate one ?"
+msgstr "el número aún no ha sido generado. ¿Quieres generar uno manualmente?"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:149
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:77
+msgid ""
+"‘Generate invoice for free orders’ is disabled in Invoice settings > "
+"Advanced. You are attempting to generate invoice for this free order. "
+"Proceed?"
+msgstr ""
+"\"Generar factura para pedidos gratuitos\" está inhabilitado en "
+"Configuración de factura> Avanzado. Está intentando generar una factura para "
+"este pedido gratuito. ¿Continuar?"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:150
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:78
+msgid "Please fill the `from address` in the plugin's general settings."
+msgstr ""
+"Complete la `dirección de origen` en la configuración general del "
+"complemento."
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:151
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:79
+msgid "Code Copied"
+msgstr "Código copiado"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:152
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:80
+msgid "Close"
+msgstr "Cerrar"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:153
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:81
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:154
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:82
+msgid "Default"
+msgstr "Predeterminada"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:155
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:83
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:288
+msgid "Please enter mandatory fields"
+msgstr "Por favor ingrese campos obligatorios"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:156
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:84
+msgid "You can add more than 1 order meta in"
+msgstr "Puede agregar más de 1 orden meta en"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:157
+#: admin/views/_custom_field_editor_form.php:8
+#: admin/views/_form_field_generator_pro.php:99
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:85
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:252
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:158
+#: admin/views/_custom_field_editor_form.php:22
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:86
+msgid "You can edit an existing item by using its key."
+msgstr "Puede editar un elemento existente utilizando su clave."
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:171
+#: public/modules/creditnote/views/general.php:204
+#: public/modules/invoice/invoice.php:172
+#: public/modules/packinglist/packinglist.php:204
+msgid "Advanced"
+msgstr "Avanzada"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:321
+#: public/modules/creditnote/creditnote.php:292
+#: public/modules/invoice/invoice.php:550
+#: public/modules/packinglist/packinglist.php:268
+msgid "Return Policy"
+msgstr "Política de devolución"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:325
+msgid "Set up a footer which will be used across the respective documents."
+msgstr "Ponga un pie de página que se utilizará en los documentos respectivos."
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:478
+#: public/modules/creditnote/views/admin-settings.php:13
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-wt_woocommerce_invoice_addon-admin.php:479
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/data/data.tooltip.php:6
+msgid "Key in your company name."
+msgstr "Introduzca el nombre de su empresa."
+
+#: admin/data/data.tooltip.php:7
+msgid ""
+"The norms and rules regarding the return, exchange and associated refund-"
+"related procedures of your business can be stated in the expandable text "
+"area provided. You can choose to display it or not in your shipping "
+"documents from the concerned documents customize tab."
+msgstr ""
+"Las normas y reglas con respecto a la devolución, el cambio y los "
+"procedimientos asociados relacionados con el reembolso de su negocio se "
+"pueden indicar en el área de texto expandible provista. Puede elegir "
+"mostrarlo o no en sus documentos de envío desde la pestaña de "
+"personalización de documentos en cuestión."
+
+#: admin/data/data.tooltip.php:8
+msgid ""
+"Lets you add additional text input fields on the checkout page which would "
+"be stored along with order details among the custom fields.\n"
+"\tDefaulted to VAT and SSN, you may also include additional custom metadata "
+"by specifying concerned field name and meta key in which it would be stored "
+"in database. Provisions to set the field mandatory or not is also allowed."
+msgstr ""
+"Le permite agregar campos de entrada de texto adicionales en la página de "
+"pago que se almacenarían junto con los detalles del pedido entre los campos "
+"personalizados.&#10; Con el valor predeterminado de IVA y SSN, también puede "
+"incluir metadatos personalizados adicionales especificando el nombre del "
+"campo correspondiente y la meta clave en la que se almacenarían en la base "
+"de datos. También se permiten disposiciones para establecer el campo "
+"obligatorio o no."
+
+#: admin/data/data.tooltip.php:10
+msgid "Enable to have a preview of the document before the print is initiated"
+msgstr ""
+"Habilite para tener una vista previa del documento antes de que se inicie la "
+"impresión"
+
+#: admin/data/data.tooltip.php:11
+msgid ""
+"Include a tracking number in your documents by specifying an appropriate "
+"tracking number meta(usually from a third-party plugin) in the field "
+"provided. "
+msgstr ""
+"Incluya un número de seguimiento en sus documentos especificando un meta de "
+"número de seguimiento apropiado (generalmente de un complemento de terceros) "
+"en el campo proporcionado. "
+
+#: admin/data/data.tooltip.php:12
+msgid ""
+"When enabled, replaces state code with state name in the from, return, "
+"billing and shipping addresses"
+msgstr ""
+"Cuando está habilitado, reemplaza el código de estado con el nombre del "
+"estado en las direcciones de origen, devolución, facturación y envío"
+
+#: admin/data/data.tooltip.php:13
+msgid ""
+"Choose appropriate option from the drop down either to have all items or "
+"individual items of an order in the packing slip/shipping label."
+msgstr ""
+"Elija la opción adecuada del menú desplegable para tener todos los artículos "
+"o artículos individuales de un pedido en el albarán / etiqueta de envío."
+
+#: admin/data/data.tooltip.php:14
+msgid "The default library to be used PDF generation"
+msgstr ""
+"La biblioteca predeterminada que se utilizará para la generación de PDF"
+
+#: admin/modules/customizer/classes/class-customizer-address.php:39
+#: admin/modules/data/data.translation_strings.php:40
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:292
+#: admin/modules/customizer/classes/class-customizer-product-table.php:906
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:146
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:153
+msgid "n/a"
+msgstr "n/a"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:348
+msgid "Package "
+msgstr "Paquete "
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:878
+#: admin/template-functions/class-wf-woocommerce-packing-list-order-func-pro.php:11
+msgid "incl. tax"
+msgstr "incluido el impuesto"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1150
+#: admin/modules/customizer/customizer.php:117
+msgid ""
+"Mauris dignissim neque ut sapien vulputate, eu semper tellus porttitor. Cras "
+"porta lectus id augue interdum egestas."
+msgstr ""
+"Mauris dignissim neque ut sapien vulputate, eu semper tellus porttitor. Cras "
+"porta lectus id augue interdum egestas."
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1219
+#: admin/modules/customizer/classes/class-customizer-pro.php:1230
+#: admin/modules/customizer/customizer.php:181
+#: admin/modules/customizer/customizer.php:192
+#: public/modules/creditnote/creditnote.php:287
+#: public/modules/invoice/invoice.php:540
+msgid "Tax items"
+msgstr "Artículos de impuestos"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1236
+#: admin/modules/customizer/customizer.php:196
+msgid ""
+"Mauris dignissim neque ut sapien vulputate, eu semper tellus porttitor. Cras "
+"porta lectus id augue interdum egestas. Suspendisse potenti. Phasellus "
+"mollis porttitor enim sit amet fringilla. Nulla sed ligula venenatis, rutrum "
+"lectus vel"
+msgstr ""
+"Mauris dignissim neque ut sapien vulputate, eu semper tellus porttitor. Cras "
+"porta lectus id augue interdum egestas. Suspendisse potenti. Phasellus "
+"mollis porttitor enim sit amet fringilla. Nulla sed ligula venenatis, rutrum "
+"lectus vel"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1242
+#: admin/modules/customizer/customizer.php:202
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec vehicula "
+"purus. Mauris tempor nec ipsum ac tempus. Aenean vehicula porttitor tortor, "
+"et interdum tellus fermentum at. Fusce pellentesque justo rhoncus"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec vehicula "
+"purus. Mauris tempor nec ipsum ac tempus. Aenean vehicula porttitor tortor, "
+"et interdum tellus fermentum en. Fusce pellentesque justo rhoncus"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1246
+#: admin/modules/customizer/customizer.php:206
+msgid "Special notes: consectetur adipiscing elit. Nunc nec vehicula purus."
+msgstr ""
+"Notas especiales: consectetur adipiscing elit. Nunc nec vehicula purus."
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1247
+#: admin/modules/customizer/customizer.php:207
+msgid ""
+"Transport Terms: Nunc nec vehicula purus. Mauris tempor nec ipsum ac tempus."
+msgstr ""
+"Condiciones de transporte: Nunc nec vehicula purus. Mauris tempor nec ipsum "
+"ac tempus."
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1248
+#: admin/modules/customizer/customizer.php:208
+msgid ""
+"Sale terms: et interdum tellus fermentum at. Fusce pellentesque justo rhoncus"
+msgstr ""
+"Condiciones de venta: et interdum tellus fermentum at. Fusce pellentesque "
+"justo rhoncus"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1250
+#: admin/modules/customizer/customizer.php:211
+msgid "Small"
+msgstr "Pequeño"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1256
+#: admin/modules/customizer/customizer.php:217
+msgid "Package 1 of 1"
+msgstr "Paquete 1 de 1"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1287
+msgid "Lighter"
+msgstr "Encendedor"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1288
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1289
+msgid "Bold"
+msgstr "Negrita"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1290
+msgid "Bolder"
+msgstr "Más audaz"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1304
+msgid "Select One"
+msgstr "Seleccione uno"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1323
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1324
+msgid "Right"
+msgstr "Derecho"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1325
+msgid "Center"
+msgstr "Centro"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1326
+msgid "Start"
+msgstr "Comienza"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1327
+msgid "End"
+msgstr "Fin"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1334
+#: admin/modules/customizer/classes/class-customizer-pro.php:1344
+msgid "Amount"
+msgstr "Cantidad"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1335
+#: admin/modules/customizer/classes/class-customizer-pro.php:1345
+msgid "Rate"
+msgstr "Tarifa"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1336
+#: admin/modules/customizer/classes/class-customizer-pro.php:1346
+msgid "Amount with rate"
+msgstr "Monto con tasa"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1347
+msgid "Seperate column"
+msgstr "columna separada"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1353
+msgid "[Tax name] - [Amount]"
+msgstr "[Nombre del impuesto] - [Monto]"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1354
+msgid "[Tax name] - [Rate]"
+msgstr "[Nombre del impuesto] - [Tasa]"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1355
+msgid "[Tax name][Rate] - [Amount]"
+msgstr "[Nombre del impuesto][Tasa] - [Monto]"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1363
+#: public/modules/creditnote/views/general.php:78
+#: public/modules/invoice/invoice.php:238
+#: public/modules/packinglist/views/general.php:95
+msgid "None"
+msgstr "Ninguno"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1376
+msgid "Solid"
+msgstr "Sólido"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1377
+msgid "Dotted"
+msgstr "Punteado"
+
+#: admin/modules/customizer/classes/class-customizer-pro.php:1378
+msgid "Dashed"
+msgstr "Dashed"
+
+#: admin/modules/customizer/classes/class-customizer-product-table.php:430
+#, php-format
+msgid "via %s"
+msgstr "a %s"
+
+#: admin/modules/customizer/classes/class-customizer-product-table.php:435
+msgid "Free!"
+msgstr "¡Gratis!"
+
+#: admin/modules/customizer/classes/class-customizer-product-table.php:640
+msgid "Refund"
+msgstr "Reembolso"
+
+#: admin/modules/customizer/classes/class-customizer-product-table.php:1304
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: admin/modules/customizer/classes/class-customizer-product-table.php:1308
+msgid "Order number"
+msgstr "Número de pedido"
+
+#: admin/modules/customizer/classes/class-customizer-product-table.php:1312
+msgid "Invoice number"
+msgstr "Número de factura"
+
+#: admin/modules/data/data.translation_strings.php:2
+#: public/modules/invoice/data/data.tooltip.php:6
+#: public/modules/invoice/invoice.php:512
+msgid "Total price"
+msgstr "Precio total"
+
+#: admin/modules/data/data.translation_strings.php:3
+#: public/modules/invoice/invoice.php:513
+msgid "Total tax"
+msgstr "Impuesto total"
+
+#: admin/modules/data/data.translation_strings.php:4
+msgid "Order No.:"
+msgstr "Pedido No.:"
+
+#: admin/modules/data/data.translation_strings.php:5
+msgid "Order No:"
+msgstr "Pedido Nº:"
+
+#: admin/modules/data/data.translation_strings.php:6
+msgid "Order no:"
+msgstr "Pedido Nº:"
+
+#: admin/modules/data/data.translation_strings.php:7
+msgid "Order date:"
+msgstr "Fecha del pedido:"
+
+#: admin/modules/data/data.translation_strings.php:8
+msgid "S.NO"
+msgstr "S.NO"
+
+#: admin/modules/data/data.translation_strings.php:9
+msgid "S.No"
+msgstr "S.No"
+
+#: admin/modules/data/data.translation_strings.php:10
+#: admin/modules/data/data.translation_strings.php:11
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/modules/data/data.translation_strings.php:12
+msgid "Cart discount"
+msgstr "Desc. en el Carrito"
+
+#: admin/modules/data/data.translation_strings.php:13
+msgid "Order discount"
+msgstr "Descuento de pedido"
+
+#: admin/modules/data/data.translation_strings.php:14
+msgid "Payment method:"
+msgstr "Método de pago:"
+
+#: admin/modules/data/data.translation_strings.php:15
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+#: admin/modules/data/data.translation_strings.php:16
+msgid "Customer note:"
+msgstr "Nota del cliente:"
+
+#: admin/modules/data/data.translation_strings.php:17
+msgid "Shipping Method:"
+msgstr "Método de envío:"
+
+#: admin/modules/data/data.translation_strings.php:18
+msgid "Shipping method:"
+msgstr "Método de envío:"
+
+#: admin/modules/data/data.translation_strings.php:19
+msgid "VAT:"
+msgstr "NIF:"
+
+#: admin/modules/data/data.translation_strings.php:20
+msgid "SSN:"
+msgstr "SSN:"
+
+#: admin/modules/data/data.translation_strings.php:21
+msgid "INVOICE"
+msgstr "FACTURA"
+
+#: admin/modules/data/data.translation_strings.php:22
+msgid "Coupon used"
+msgstr "Cupón usado"
+
+#: admin/modules/data/data.translation_strings.php:23
+#: admin/views/advanced.php:136 public/modules/packinglist/packinglist.php:98
+msgid "Packing slip"
+msgstr "Hoja de embalaje"
+
+#: admin/modules/data/data.translation_strings.php:24
+msgid "Box name:"
+msgstr "Nombre de la caja:"
+
+#: admin/modules/data/data.translation_strings.php:25
+msgid "No of items:"
+msgstr "Número de artículos:"
+
+#: admin/modules/data/data.translation_strings.php:26
+msgid "Total Weight"
+msgstr "Peso total"
+
+#: admin/modules/data/data.translation_strings.php:27
+msgid "Total weight"
+msgstr "Peso total"
+
+#: admin/modules/data/data.translation_strings.php:28
+msgid "Credit note No:"
+msgstr "No. de nota de crédito:"
+
+#: admin/modules/data/data.translation_strings.php:29
+msgid "Credit note Date:"
+msgstr "Fecha de Nota de Crédito"
+
+#: admin/modules/data/data.translation_strings.php:30
+msgid "Return Address:"
+msgstr "Dirección del remitente:"
+
+#: admin/modules/data/data.translation_strings.php:31
+msgid "Invoice No:"
+msgstr "No. de factura:"
+
+#: admin/modules/data/data.translation_strings.php:32
+msgid "Invoice no:"
+msgstr "No. de factura:"
+
+#: admin/modules/data/data.translation_strings.php:33
+msgid "Proforma invoice"
+msgstr "Factura proforma"
+
+#: admin/modules/data/data.translation_strings.php:34
+msgid "Proforma invoice no:"
+msgstr "Número de factura proforma:"
+
+#: admin/modules/data/data.translation_strings.php:35
+msgid "Proforma invoice date:"
+msgstr "Fecha de la factura proforma:"
+
+#: admin/modules/data/data.translation_strings.php:36
+msgid "Weight:"
+msgstr "Peso:"
+
+#: admin/modules/data/data.translation_strings.php:37
+msgid "Ship date:"
+msgstr "Fecha de embarque:"
+
+#: admin/modules/data/data.translation_strings.php:38
+msgid "To:"
+msgstr "Para:"
+
+#: admin/modules/data/data.translation_strings.php:39
+msgid "Tel:"
+msgstr "Tel:"
+
+#: admin/modules/data/data.translation_strings.php:41
+msgid "Dispatch date:"
+msgstr "Fecha de Envío:"
+
+#: admin/modules/data/data.translation_strings.php:42
+msgid "orders"
+msgstr "pedidos"
+
+#: admin/modules/data/data.translation_strings.php:43
+msgid "Orders:"
+msgstr "Pedidos:"
+
+#: admin/modules/data/data.translation_strings.php:44
+msgid "Printed on:"
+msgstr "Impreso en:"
+
+#: admin/views/_custom_field_editor_form.php:8
+#: admin/views/_custom_field_editor_form.php:9
+#: admin/views/_custom_field_editor_form.php:16
+#: admin/views/_form_field_generator_pro.php:98
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: admin/views/_custom_field_editor_form.php:13
+#: admin/views/_form_field_generator_pro.php:100
+msgid "Previously added"
+msgstr "Agregado previamente"
+
+#: admin/views/_custom_field_editor_form.php:27
+#: admin/views/_form_field_generator_pro.php:131
+msgid "Field Name"
+msgstr "Nombre del campo"
+
+#: admin/views/_custom_field_editor_form.php:31
+#: admin/views/_form_field_generator_pro.php:132
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: admin/views/_form_field_generator_pro.php:30
+msgid "Temp file(s) found."
+msgstr "Se encontraron archivos temporales."
+
+#: admin/views/_form_field_generator_pro.php:32
+msgid "Delete all"
+msgstr "Borrar todo"
+
+#: admin/views/_form_field_generator_pro.php:33
+msgid "Download all"
+msgstr "Descargar todos"
+
+#: admin/views/_form_field_generator_pro.php:35
+msgid "No files found"
+msgstr "No se encontraron archivos"
+
+#: admin/views/_form_field_generator_pro.php:70
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:453
+msgid "required"
+msgstr "requerido"
+
+#: admin/views/_form_field_generator_pro.php:83
+msgid "Add/Edit Custom Field"
+msgstr "Editar campo personalizado"
+
+#: admin/views/_form_field_generator_pro.php:130
+msgid "You can edit existing Meta items by using Meta key of the item."
+msgstr ""
+"Puede editar los elementos Meta existentes utilizando la tecla Meta del "
+"elemento."
+
+#: admin/views/_form_field_generator_pro.php:133
+msgid "Please use only alphabets and underscore for meta key."
+msgstr "Utilice solo alfabetos y guiones bajos para la meta clave."
+
+#: admin/views/_form_field_generator_pro.php:134
+msgid "Correct"
+msgstr "Correcto"
+
+#: admin/views/_form_field_generator_pro.php:135
+msgid "Incorrect"
+msgstr "Incorrecto"
+
+#: admin/views/_form_field_generator_pro.php:163
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: admin/views/_form_field_generator_pro.php:164
+msgid "Is mandatory field?"
+msgstr "¿Es campo obligatorio?"
+
+#: admin/views/_form_field_generator_pro.php:165
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/views/_form_field_generator_pro.php:166
+msgid "No"
+msgstr "No"
+
+#: admin/views/_form_field_generator_pro.php:174
+msgid "Select/add additional fields in the checkout page"
+msgstr "Seleccionar/agregar campos adicionales en la página de pago"
+
+#: admin/views/_form_field_generator_pro.php:175
+msgid "e.g VAT, SSN etc"
+msgstr "por ejemplo, IVA, SSN, etc."
+
+#: admin/views/_form_field_generator_pro.php:177
+msgid "Learn how to add custom field at checkout"
+msgstr "Aprenda cómo agregar un campo personalizado al finalizar la compra"
+
+#: admin/views/_form_field_generator_pro.php:257
+msgid "Order meta"
+msgstr "Metadatos del pedido"
+
+#: admin/views/_form_field_generator_pro.php:259
+msgid "Add/Edit order meta field"
+msgstr "Agregar / editar metacampo de pedido"
+
+#: admin/views/_form_field_generator_pro.php:299
+msgid "Product Meta"
+msgstr "Meta del producto"
+
+#: admin/views/_form_field_generator_pro.php:301
+msgid "Add/Edit Product Meta"
+msgstr "Agregar / editar meta del producto"
+
+#: admin/views/_form_field_generator_pro.php:339
+msgid "Product Attributes"
+msgstr "Atributos de los Productos"
+
+#: admin/views/_form_field_generator_pro.php:341
+msgid "Add/Edit Product Attribute"
+msgstr "Agregar / editar atributo de producto"
+
+#: admin/views/admin-settings-save-button.php:6
+msgid "Update Settings"
+msgstr "Actualizar la configuración"
+
+#: admin/views/advanced.php:23
+msgid "Add additional fields on checkout page"
+msgstr "Agregar campos adicionales en la página de pago"
+
+#: admin/views/advanced.php:28
+msgid "No fields added yet"
+msgstr "Aún no se han agregado campos"
+
+#: admin/views/advanced.php:32
+msgid "Tracking number meta"
+msgstr "Número de seguimiento"
+
+#: admin/views/advanced.php:36
+msgid "Enter the tracking number meta field to add tracking number information"
+msgstr ""
+"Ingrese el metacampo del número de seguimiento para agregar la información "
+"del número de seguimiento"
+
+#: admin/views/advanced.php:41
+msgid "Display state name"
+msgstr "Estado"
+
+#: admin/views/advanced.php:45
+msgid "Enable to show state name in addresses"
+msgstr "Habilitar para mostrar el nombre del estado en las direcciones"
+
+#: admin/views/advanced.php:53
+msgid "Preview before printing"
+msgstr "Vista previa antes de la impresión"
+
+#: admin/views/advanced.php:57
+msgid "Preview documents before printing"
+msgstr "Vista previa de documentos antes de imprimir"
+
+#: admin/views/advanced.php:65
+msgid "Enable RTL support"
+msgstr "Habilitar el soporte de RTL"
+
+#: admin/views/advanced.php:69
+msgid "RTL support for documents"
+msgstr "Soporte RTL para documentos"
+
+#: admin/views/advanced.php:73
+msgid "For better RTL integration in PDF documents, please use our"
+msgstr "Para una mejor integración de RTL en documentos PDF, utilice nuestro"
+
+#: admin/views/advanced.php:74
+msgid "mPDF add-on"
+msgstr "Complemento de mPDF"
+
+#: admin/views/advanced.php:86
+msgid "PDF library"
+msgstr "Biblioteca en PDF"
+
+#: admin/views/advanced.php:102
+#, php-format
+msgid ""
+"%sNote:%s You have not enabled tax option in WooCommerce. If you need to "
+"apply tax for new orders you need to enable it %s here. %s"
+msgstr ""
+"%s Nota: %s no ha habilitado la opción de impuestos en WooCommerce. Si "
+"necesita aplicar impuestos para pedidos nuevos, debe habilitarlos %s aquí. %s"
+
+#: admin/views/advanced.php:108
+msgid "Display price in the product table"
+msgstr "Mostrar precio en la tabla de productos"
+
+#: admin/views/advanced.php:113
+msgid "WooCommerce tax settings"
+msgstr "Configuración de impuestos de WooCommerce"
+
+#: admin/views/advanced.php:115
+msgid "Exclude tax"
+msgstr "Excluir el impuesto"
+
+#: admin/views/advanced.php:116
+msgid "Include tax"
+msgstr "Incluir el impuesto"
+
+#: admin/views/advanced.php:120
+msgid "All price columns displayed will be inclusive of tax."
+msgstr "Todas las columnas de precios que se muestran incluirán impuestos."
+
+#: admin/views/advanced.php:126
+msgid "All price columns displayed will be exclusive of tax."
+msgstr "Todas las columnas de precios mostradas no incluirán impuestos."
+
+#: admin/views/advanced.php:139
+msgid "Shipping label"
+msgstr "Etiqueta de envío"
+
+#: admin/views/advanced.php:140
+msgid "Delivery note"
+msgstr "Nota de entrega"
+
+#: admin/views/advanced.php:144
+#, php-format
+msgid "Note: This option is applicable on %1s only"
+msgstr "Nota: Esta opción se aplica solo en %1s"
+
+#: admin/views/advanced.php:148
+msgid "Packaging type"
+msgstr "Tipo de embalaje"
+
+#: admin/views/advanced.php:151 admin/views/advanced.php:163
+msgid "Pack items individually"
+msgstr "Empacar artículos individualmente"
+
+#: admin/views/advanced.php:152
+msgid "Box packing"
+msgstr "Embalaje de caja"
+
+#: admin/views/advanced.php:153
+msgid "Single package per order"
+msgstr "Paquete único por pedido"
+
+#: admin/views/advanced.php:159
+msgid "Single package(per order)"
+msgstr "Paquete único por pedido"
+
+#: admin/views/advanced.php:160
+msgid ""
+"All the items belonging to an order are packed together into a single "
+"package. Every order will have a respective package"
+msgstr ""
+"Todos los artículos pertenecientes a un pedido se empaquetan juntos en un "
+"único paquete. Cada pedido tendrá su paquete respectivo."
+
+#: admin/views/advanced.php:161
+msgid "Box packing(per order)"
+msgstr "Embalaje en caja (por pedido)"
+
+#: admin/views/advanced.php:162
+msgid ""
+"All the items belonging to an order are packed into the respective boxes as "
+"per the configuration. Every order may have one or more boxes based on the "
+"configuration"
+msgstr ""
+"Todos los artículos pertenecientes a un pedido se empaquetan en las cajas "
+"respectivas según la configuración. Cada pedido puede tener una o más cajas "
+"según la configuración."
+
+#: admin/views/advanced.php:164
+msgid ""
+"Every item from the order/s are packed individually. e.g if an order has 2 "
+"quantities of product A and 1 quantity of product B, there will be three "
+"packages consisting one item each from the order"
+msgstr ""
+"Cada artículo del pedido se empaqueta individualmente. por ejemplo, si un "
+"pedido tiene 2 cantidades del producto A y 1 cantidad del producto B, habrá "
+"tres paquetes que constan de un artículo cada uno del pedido."
+
+#: admin/views/advanced.php:194
+msgid "Box Sizes"
+msgstr "Tamaños de caja"
+
+#: admin/views/advanced.php:199
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/views/advanced.php:200
+msgid "Length"
+msgstr "Longitud"
+
+#: admin/views/advanced.php:201
+msgid "Width"
+msgstr "Ancho"
+
+#: admin/views/advanced.php:202
+msgid "Height"
+msgstr "Altura"
+
+#: admin/views/advanced.php:203
+msgid "Box Weight"
+msgstr "Peso de la caja"
+
+#: admin/views/advanced.php:204
+msgid "Max Weight"
+msgstr "Peso máximo"
+
+#: admin/views/advanced.php:205
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: admin/views/advanced.php:212
+msgid "Add Box"
+msgstr "Añadir cuadro"
+
+#: admin/views/advanced.php:213
+msgid "Remove selected box(es)"
+msgstr "Eliminar caja (s) seleccionada (s)"
+
+#: admin/views/advanced.php:215
+msgid ""
+"Items will be packed into these boxes depending on its dimensions and "
+"volume, those that do not fit will be packed individually."
+msgstr ""
+"Los artículos se empaquetarán en estas cajas en función de sus dimensiones y "
+"volumen, los que no quepan se empaquetarán individualmente."
+
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:53
+msgid " of "
+msgstr " de "
+
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:142
+msgid "0"
+msgstr "0"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:41
+#: public/modules/invoice/invoice.php:436
+#: public/modules/invoice/invoice.php:755
+msgid "Pay Later"
+msgstr "Pagar después"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:42
+msgid ""
+"Allows a ‘Pay Later’ option at the checkout. Orders will be marked with the "
+"status ‘Pending payment’ on using this payment method."
+msgstr ""
+"Permite la opción \"Pagar después\" en la caja. Los pedidos se marcarán con "
+"el estado \"Pago pendiente\" al utilizar este método de pago."
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:69
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:71
+msgid "Enable Pay Later Payment"
+msgstr "Habilitar Pago posterior"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:76
+#: public/modules/invoice/invoice.php:373
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:78
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+"Esto controla el título del método de pago que el cliente ve durante el "
+"proceso de pago."
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:79
+msgid "Pay Later Payment"
+msgstr "Pagar pago posterior"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:84
+#: public/modules/invoice/invoice.php:384
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:86
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Descripción del método de pago que el cliente verá en su pago."
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:87
+msgid "Please remit payment to Store Name upon pickup or delivery."
+msgstr ""
+"Envíe el pago al nombre de la tienda al momento de la recolección o la "
+"entrega."
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:92
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:94
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+"Instrucciones que se añadirán a la página de agradecimiento y correos "
+"electrónicos."
+
+#: includes/class-wf-woocommerce-packing-list-pay-later-payment.php:140
+msgid "Pay later: "
+msgstr "Paga después:"
+
+#: includes/class-wt_woocommerce_invoice_addon.php:369
+#, php-format
+msgid ""
+"%1$s WooCommerce PDF Invoices, Packing Slips and Credit Notes (Pro) %2$s is "
+"activated but not effective. It requires %3$s WooCommerce %4$s in order to "
+"work"
+msgstr ""
+"%1$s Facturas, albaranes y notas de crédito en PDF de WooCommerce (Pro) %2$s "
+"está activado pero no es efectivo. Requiere %3$s WooCommerce %4$s para "
+"funcionar"
+
+#: includes/class-wt_woocommerce_invoice_addon.php:393
+#, php-format
+msgid ""
+"%1$s WooCommerce PDF Invoices, Packing Slips and Credit Notes (Pro) %2$s is "
+"enabled but not effective. It requires %3$s WooCommerce PDF Invoices, "
+"Packing Slips, Delivery Notes & Shipping Labels (Basic) by WebToffee %4$s "
+"with minimum version 4.1.0 in order to work."
+msgstr ""
+"%1$s Facturas, albaranes y notas de crédito en PDF de WooCommerce (Pro) %2$s "
+"está habilitado pero no es efectivo. Requiere %3$s facturas en PDF, "
+"albaranes, notas de entrega y etiquetas de envío de WooCommerce (básico) de "
+"WebToffee %4$s con la versión mínima 4.1.0 para funcionar."
+
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:251
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:270
+msgid "No data found"
+msgstr "No se han encontrado datos"
+
+#: includes/class-wt_woocoommerce_packing_list_pro_func.php:385
+msgid "Item with same meta key already exists"
+msgstr "El artículo con la misma meta clave ya existe"
+
+#: includes/licence_manager/licence_manager.php:123
+msgid "Licence"
+msgstr "Licencia"
+
+#: includes/licence_manager/licence_manager.php:139
+#: includes/licence_manager/licence_manager.php:624
+msgid "Please enter Licence key"
+msgstr "Ingrese la clave de licencia"
+
+#: includes/licence_manager/licence_manager.php:140
+msgid "Please enter Email"
+msgstr "Ingrese el correo electrónico"
+
+#: includes/licence_manager/licence_manager.php:141
+#: includes/licence_manager/licence_manager.php:612
+msgid "Please select a product"
+msgstr "Por favor seleccione un producto"
+
+#: includes/licence_manager/licence_manager.php:142
+msgid "Please wait..."
+msgstr "Por favor espera..."
+
+#: includes/licence_manager/licence_manager.php:144
+msgid "Success"
+msgstr "Éxito"
+
+#: includes/licence_manager/licence_manager.php:145
+msgid "Unable to fetch Licence details"
+msgstr "No se pueden recuperar los detalles de la licencia"
+
+#: includes/licence_manager/licence_manager.php:146
+#: includes/licence_manager/views/_licence_list.php:50
+msgid "No Licence details found."
+msgstr "No se encontraron detalles de licencia."
+
+#: includes/licence_manager/licence_manager.php:147
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: includes/licence_manager/licence_manager.php:475
+#: includes/licence_manager/licence_manager.php:481
+#: includes/licence_manager/licence_manager.php:509
+#: includes/licence_manager/licence_manager.php:515
+#: includes/licence_manager/licence_manager.php:525
+msgid "Error !!!"
+msgstr "Error !!!"
+
+#: includes/licence_manager/licence_manager.php:488
+msgid "Successfully deleted."
+msgstr "Eliminado correctamente."
+
+#: includes/licence_manager/licence_manager.php:544
+#: includes/licence_manager/licence_manager.php:671
+msgid "Request failed, Please try again"
+msgstr "Error en la solicitud, por favor inténtelo de nuevo"
+
+#: includes/licence_manager/licence_manager.php:560
+msgid "Successfully deactivated."
+msgstr "Desactivado con éxito."
+
+#: includes/licence_manager/licence_manager.php:618
+msgid "Invalid product"
+msgstr "Producto no válido"
+
+#: includes/licence_manager/licence_manager.php:637
+msgid "The chosen plugin already has an active licence."
+msgstr ""
+"El complemento elegido ya tiene una licencia activa. Actívelo después de que "
+"caduque la licencia actual."
+
+#: includes/licence_manager/licence_manager.php:646
+msgid ""
+"This licence key has already been activated for another product. Please "
+"provide another licence key."
+msgstr ""
+"La clave de licencia proporcionada ya estaba activada para otro producto. "
+"Proporcione otra clave de licencia."
+
+#: includes/licence_manager/licence_manager.php:697
+msgid "Successfully activated."
+msgstr "Activado con éxito."
+
+#: includes/licence_manager/licence_manager.php:779
+msgid "License doesn't exist"
+msgstr "Detalles de la licencia"
+
+#: includes/licence_manager/licence_manager.php:780
+msgid "URL not provided"
+msgstr "URL no proporcionada"
+
+#: includes/licence_manager/licence_manager.php:781
+msgid "Attempting to activate a bundle's parent license"
+msgstr "Intentar activar la licencia principal de un paquete"
+
+#: includes/licence_manager/licence_manager.php:782
+msgid "License key revoked"
+msgstr "Clave de Licencia"
+
+#: includes/licence_manager/licence_manager.php:783
+msgid "No activations left"
+msgstr "No quedan activaciones"
+
+#: includes/licence_manager/licence_manager.php:784
+msgid "License has expired"
+msgstr "La licencia ha expirado"
+
+#: includes/licence_manager/licence_manager.php:785
+#: includes/licence_manager/licence_manager.php:787
+msgid "License is not valid for this product"
+msgstr "La licencia no es válida para este producto"
+
+#: includes/licence_manager/licence_manager.php:786
+msgid "Invalid Product"
+msgstr "Producto no válido"
+
+#: includes/licence_manager/licence_manager.php:837
+#, php-format
+msgid ""
+"The plugin license is not activated. You will not receive compatibility and "
+"security updates if the plugin license is not activated. <a href=\"%s\" "
+"target=\"_blank\">Activate now</a>"
+msgstr ""
+"La licencia del complemento no está activada. No recibirá actualizaciones de "
+"compatibilidad y seguridad si la licencia del complemento no está activada. "
+"<a href=\"%s\" target=\"_blank\">Activar ahora</a>"
+
+#: includes/licence_manager/licence_manager.php:840
+msgid "The product license has either expired or not been activated."
+msgstr "La licencia del producto ha caducado o no se ha activado."
+
+#: includes/licence_manager/views/_licence_list.php:9
+msgid "Licence key"
+msgstr "Clave de licencia"
+
+#: includes/licence_manager/views/_licence_list.php:10
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/licence_manager/views/_licence_list.php:11
+msgid "Status"
+msgstr "Estado"
+
+#: includes/licence_manager/views/_licence_list.php:12
+msgid "Product"
+msgstr "Producto"
+
+#: includes/licence_manager/views/_licence_list.php:13
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/licence_manager/views/licence-settings.php:15
+msgid "Activate new Licence"
+msgstr "Activar nueva licencia"
+
+#: includes/licence_manager/views/licence-settings.php:29
+msgid "Product:"
+msgstr "Producto:"
+
+#: includes/licence_manager/views/licence-settings.php:47
+msgid "Licence Key:"
+msgstr "Licencia:"
+
+#: includes/licence_manager/views/licence-settings.php:51
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: includes/licence_manager/views/licence-settings.php:56
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/licence_manager/views/licence-settings.php:61
+msgid "Licence details"
+msgstr "Detalles de la licencia"
+
+#: includes/views/sequential_number_date_popup_pro.php:5
+msgid "Click to append with existing data"
+msgstr "Haga clic para añadir con los datos existentes"
+
+#: includes/views/sequential_number_date_popup_pro.php:17
+msgid "Date formats"
+msgstr "Formatos de fecha"
+
+#: includes/views/sequential_number_date_popup_pro.php:23
+msgid ""
+"By default the arguments will consider the document date(date on which the "
+"document invoice, shipping label etc is generated) as the input. "
+msgstr ""
+"De forma predeterminada, los argumentos considerarán la fecha del documento "
+"(fecha en la que se genera la factura del documento, la etiqueta de envío, "
+"etc.) como entrada. "
+
+#: includes/views/sequential_number_date_popup_pro.php:26
+msgid "Use order date as input instead."
+msgstr "Utilice la fecha del pedido como entrada en su lugar."
+
+#: includes/views/sequential_number_date_popup_pro.php:27
+msgid ""
+"Enable this if you want to use the order date as input for the below "
+"arguments."
+msgstr ""
+"Habilite esto si desea utilizar la fecha del pedido como entrada para los "
+"siguientes argumentos."
+
+#: includes/views/sequential_number_date_popup_pro.php:31
+msgid "Select from any of the formats below:"
+msgstr "Seleccione cualquiera de los siguientes formatos:"
+
+#: includes/views/sequential_number_date_popup_pro.php:36
+msgid "Format"
+msgstr "Formato"
+
+#: includes/views/sequential_number_date_popup_pro.php:36
+msgid "Output"
+msgstr "Salida"
+
+#: public/modules/creditnote/creditnote.php:80
+#: public/modules/creditnote/views/admin-settings.php:13
+msgid "Credit note"
+msgstr "Factura rectificativa"
+
+#: public/modules/creditnote/creditnote.php:128
+#: public/modules/creditnote/creditnote.php:129
+#: public/modules/creditnote/creditnote.php:471
+#: public/modules/creditnote/creditnote.php:496
+msgid "Credit Note"
+msgstr "Nota de Crédito"
+
+#: public/modules/creditnote/creditnote.php:266
+#: public/modules/invoice/invoice.php:518
+#: public/modules/packinglist/packinglist.php:249
+msgid "Document title"
+msgstr "Título del documento"
+
+#: public/modules/creditnote/creditnote.php:267
+#: public/modules/invoice/invoice.php:519
+#: public/modules/packinglist/packinglist.php:250
+msgid "Company Logo"
+msgstr "Logotipo de la empresa"
+
+#: public/modules/creditnote/creditnote.php:268
+#: public/modules/invoice/invoice.php:521
+#: public/modules/packinglist/packinglist.php:251
+msgid "Order Number"
+msgstr "Número de orden"
+
+#: public/modules/creditnote/creditnote.php:269
+#: public/modules/invoice/invoice.php:523
+#: public/modules/packinglist/packinglist.php:252
+msgid "Order Date"
+msgstr "Fecha del pedido"
+
+#: public/modules/creditnote/creditnote.php:270
+#: public/modules/creditnote/views/general.php:109
+msgid "Credit note number"
+msgstr "Número de la factura rectificativa"
+
+#: public/modules/creditnote/creditnote.php:271
+msgid "Credit note Date"
+msgstr "Fecha de Nota de Crédito"
+
+#: public/modules/creditnote/creditnote.php:272
+#: public/modules/invoice/invoice.php:520
+msgid "Invoice Number"
+msgstr "Número de factura"
+
+#: public/modules/creditnote/creditnote.php:273
+#: public/modules/invoice/invoice.php:525
+#: public/modules/packinglist/packinglist.php:253
+msgid "From Address"
+msgstr "De la dirección"
+
+#: public/modules/creditnote/creditnote.php:274
+#: public/modules/invoice/invoice.php:526
+#: public/modules/packinglist/packinglist.php:254
+msgid "Billing Address"
+msgstr "Dirección de facturación"
+
+#: public/modules/creditnote/creditnote.php:275
+#: public/modules/invoice/invoice.php:527
+#: public/modules/packinglist/packinglist.php:255
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+#: public/modules/creditnote/creditnote.php:276
+msgid "Return Address"
+msgstr "Dirección del remitente"
+
+#: public/modules/creditnote/creditnote.php:277
+#: public/modules/invoice/invoice.php:528
+#: public/modules/packinglist/packinglist.php:256
+msgid "Email Field"
+msgstr "Campo de correo electrónico"
+
+#: public/modules/creditnote/creditnote.php:278
+#: public/modules/invoice/invoice.php:529
+#: public/modules/packinglist/packinglist.php:257
+msgid "Tel Field"
+msgstr "Campo Tel"
+
+#: public/modules/creditnote/creditnote.php:279
+#: public/modules/invoice/invoice.php:530
+#: public/modules/packinglist/packinglist.php:258
+msgid "VAT Field"
+msgstr "Campo de IVA"
+
+#: public/modules/creditnote/creditnote.php:280
+#: public/modules/invoice/invoice.php:531
+#: public/modules/packinglist/packinglist.php:259
+msgid "SSN Field"
+msgstr "Campo SSN"
+
+#: public/modules/creditnote/creditnote.php:281
+#: public/modules/packinglist/packinglist.php:260
+msgid "Customer Note"
+msgstr "Nota del cliente"
+
+#: public/modules/creditnote/creditnote.php:282
+#: public/modules/invoice/invoice.php:532
+#: public/modules/packinglist/packinglist.php:261
+msgid "Shipping Method"
+msgstr "Método de envío"
+
+#: public/modules/creditnote/creditnote.php:283
+#: public/modules/invoice/invoice.php:533
+#: public/modules/packinglist/packinglist.php:262
+msgid "Tracking Number"
+msgstr "Número de seguimiento"
+
+#: public/modules/creditnote/creditnote.php:284
+#: public/modules/invoice/invoice.php:534
+#: public/modules/packinglist/packinglist.php:264
+msgid "Product Table"
+msgstr "Tabla de productos"
+
+#: public/modules/creditnote/creditnote.php:285
+#: public/modules/invoice/invoice.php:535
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: public/modules/creditnote/creditnote.php:286
+#: public/modules/invoice/invoice.php:536
+msgid "Shipping"
+msgstr "Envío"
+
+#: public/modules/creditnote/creditnote.php:288
+#: public/modules/invoice/invoice.php:539
+msgid "Total Tax"
+msgstr "Impuesto total"
+
+#: public/modules/creditnote/creditnote.php:289
+#: public/modules/invoice/invoice.php:541
+msgid "Fee"
+msgstr "Tarifa"
+
+#: public/modules/creditnote/creditnote.php:290
+#: public/modules/invoice/invoice.php:545
+msgid "Total"
+msgstr "Total"
+
+#: public/modules/creditnote/creditnote.php:291
+#: public/modules/invoice/invoice.php:549
+#: public/modules/packinglist/packinglist.php:267
+msgid "Footer"
+msgstr "Pie de página"
+
+#: public/modules/creditnote/creditnote.php:348
+#: public/modules/invoice/invoice.php:588
+msgid "Tax items text align"
+msgstr "Alineación de texto de elementos de impuestos"
+
+#: public/modules/creditnote/creditnote.php:365
+#: public/modules/invoice/invoice.php:606
+msgid "Total Tax label"
+msgstr "Etiqueta de impuesto total"
+
+#: public/modules/creditnote/creditnote.php:371
+#: public/modules/invoice/invoice.php:612
+msgid "Total Tax text align"
+msgstr "Alineación del texto del impuesto total"
+
+#: public/modules/creditnote/creditnote.php:387
+#: public/modules/invoice/invoice.php:579
+#: public/modules/invoice/invoice.php:639
+msgid "Tax items value"
+msgstr "Valor de las partidas fiscales"
+
+#: public/modules/creditnote/creditnote.php:433
+#: public/modules/creditnote/creditnote.php:478
+#: public/modules/creditnote/creditnote.php:497
+msgid "Print Credit Note"
+msgstr "Imprimir nota de crédito"
+
+#: public/modules/creditnote/creditnote.php:472
+msgid "Print/Download Credit Note"
+msgstr "Imprimir / descargar nota de crédito"
+
+#: public/modules/creditnote/creditnote.php:477
+msgid "Print"
+msgstr "Imprimir"
+
+#: public/modules/creditnote/creditnote.php:484
+msgid "Download"
+msgstr "Descargar"
+
+#: public/modules/creditnote/creditnote.php:485
+msgid "Download Credit Note"
+msgstr "Descargar nota de crédito"
+
+#: public/modules/creditnote/creditnote.php:578
+msgid "Credit Note Number"
+msgstr "Número de nota de crédito"
+
+#: public/modules/creditnote/creditnote.php:584
+msgid "Credit Note Date"
+msgstr "Fecha de la Nota de Crédito"
+
+#: public/modules/creditnote/creditnote.php:1081
+msgid "Refund Reason"
+msgstr "Razón del reembolso"
+
+#: public/modules/creditnote/creditnote.php:1083
+msgid "-"
+msgstr "-"
+
+#: public/modules/creditnote/creditnote.php:1148
+#: public/modules/packinglist/packinglist.php:537
+msgid "Customizer module is not active."
+msgstr "El módulo de personalización no está activo."
+
+#: public/modules/creditnote/data/data.templates.php:5
+msgid "Layout 1"
+msgstr "Diseño 1"
+
+#: public/modules/creditnote/data/data.templates.php:12
+msgid "Layout 2"
+msgstr "Diseño 2"
+
+#: public/modules/creditnote/data/data.tooltip.php:6
+msgid ""
+"Enable to include variation data in the product table of the creditnote."
+msgstr ""
+"Habilitar para incluir datos de variación en la tabla de productos de la "
+"nota de crédito."
+
+#: public/modules/creditnote/data/data.tooltip.php:7
+msgid ""
+"By enabling this option, the WooCommerce order number can be mirrored as the "
+"credit note number or a custom credit note number can be specified by "
+"choosing Custom number series. Then set the Credit note start number option."
+msgstr ""
+"Al habilitar esta opción, el número de pedido de WooCommerce se puede "
+"reflejar como el número de nota de crédito o se puede especificar un número "
+"de nota de crédito personalizado eligiendo Serie de números personalizados. "
+"Luego configure la opción Número de inicio de nota de crédito."
+
+#: public/modules/creditnote/data/data.tooltip.php:8
+msgid ""
+"Allows to set the credit note number start number as other than 1. Click on "
+"reset button to revert to the default start number."
+msgstr ""
+"Permite configurar el número inicial del número de nota de crédito como "
+"distinto de 1. Haga clic en el botón Restablecer para volver al número "
+"inicial predeterminado."
+
+#: public/modules/creditnote/data/data.tooltip.php:9
+#: public/modules/invoice/data/data.tooltip.php:13
+#: public/modules/packinglist/data/data.tooltip.php:10
+msgid ""
+"Include custom order meta by clicking on the Add/ Edit order meta field. Key "
+"in the field name and meta key to include an order meta. Previously added "
+"tab lists the order meta fields added in the past."
+msgstr ""
+"Incluya meta de pedido personalizado haciendo clic en el campo Agregar/"
+"Editar meta de pedido. Introduzca el nombre del campo y la clave meta para "
+"incluir una meta clave de pedido. La pestaña Agregado anteriormente enumera "
+"los metacampos de pedido agregados en el pasado."
+
+#: public/modules/creditnote/data/data.tooltip.php:10
+#: public/modules/invoice/data/data.tooltip.php:14
+#: public/modules/packinglist/data/data.tooltip.php:11
+msgid ""
+"Include custom product meta by clicking on the Add/ Edit order meta field. "
+"Key in the field name and meta key to include a product meta. Previously "
+"added tab lists the product meta fields added in the past."
+msgstr ""
+"Incluya meta de producto personalizado haciendo clic en el campo Agregar/"
+"Editar meta de pedido. Introduzca el nombre del campo y la clave meta para "
+"incluir una meta clave del producto. La pestaña Agregado anteriormente "
+"enumera los metacampos del producto agregados en el pasado."
+
+#: public/modules/creditnote/data/data.tooltip.php:11
+#: public/modules/invoice/data/data.tooltip.php:15
+#: public/modules/packinglist/data/data.tooltip.php:12
+msgid ""
+"Include custom product attributes by clicking on the Add/ Edit order meta "
+"field. Key in the field name and meta key to include a product attribute. "
+"Previously added tab lists the product attributes added in the past."
+msgstr ""
+"Incluya atributos de producto personalizados haciendo clic en el metacampo "
+"Agregar/Editar pedido. Introduzca el nombre del campo y la metaclave para "
+"incluir un atributo del producto. La pestaña Agregado previamente enumera "
+"los atributos del producto agregados en el pasado."
+
+#: public/modules/creditnote/views/admin-settings.php:6
+#: public/modules/creditnote/views/general.php:31
+#: public/modules/packinglist/views/general.php:29
+msgid "General"
+msgstr "General"
+
+#: public/modules/creditnote/views/general.php:11
+msgid "Configure the general settings required for the credit note."
+msgstr "Configure los ajustes generales necesarios para la nota de crédito."
+
+#: public/modules/creditnote/views/general.php:36
+msgid "Create credit notes automatically"
+msgstr "Crear notas de crédito automáticamente"
+
+#: public/modules/creditnote/views/general.php:43
+#: public/modules/invoice/invoice.php:339
+#: public/modules/packinglist/views/general.php:41
+msgid "Choose order status"
+msgstr "Elija el estado del pedido"
+
+#: public/modules/creditnote/views/general.php:44
+msgid ""
+"Creates credit notes for selected order statuses, if the order has any "
+"refunds"
+msgstr ""
+"Crea notas de crédito para estados de pedidos seleccionados, si el pedido "
+"tiene algún reembolso"
+
+#: public/modules/creditnote/views/general.php:51
+msgid "Attach credit note in ‘Refund’ email"
+msgstr "Adjunte una nota de crédito en el correo electrónico de \"Reembolso\""
+
+#: public/modules/creditnote/views/general.php:54
+msgid ""
+"Enable to attach credit note as PDF with WooCommerce refund email for the "
+"orders of above chosen statuses"
+msgstr ""
+"Habilite la opción de adjuntar nota de crédito como PDF con el correo "
+"electrónico de reembolso de WooCommerce para los pedidos de los estados "
+"elegidos anteriormente"
+
+#: public/modules/creditnote/views/general.php:70
+#: public/modules/invoice/invoice.php:220
+#: public/modules/packinglist/views/general.php:76
+msgid "Product display"
+msgstr "Pantalla del producto"
+
+#: public/modules/creditnote/views/general.php:75
+#: public/modules/invoice/invoice.php:235
+#: public/modules/packinglist/views/general.php:92
+msgid "Sort products by"
+msgstr "Ordenar productos por"
+
+#: public/modules/creditnote/views/general.php:79
+#: public/modules/invoice/invoice.php:239
+#: public/modules/packinglist/views/general.php:96
+msgid "Name ascending"
+msgstr "Nombre ascendente"
+
+#: public/modules/creditnote/views/general.php:80
+#: public/modules/invoice/invoice.php:240
+#: public/modules/packinglist/views/general.php:97
+msgid "Name descending"
+msgstr "Nombre descendente"
+
+#: public/modules/creditnote/views/general.php:81
+#: public/modules/invoice/invoice.php:241
+#: public/modules/packinglist/views/general.php:98
+msgid "SKU ascending"
+msgstr "SKU ascendente"
+
+#: public/modules/creditnote/views/general.php:82
+#: public/modules/invoice/invoice.php:242
+#: public/modules/packinglist/views/general.php:99
+msgid "SKU descending"
+msgstr "SKU descendente"
+
+#: public/modules/creditnote/views/general.php:86
+#: public/modules/invoice/data/data.tooltip.php:12
+#: public/modules/packinglist/views/general.php:103
+msgid "Sort products in ascending/descending order based on Name or SKU"
+msgstr ""
+"Ordene los productos en orden ascendente/descendente según el nombre o SKU"
+
+#: public/modules/creditnote/views/general.php:91
+#: public/modules/invoice/invoice.php:251
+#: public/modules/packinglist/views/general.php:108
+msgid "Show variation data below each product"
+msgstr "Mostrar datos de variación debajo de cada producto"
+
+#: public/modules/creditnote/views/general.php:94
+#: public/modules/packinglist/views/general.php:111
+msgid "Enable to include variation data beneath the product name"
+msgstr ""
+"Habilitar para incluir datos de variación debajo del nombre del producto."
+
+#: public/modules/creditnote/views/general.php:116
+msgid "Set credit note number using"
+msgstr "Establecer el número de nota de crédito usando"
+
+#: public/modules/creditnote/views/general.php:122
+msgid "Woocommerce order number"
+msgstr "Número de pedido de WooCommerce"
+
+#: public/modules/creditnote/views/general.php:123
+msgid "Custom number series"
+msgstr "Serie de números personalizados"
+
+#: public/modules/creditnote/views/general.php:139
+msgid "Credit note start number"
+msgstr "Número de inicio de la nota de crédito"
+
+#: public/modules/creditnote/views/general.php:153
+msgid "Credit note number format"
+msgstr "Formato de número de factura rectificativa"
+
+#: public/modules/creditnote/views/general.php:156
+msgid "[number]"
+msgstr "[número]"
+
+#: public/modules/creditnote/views/general.php:157
+msgid "[number][suffix]"
+msgstr "[número] [sufijo]"
+
+#: public/modules/creditnote/views/general.php:158
+msgid "[prefix][number]"
+msgstr "[prefijo] [número]"
+
+#: public/modules/creditnote/views/general.php:159
+msgid "[prefix][number][suffix]"
+msgstr "[prefijo] [número] [sufijo]"
+
+#: public/modules/creditnote/views/general.php:163
+msgid ""
+"Allows setting a combination of the prefix, number, and/or suffix as your "
+"creditnote number."
+msgstr ""
+"Permite configurar una combinación de prefijo, número y/o sufijo como su "
+"número de nota de crédito."
+
+#: public/modules/creditnote/views/general.php:168
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: public/modules/creditnote/views/general.php:170
+#: public/modules/creditnote/views/general.php:178
+#, php-format
+msgid "Use any of the %s date formats %s or alphanumeric characters."
+msgstr ""
+"Utilice cualquiera de los %s formatos de fecha %s o caracteres alfanuméricos."
+
+#: public/modules/creditnote/views/general.php:176
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: public/modules/creditnote/views/general.php:184
+msgid "Credit note number length"
+msgstr "Longitud del número de nota de crédito"
+
+#: public/modules/creditnote/views/general.php:187
+msgid ""
+"Indicates the total length of the invoice number, excluding the length of "
+"prefix and suffix if added. If the length of the generated invoice number is "
+"less than the provided, it will be padded with ‘0’. This setting can be "
+"experimented through the preview section. <br> E.g if you specify 7 as "
+"invoice length and your invoice number is 8009, it will be represented as "
+"0008009 in the respective documents."
+msgstr ""
+"Indica la longitud total del número de factura, excluyendo la longitud del "
+"prefijo y el sufijo si se agregan. Si la longitud del número de factura "
+"generado es menor que la proporcionada, se completará con '0'. Esta "
+"configuración se puede experimentar a través de la sección de vista previa."
+"<br> Por ejemplo, si especifica 7 como longitud de la factura y su número de "
+"factura es 8009, se representará como 0008009 en los documentos respectivos."
+
+#: public/modules/creditnote/views/general.php:209
+#: public/modules/invoice/views/advanced.php:28
+#: public/modules/packinglist/views/advanced.php:28
+msgid "Order meta fields"
+msgstr "Ordenar los campos meta"
+
+#: public/modules/creditnote/views/general.php:212
+msgid ""
+"Select/add order meta to display additional information related to the order "
+"on the credit note."
+msgstr ""
+"Seleccione/agregue meta de pedido para mostrar información adicional "
+"relacionada con el pedido en la nota de crédito."
+
+#: public/modules/creditnote/views/general.php:218
+#: public/modules/invoice/views/advanced.php:36
+#: public/modules/packinglist/views/advanced.php:36
+msgid "Product meta fields"
+msgstr "Metacampos de productos"
+
+#: public/modules/creditnote/views/general.php:221
+msgid ""
+"Select /add product meta to display additional information related to the "
+"products on the credit note. The selected product meta will be displayed "
+"beneath the respective product in the credit note."
+msgstr ""
+"Seleccione /agregar meta de producto para mostrar información adicional "
+"relacionada con los productos en la nota de crédito. El meta del producto "
+"seleccionado se mostrará debajo del producto respectivo en la nota de "
+"crédito."
+
+#: public/modules/creditnote/views/general.php:227
+#: public/modules/invoice/views/advanced.php:44
+#: public/modules/packinglist/views/advanced.php:44
+msgid "Product attributes"
+msgstr "Atributos de los productos"
+
+#: public/modules/creditnote/views/general.php:230
+msgid ""
+"Select/add product attributes to display additional information related to "
+"the product on the creditnote. The selected product attributes will be "
+"displayed beneath the respective product in the credit note."
+msgstr ""
+"Seleccione/agregue atributos de producto para mostrar información adicional "
+"relacionada con el producto en la nota de crédito. Los atributos del "
+"producto seleccionado se mostrarán debajo del producto respectivo en la nota "
+"de crédito."
+
+#: public/modules/invoice/data/data.templates.php:5
+#: public/modules/packinglist/data/data.templates.php:5
+msgid "PRO - 1"
+msgstr "PRO-1"
+
+#: public/modules/invoice/data/data.templates.php:13
+#: public/modules/packinglist/data/data.templates.php:13
+msgid "PRO - 2"
+msgstr "PRO-2"
+
+#: public/modules/invoice/data/data.templates.php:21
+#: public/modules/packinglist/data/data.templates.php:21
+msgid "PRO - 3"
+msgstr "PRO-3"
+
+#: public/modules/invoice/data/data.tooltip.php:7
+msgid "Advancedss"
+msgstr "Avanzado"
+
+#: public/modules/invoice/data/data.tooltip.php:11
+msgid ""
+"Adds a payment link besides the payment method in the invoice. Ensure to "
+"choose a template from the ‘Customize’ tab that supports the payment link."
+msgstr ""
+"Agrega un enlace de pago además del método de pago en la factura. Asegúrese "
+"de elegir una plantilla de la pestaña \"Personalizar\" que admita el enlace "
+"de pago."
+
+#: public/modules/invoice/data/data.tooltip.php:16
+msgid ""
+"Overrides the common logo set in the General settings and allows inserting a "
+"unique logo in the invoice."
+msgstr ""
+"Anula el logotipo común establecido en la configuración General y permite "
+"insertar un logotipo único en la factura."
+
+#: public/modules/invoice/data/data.tooltip.php:17
+msgid ""
+"Overrides the common footer content specified in the General settings and "
+"allows inserting content that is specific only to invoices."
+msgstr ""
+"Anula el contenido del pie de página común especificado en la configuración "
+"General y permite insertar contenido que es específico solo de las facturas."
+
+#: public/modules/invoice/invoice.php:148
+#: public/modules/invoice/invoice.php:522
+msgid "Invoice Date"
+msgstr "Fecha de la factura"
+
+#: public/modules/invoice/invoice.php:207
+msgctxt "Order status"
+msgid "Pending payment"
+msgstr "Pago pendiente"
+
+#: public/modules/invoice/invoice.php:208
+msgctxt "Order status"
+msgid "On hold"
+msgstr "En espera"
+
+#: public/modules/invoice/invoice.php:209
+msgctxt "Order status"
+msgid "Failed"
+msgstr "Fallido"
+
+#: public/modules/invoice/invoice.php:225
+#: public/modules/packinglist/views/general.php:81
+msgid "Group products by 'Category'"
+msgstr "Agrupar productos por 'Categoría'"
+
+#: public/modules/invoice/invoice.php:228
+msgid "Enable to group products by category in the invoice"
+msgstr "Habilitar para agrupar productos por categoría en la factura."
+
+#: public/modules/invoice/invoice.php:254
+msgid "Enable to include of product variation data in the product table"
+msgstr ""
+"Habilitar la inclusión de datos de variación del producto en la tabla de "
+"productos."
+
+#: public/modules/invoice/invoice.php:264
+#: public/modules/packinglist/views/general.php:121
+msgid "Bundled product display options"
+msgstr "Opciones de exhibición de productos empaquetados"
+
+#: public/modules/invoice/invoice.php:266
+#, php-format
+msgid ""
+"Choose how to display bundled products in the invoice. Applicable only if "
+"you are using %s Woocommerce Product Bundles %s / %s YITH WooCommerce "
+"Product Bundle add-on %s. It may not work along with %sGroup by Category%s "
+"option."
+msgstr ""
+"Elija cómo mostrar los productos empaquetados en la factura. Solo se aplica "
+"si utiliza %s Paquetes de productos de Woocommerce %s / %s YITH Complemento "
+"de paquete de productos de WooCommerce %s. Es posible que no funcione junto "
+"con la opción %s Agrupar por categoría %s."
+
+#: public/modules/invoice/invoice.php:268
+#: public/modules/packinglist/views/general.php:125
+msgid "Main product with bundle items"
+msgstr "Producto principal con artículos en paquete"
+
+#: public/modules/invoice/invoice.php:269
+#: public/modules/packinglist/views/general.php:126
+msgid "Main product only"
+msgstr "Producto no válido"
+
+#: public/modules/invoice/invoice.php:270
+#: public/modules/packinglist/views/general.php:127
+msgid "Bundle items only"
+msgstr "Paquete solo de artículos"
+
+#: public/modules/invoice/invoice.php:296
+msgid "Display free line items in the invoice"
+msgstr "Mostrar artículos de línea gratuitos en la factura"
+
+#: public/modules/invoice/invoice.php:300
+msgid "Include free(priced as 0) line items in the invoice"
+msgstr ""
+"Incluir elementos de línea gratuitos (con un precio de 0) en la factura"
+
+#: public/modules/invoice/invoice.php:318
+msgid "Payment link"
+msgstr "Método de pago"
+
+#: public/modules/invoice/invoice.php:322
+msgid "Show payment link on invoice"
+msgstr "Mostrar enlace de pago en la factura"
+
+#: public/modules/invoice/invoice.php:326
+msgid "Enable to add a payment link in the invoice"
+msgstr "Habilitar para agregar un enlace de pago en la factura."
+
+#: public/modules/invoice/invoice.php:333
+msgid ""
+"Adds a payment link beside the payment method in the invoice. Ensure to "
+"choose a template from the ‘Customize’ tab that supports the payment link."
+msgstr ""
+"Agrega un enlace de pago junto al método de pago en la factura. Asegúrese de "
+"elegir una plantilla de la pestaña \"Personalizar\" que admita el enlace de "
+"pago."
+
+#: public/modules/invoice/invoice.php:346
+msgid ""
+"Adds payment link for selected order statuses. Even if nothing is selected, "
+"'On hold' status will be considered."
+msgstr ""
+"Agrega un enlace de pago para los estados de pedidos seleccionados. Incluso "
+"si no se selecciona nada, se considerará el estado de 'Pago pendiente'."
+
+#: public/modules/invoice/invoice.php:358
+msgid "Show pay later on checkout"
+msgstr "Mostrar pago más tarde al finalizar la compra"
+
+#: public/modules/invoice/invoice.php:362
+msgid "Enable to show pay later option at the checkout"
+msgstr "Habilite para mostrar la opción pagar más tarde en la caja."
+
+#: public/modules/invoice/invoice.php:395
+msgid "Instruction"
+msgstr "Instrucción"
+
+#: public/modules/invoice/invoice.php:514
+msgid "Invoice Date:"
+msgstr "Fecha de factura:"
+
+#: public/modules/invoice/invoice.php:524
+msgid "Payment received stamp"
+msgstr "Sello de pago recibido"
+
+#: public/modules/invoice/invoice.php:537
+msgid "Cart Discount"
+msgstr "Descuento en el carro"
+
+#: public/modules/invoice/invoice.php:538
+msgid "Order Discount"
+msgstr "Descuento en el pedido"
+
+#: public/modules/invoice/invoice.php:542
+msgid "Coupon info"
+msgstr "Información de los cupones"
+
+#: public/modules/invoice/invoice.php:543
+msgid "Payment Method"
+msgstr "Método de pago"
+
+#: public/modules/invoice/invoice.php:544
+msgid "Payment Link"
+msgstr "Método de pago"
+
+#: public/modules/invoice/invoice.php:546
+#: public/modules/packinglist/packinglist.php:269
+msgid "Bar Code"
+msgstr "Código de barras"
+
+#: public/modules/invoice/invoice.php:547
+msgid "QR Code"
+msgstr "Código QR"
+
+#: public/modules/invoice/invoice.php:548
+msgid "Signature"
+msgstr "Firma"
+
+#: public/modules/invoice/invoice.php:622
+msgid "Total Tax value"
+msgstr "Valor total del impuesto"
+
+#: public/modules/invoice/views/advanced.php:31
+msgid ""
+"Select/add order meta to display additional information related to the order "
+"on the invoice. The selected order meta will be displayed beneath the "
+"respective product in the invoice."
+msgstr ""
+"Seleccione/agregue meta de pedido para mostrar información adicional "
+"relacionada con el pedido en la factura. El meta del pedido seleccionado se "
+"mostrará debajo del producto respectivo en la factura."
+
+#: public/modules/invoice/views/advanced.php:39
+msgid ""
+"Select/add product meta to display additional information related to the "
+"order on the invoice. The selected product meta will be displayed beneath "
+"the respective product in the invoice."
+msgstr ""
+"Seleccione/agregue meta de producto para mostrar información adicional "
+"relacionada con el pedido en la factura. El meta del producto seleccionado "
+"se mostrará debajo del producto respectivo en la factura."
+
+#: public/modules/invoice/views/advanced.php:47
+msgid ""
+"Select/add product attributes to display additional information related to "
+"the products in the invoice. The selected product attributes will be "
+"displayed beneath the respective product in the invoice."
+msgstr ""
+"Seleccione/agregue atributos de producto para mostrar información adicional "
+"relacionada con los productos en la factura. Los atributos del producto "
+"seleccionado se mostrarán debajo del producto respectivo en la factura."
+
+#: public/modules/invoice/views/advanced.php:52
+msgid "Custom logo for invoice"
+msgstr "Logotipo personalizado para la factura"
+
+#: public/modules/invoice/views/advanced.php:56
+msgid "If left blank, the logo from the"
+msgstr "Si se deja en blanco, el logotipo de la"
+
+#: public/modules/invoice/views/advanced.php:57
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: public/modules/invoice/views/advanced.php:58
+msgid ""
+"will be used by default. To include the uploaded image to the invoice, "
+"ensure to select"
+msgstr ""
+"se utilizará de forma predeterminada. Para incluir la imagen cargada en la "
+"factura, asegúrese de seleccionar"
+
+#: public/modules/invoice/views/advanced.php:59
+msgid "Company logo"
+msgstr "Şirket logosu"
+
+#: public/modules/invoice/views/advanced.php:60
+msgid "from"
+msgstr "desde"
+
+#: public/modules/invoice/views/advanced.php:61
+msgid "Invoice > Customize > Company Logo / Name"
+msgstr "Factura > Personalizar > Logotipo/Nombre de la empresa"
+
+#: public/modules/invoice/views/advanced.php:62
+msgid "Recommended size is 150×50px"
+msgstr "El tamaño recomendado es 150×50px"
+
+#: public/modules/invoice/views/advanced.php:68
+msgid "Upload signature"
+msgstr "Subir firma"
+
+#: public/modules/invoice/views/advanced.php:75
+msgid "Custom footer for invoice"
+msgstr "Pie de página personalizado para factura"
+
+#: public/modules/invoice/views/advanced.php:80
+msgid "Footer content to be included in the invoice."
+msgstr "Contenido del pie de página que se incluirá en la factura."
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:9
+msgid "Packing Slip"
+msgstr "Detalle de la entrega"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:10
+#, php-format
+msgid ""
+"Send Packing Slip as PDF attachment to warehouse when an order is placed. "
+"Use these available placeholders: %s"
+msgstr ""
+"Envíe el albarán como adjunto en PDF al almacén cuando se realice un pedido. "
+"Utilice estos marcadores de posición disponibles: %s"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:91
+msgid "Packing Slip for order #{order_number} on {site_title}"
+msgstr "Albarán para el pedido n.º {order_number} el {site_title}"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:102
+msgid "Packing Slip for order #{order_number}"
+msgstr "Albar&aacute;n para la orden"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:176
+msgid "Recipient(s)"
+msgstr "Destinatario(s)"
+
+#. translators: %s: WP admin email
+#: public/modules/packinglist/classes/class-packinglist-email.php:179
+#: public/modules/packinglist/classes/class-packinglist-email.php:183
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr ""
+"Introduce los destinatarios (separados por comas) de este email. Por defecto "
+"es %s."
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:186
+msgid "Subject"
+msgstr "Tema"
+
+#. translators: %s: list of placeholders
+#: public/modules/packinglist/classes/class-packinglist-email.php:190
+#: public/modules/packinglist/classes/class-packinglist-email.php:199
+#, php-format
+msgid "Available placeholders: %s"
+msgstr "Disponible para reserva: %s"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:195
+msgid "Email heading"
+msgstr "Encabezado de email"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:204
+msgid "Email type"
+msgstr "Tipo de correo electrónico"
+
+#: public/modules/packinglist/classes/class-packinglist-email.php:206
+msgid "Choose which format of email to send."
+msgstr "Elige el formato en el que se enviarán los emails."
+
+#: public/modules/packinglist/data/data.tooltip.php:7
+msgid ""
+"Enabling this option includes a button to print the packing slip from the "
+"order lists page or order details page"
+msgstr ""
+"Habilitar esta opción incluye un botón para imprimir el albarán desde la "
+"página de listas de pedidos o la página de detalles del pedido."
+
+#: public/modules/packinglist/data/data.tooltip.php:8
+msgid ""
+"Groups products falling under same category in the packing slip, thus making "
+"packing easier"
+msgstr ""
+"Agrupa los productos que pertenecen a la misma categoría en el albarán, lo "
+"que facilita el embalaje."
+
+#: public/modules/packinglist/data/data.tooltip.php:9
+msgid ""
+"Enable to include variation data in the product table of the packing slip."
+msgstr ""
+"Habilite para incluir datos de variación en la tabla de productos del "
+"albarán."
+
+#: public/modules/packinglist/data/data.tooltip.php:13
+msgid ""
+"Overrides the common footer content specified in the General settings and "
+"allows inserting content that is specific only to packing slips."
+msgstr ""
+"Anula el contenido del pie de página común especificado en la configuración "
+"General y permite insertar contenido que es específico solo de los albaranes."
+
+#: public/modules/packinglist/packinglist.php:138
+#: public/modules/packinglist/packinglist.php:150
+#: public/modules/packinglist/packinglist.php:166
+msgid "Print Packingslip"
+msgstr "Imprimir albarán"
+
+#: public/modules/packinglist/packinglist.php:263
+msgid "Box name"
+msgstr "Nombre de la caja"
+
+#: public/modules/packinglist/packinglist.php:265
+msgid "Package Number"
+msgstr "Utilizar el número de pedido como número de factura"
+
+#: public/modules/packinglist/packinglist.php:266
+msgid "No of Items"
+msgstr "Num de elementos"
+
+#: public/modules/packinglist/packinglist.php:423
+msgid "Send Packing Slip email"
+msgstr "Enviar correo electrónico con la hoja de empaque"
+
+#: public/modules/packinglist/packinglist.php:434
+#, php-format
+msgid "Packing Slip email send by %s."
+msgstr "Correo electrónico de albarán enviado por %s."
+
+#: public/modules/packinglist/packinglist.php:582
+msgid "Unable to print Packing slip. Please check the items in the order."
+msgstr ""
+"No se puede imprimir la hoja de embalaje. Por favor, compruebe los artículos "
+"del pedido."
+
+#. translators: %s: Customer billing full name
+#: public/modules/packinglist/templates/emails/packinglist.php:20
+#: public/modules/packinglist/templates/emails/plain/packinglist.php:16
+#, php-format
+msgid "You’ve received the following order from %s:"
+msgstr "Has recibido la siguiente reserva de %s:"
+
+#: public/modules/packinglist/views/advanced.php:31
+msgid ""
+"Select/add order meta to display additional information related to the order "
+"on the packingslip."
+msgstr ""
+"Seleccione/agregue meta de pedido para mostrar información adicional "
+"relacionada con el pedido en el albarán."
+
+#: public/modules/packinglist/views/advanced.php:39
+msgid ""
+"Select /add product meta to display additional information related to the "
+"products on the packing slip. The selected product meta will be displayed "
+"beneath the respective product in the packing slip."
+msgstr ""
+"Seleccione /agregar meta de producto para mostrar información adicional "
+"relacionada con los productos en el albarán. El meta del producto "
+"seleccionado se mostrará debajo del producto respectivo en el albarán."
+
+#: public/modules/packinglist/views/advanced.php:47
+msgid ""
+"Select/add product attributes to display additional information related to "
+"the product on the packing slip. The selected product attributes will be "
+"displayed beneath the respective product in the packing slip."
+msgstr ""
+"Seleccione/agregue atributos de producto para mostrar información adicional "
+"relacionada con el producto en el albarán. Los atributos del producto "
+"seleccionado se mostrarán debajo del producto respectivo en el albarán."
+
+#: public/modules/packinglist/views/advanced.php:52
+msgid "Custom footer for packing slip"
+msgstr "Pie de página personalizado para el albarán"
+
+#: public/modules/packinglist/views/advanced.php:57
+msgid "Footer content to be included in the packing slip."
+msgstr "Contenido del pie de página que se incluirá en el albarán."
+
+#: public/modules/packinglist/views/general.php:11
+msgid "New order"
+msgstr "Nuevo pedido"
+
+#: public/modules/packinglist/views/general.php:15
+msgid "Custom email"
+msgstr "Email  Personalizado"
+
+#: public/modules/packinglist/views/general.php:34
+msgid "Email packingslip automatically to"
+msgstr "Envíe un correo electrónico con el albarán automáticamente a"
+
+#: public/modules/packinglist/views/general.php:42
+#, php-format
+msgid ""
+"Packing slip as PDF will be sent to the selected recipients. To configure "
+"email recipients, choose %1$s `custom email` %2$s and click on %1$s update "
+"settings. %2$s You can then configure the email notification from %3$s here. "
+"%4$s"
+msgstr ""
+"El albarán en formato PDF se enviará a los destinatarios seleccionados. Para "
+"configurar los destinatarios del correo electrónico, elija %1$s `correo "
+"electrónico personalizado` %2$s y haga clic en %1$s actualizar "
+"configuración. %2$s Luego puede configurar la notificación por correo "
+"electrónico desde %3$s aquí. %4$s"
+
+#: public/modules/packinglist/views/general.php:50
+msgid "Show print packingslip button for customers"
+msgstr "Mostrar el botón de albarán de impresión para los clientes"
+
+#: public/modules/packinglist/views/general.php:56
+msgid "My account - Order lists page"
+msgstr "Mi cuenta - Página de listas de pedidos"
+
+#: public/modules/packinglist/views/general.php:57
+msgid "My account - Order details page"
+msgstr "Mi cuenta: página de detalles del pedido"
+
+#: public/modules/packinglist/views/general.php:84
+msgid "Enable to display and group product by category"
+msgstr "Habilitar para mostrar y agrupar productos por categoría."
+
+#: public/modules/packinglist/views/general.php:123
+#, php-format
+msgid ""
+"Choose how to display bundled products in the packing slip. Applicable only "
+"if you are using %s Woocommerce Product Bundles %s / %s YITH WooCommerce "
+"Product Bundle add-on %s. It may not work along with %sGroup by Category%s "
+"option."
+msgstr ""
+"Elija cómo mostrar los productos empaquetados en el albarán. Aplicable solo "
+"si está utilizando %s Paquetes de productos WooCommerce %s / %sComplemento "
+"YITH Paquete de productos WooCommerce %s. Es posible que no funcione junto "
+"con la opción %sAgrupar por categoría%s."
+
+#: wt-woocommerce-invoice-addon.php:56
+#, php-format
+msgid ""
+"The plugins %s and %s cannot be active in your store at the same time. "
+"Kindly deactivate one of these prior to activating the other."
+msgstr ""
+"Los plugins %s y %s no pueden estar activos en tu tienda al mismo tiempo. "
+"Por favor, desactive uno de estos antes de activar el otro."
+
+#: wt-woocommerce-invoice-addon.php:56
+msgid "Go to plugins page"
+msgstr "Ir a la página de plugins"
+
+#: wt-woocommerce-invoice-addon.php:68
+msgid ""
+"WooCommerce PDF Invoices, Packing Slips and Credit Notes (Pro) plugin could "
+"not be activated. Please ensure the WooCommerce PDF Invoices, Packing Slips, "
+"Delivery Notes and Shipping Labels (Free) is active"
+msgstr ""
+"No se pudo activar el complemento de facturas PDF, albaranes y notas de "
+"crédito (Pro) de WooCommerce. Asegúrese de que las facturas en PDF, los "
+"albaranes, los albaranes y las etiquetas de envío de WooCommerce (gratis) "
+"estén activos"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce PDF Invoices, Packing Slips and Credit Notes (Pro)"
+msgstr "Facturas, albaranes y notas de crédito en PDF de WooCommerce (Pro)"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.webtoffee.com/"
+msgstr "https://www.webtoffee.com/"
+
+#. Description of the plugin/theme
+msgid "Extension for the WooCommerce PDF Invoices and Packingslip by Webtoffee"
+msgstr ""
+"Extensión para facturas en PDF y albarán de embalaje de WooCommerce de "
+"Webtoffee"
+
+#. Author of the plugin/theme
+msgid "Webtoffee"
+msgstr "WebToffee"

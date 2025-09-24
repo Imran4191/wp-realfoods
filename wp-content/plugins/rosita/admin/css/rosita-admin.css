@@ -1,0 +1,100 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .rosita-custom-type-customers .for-approval {
+  margin: 2.5rem 0;
+ }
+
+.rosita-custom-type-customers .for-approval,
+.rosita-custom-type-customers .approved {
+  max-height: 32rem;
+  overflow: scroll;
+}
+
+.rosita-custom-type-customers th {
+  font-weight: 700;
+}
+
+.rosita-customer-custom-data .form-table th {
+  width: 25rem;
+}
+
+.rosita-customer-custom-data .form-table .regular-text,
+.rosita-customer-custom-data .form-table select,
+#profile-page .rosita-customer-custom-data .form-table textarea {
+  min-width: 30rem;
+  max-width: 100%;
+}
+
+.payment-details .widefat {
+  width: auto;
+}
+
+.popup {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+}
+
+.popup .title {
+  font-size: 2.1rem;
+  margin-right: 5.7rem;
+  font-weight: 400;
+}
+
+.popup-content {
+  background-color: #fefefe;
+  margin: 5rem auto;
+  padding: 2rem;
+  border:  1px solid #888;
+  width:  75%;
+}
+
+.popup-close {
+  color: #aaaaaa;
+  float: right;
+  font-size:  2.2rem;
+  font-weight: bold;
+}
+
+.popup-close:hover,
+.popup-close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.client-commission-details .column {
+  display: flex;
+}
+
+.client-commission-details .row {
+  border: 1px black solid;
+  line-height: 3rem;
+  width: 100%;
+  text-align: center;
+  border-bottom: 0;
+  border-right: 0;
+}
+
+.client-commission-details .column.header .row {
+  background-color: #514943;
+  color: #fff;
+  font-weight: 600;
+}
+
+.client-commission-details .column:last-child .row {
+  border-bottom: 1px black solid;
+}
+
+.client-commission-details .column .row:last-child {
+  border-right: 1px black solid;
+}

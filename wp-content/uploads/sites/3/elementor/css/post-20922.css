@@ -1,0 +1,13 @@
+.elementor-kit-20922{--e-global-color-primary:#08456B;--e-global-color-secondary:#05B1A9;--e-global-color-text:#595959;--e-global-color-accent:#EEB80D;--e-global-color-3df7780:#05A69E;--e-global-typography-primary-font-family:"Raleway";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Raleway-SemiBold";--e-global-typography-secondary-font-weight:300;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;--container-default-padding-block-start:0px;--container-default-padding-inline-end:0px;--container-default-padding-block-end:0px;--container-default-padding-inline-start:0px;}.elementor-widget:not(:last-child){margin-block-end:0px;}.elementor-element{--widgets-spacing:0px 0px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-20922 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Raleway-SemiBold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://dev.rositarealfoods.com.au/wp-content/uploads/sites/3/2024/02/Raleway-SemiBold.eot');
+	src: url('http://dev.rositarealfoods.com.au/wp-content/uploads/sites/3/2024/02/Raleway-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('http://dev.rositarealfoods.com.au/wp-content/uploads/sites/3/2024/02/Raleway-SemiBold.woff2') format('woff2'),
+		url('http://dev.rositarealfoods.com.au/wp-content/uploads/sites/3/2024/02/Raleway-SemiBold.woff') format('woff'),
+		url('http://dev.rositarealfoods.com.au/wp-content/uploads/sites/3/2024/02/Raleway-SemiBold.ttf') format('truetype'),
+		url('http://dev.rositarealfoods.com.au/wp-content/uploads/sites/3/2024/02/Raleway-SemiBold.svg#Raleway-SemiBold') format('svg');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,24 @@
+.elementor-9225 .elementor-element.elementor-element-c579a5e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}/* Start custom CSS */#content .col-full {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.elementor-element.e-con {
+    --container-max-width: 100%;
+}
+
+.elementor-element.elementor-element-c579a5e.e-flex.e-con-boxed.e-con.e-parent{
+    width: 100%;
+    padding: 0;
+}
+
+body.page-template {
+    color: #000;
+    background: #ffffff;
+}
+@media (max-width: 990px) and (min-width: 768px){
+    .col-xs-12.col-sm-12.col-sm-offset-0.col-md-offset-0.col-md-8.left-content {
+        width: 100%;
+        padding: 0 3rem;
+    }
+}/* End custom CSS */

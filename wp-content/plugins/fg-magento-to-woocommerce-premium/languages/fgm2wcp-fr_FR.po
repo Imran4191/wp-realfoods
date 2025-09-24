@@ -1,0 +1,1387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Magento to WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-12 16:32+0200\n"
+"PO-Revision-Date: 2023-07-12 16:32+0200\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: F. GILLES\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/class-fg-magento-to-woocommerce-admin."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: admin/class-fg-magento-to-woocommerce-"
+"compatibility.php\n"
+"X-Poedit-SearchPathExcluded-2: admin/partials/actions.php\n"
+"X-Poedit-SearchPathExcluded-3: admin/partials/behavior.php\n"
+"X-Poedit-SearchPathExcluded-4: admin/partials/database-info.php\n"
+"X-Poedit-SearchPathExcluded-5: admin/partials/empty-content.php\n"
+"X-Poedit-SearchPathExcluded-6: admin/partials/paypal-donate.php\n"
+"X-Poedit-SearchPathExcluded-7: admin/partials/settings.php\n"
+"X-Poedit-SearchPathExcluded-8: admin/partials/help-options.tpl.php\n"
+"X-Poedit-SearchPathExcluded-9: admin/partials/help-instructions.tpl.php\n"
+"X-Poedit-SearchPathExcluded-10: admin/class-fg-magento-to-woocommerce-"
+"progressbar.php\n"
+"X-Poedit-SearchPathExcluded-11: admin/partials/logger.php\n"
+"X-Poedit-SearchPathExcluded-12: admin/partials/progress-bar.php\n"
+"X-Poedit-SearchPathExcluded-13: admin/class-fg-magento-to-woocommerce-"
+"modules-check.php\n"
+"X-Poedit-SearchPathExcluded-14: admin/partials/debug-info.php\n"
+"X-Poedit-SearchPathExcluded-15: admin/partials/tabs.php\n"
+
+#: admin/class-fg-magento-to-woocommerce-coupons.php:89
+msgid "Importing coupons..."
+msgstr "Import des codes promo..."
+
+#: admin/class-fg-magento-to-woocommerce-coupons.php:174
+#, php-format
+msgid "%d coupon imported"
+msgid_plural "%d coupons imported"
+msgstr[0] "%d code promo importé"
+msgstr[1] "%d codes promo importés"
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:62
+#, php-format
+msgid "%d customer"
+msgid_plural "%d customers"
+msgstr[0] "%d client"
+msgstr[1] "%d clients"
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:115
+msgid "Importing customers..."
+msgstr "Import des clients..."
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:171
+#, php-format
+msgid "%d customer imported"
+msgid_plural "%d customers imported"
+msgstr[0] "%d client importé"
+msgstr[1] "%d clients importés"
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:284
+msgid "Updating customers..."
+msgstr "Mise à jour des clients..."
+
+#: admin/class-fg-magento-to-woocommerce-customers.php:328
+#, php-format
+msgid "%d customer updated"
+msgid_plural "%d customers updated"
+msgstr[0] "%d client mis à jour"
+msgstr[1] "%d clients mis à jour"
+
+#: admin/class-fg-magento-to-woocommerce-downloadable-products.php:94
+#, php-format
+msgid "Unable to create directory %s"
+msgstr "Impossible de créer le répertoire %s"
+
+#: admin/class-fg-magento-to-woocommerce-grouped-products.php:49
+msgid "Setting grouped products relations..."
+msgstr "Création des relations des produits groupés..."
+
+#: admin/class-fg-magento-to-woocommerce-grouped-products.php:75
+msgid "Grouped products relations set"
+msgstr "Relations des produits groupés créées"
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:54
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:179
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d commande"
+msgstr[1] "%d commandes"
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:144
+msgid "Importing orders..."
+msgstr "Import des commandes..."
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:178
+#, php-format
+msgid "%d order imported"
+msgid_plural "%d orders imported"
+msgstr[0] "%d commande importée"
+msgstr[1] "%d commandes importées"
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:659
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:964
+msgid "Error:"
+msgstr "Erreur :"
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:960
+msgid "Updating orders..."
+msgstr "Mise à jour des commandes..."
+
+#: admin/class-fg-magento-to-woocommerce-orders.php:996
+#, php-format
+msgid "%d order updated"
+msgid_plural "%d orders updated"
+msgstr[0] "%d commande mise à jour"
+msgstr[1] "%d commandes mises à jour"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:136
+msgid "Import Magento Premium"
+msgstr "Import Magento Premium"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:137
+msgid ""
+"This plugin will import product categories, products, images, CMS, users, "
+"customers, orders, reviews and coupons from Magento to WooCommerce.<br /"
+">Compatible with Magento versions 1.3 to 2.4."
+msgstr ""
+"Le plugin va importer les catégories de produit, les produits, les images, "
+"le CMS, les utilisateurs, les clients, les commandes, les avis et les codes "
+"promo de Magento vers WooCommerce.<br />Compatible avec Magento versions 1.3 "
+"à 2.4."
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:138
+#, php-format
+msgid ""
+"For any issue, please read the <a href=\"%s\" target=\"_blank\">FAQ</a> "
+"first."
+msgstr ""
+"Pour toute question, veuillez d'abord lire la <a href=\"%s\" target=\"_blank"
+"\">FAQ</a>."
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:175
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d utilisateur"
+msgstr[1] "%d utilisateurs"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:638
+msgid "All"
+msgstr "Tous"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:697
+msgid "Updating products..."
+msgstr "Mise à jour des produits…"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:728
+#, php-format
+msgid "%d product updated"
+msgid_plural "%d products updated"
+msgstr[0] "%d produit mis à jour"
+msgstr[1] "%d produits mis à jour"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:979
+msgid "Updating product categories..."
+msgstr "Mise à jour des catégories de produits…"
+
+#: admin/class-fg-magento-to-woocommerce-premium-admin.php:1014
+#, php-format
+msgid "%d category updated"
+msgid_plural "%d categories updated"
+msgstr[0] "%d catégorie mise à jour"
+msgstr[1] "%d catégories mises à jour"
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:48
+msgid "Importing attributes..."
+msgstr "Import des attributs..."
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:112
+#, php-format
+msgid "%d attribute imported"
+msgid_plural "%d attributes imported"
+msgstr[0] "%d attribut importé"
+msgstr[1] "%d attributs importés"
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:183
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:442
+msgid "No"
+msgstr "Non"
+
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:184
+#: admin/class-fg-magento-to-woocommerce-product-attributes.php:442
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/class-fg-magento-to-woocommerce-product-options.php:49
+msgid "Importing options..."
+msgstr "Import des options..."
+
+#: admin/class-fg-magento-to-woocommerce-product-options.php:89
+#, php-format
+msgid "%d option imported"
+msgid_plural "%d options imported"
+msgstr[0] "%d option importée"
+msgstr[1] "%d options importées"
+
+#: admin/class-fg-magento-to-woocommerce-product-variations.php:173
+#, php-format
+msgid "Too many variations (%d) for product #%d"
+msgstr "Trop de variations (%d) pour le produit #%d"
+
+#: admin/class-fg-magento-to-woocommerce-product-variations.php:175
+#, php-format
+msgid ""
+"You may need the <a href=\"%s\" target=\"_blank\">WooCommerce Product Add-"
+"Ons plugin</a> and the <a href=\"%s\" target=\"_blank\">Product Options add-"
+"on</a> to import the Magento options as add-ons instead of as variations."
+msgstr ""
+"Vous avez peut-être besoin du <a href=\"%s\" target=\"_blank\">plugin "
+"WooCommerce Product Add-Ons</a> et du <a href=\"%s\" target=\"_blank"
+"\">module Product Options</a> pour importer les options Magento comme add-"
+"ons plutôt que comme variations."
+
+#: admin/class-fg-magento-to-woocommerce-reviews.php:59
+msgid "Importing reviews..."
+msgstr "Import des avis..."
+
+#: admin/class-fg-magento-to-woocommerce-reviews.php:120
+#, php-format
+msgid "%d review imported"
+msgid_plural "%d reviews imported"
+msgstr[0] "%d avis importé"
+msgstr[1] "%d avis importés"
+
+#: admin/class-fg-magento-to-woocommerce-taxes.php:82
+msgid "Importing taxes..."
+msgstr "Import des taxes..."
+
+#: admin/class-fg-magento-to-woocommerce-taxes.php:101
+#, php-format
+msgid "%d tax class imported"
+msgid_plural "%d tax classes imported"
+msgstr[0] "%d classe de taxe importée"
+msgstr[1] "%d classes de taxe importées"
+
+#: admin/class-fg-magento-to-woocommerce-up-cross-sell.php:40
+msgid "Importing Up Sell and Cross Sell..."
+msgstr "Import des ventes additionnelles et des ventes croisées..."
+
+#: admin/class-fg-magento-to-woocommerce-up-cross-sell.php:78
+#, php-format
+msgid "%d Up Sell and Cross Sell imported"
+msgid_plural "%d Up Sell and Cross Sell imported"
+msgstr[0] "%d vente additionnelle et vente croisée importée"
+msgstr[1] "%d ventes additionnelles et ventes croisées importées"
+
+#: admin/class-fg-magento-to-woocommerce-urls.php:59
+msgid "Importing redirects..."
+msgstr "Import des redirections..."
+
+#: admin/class-fg-magento-to-woocommerce-urls.php:99
+msgid "Importing Enterprise Edition redirects..."
+msgstr "Import des redirections de l'Edition Entreprise..."
+
+#: admin/class-fg-magento-to-woocommerce-urls.php:135
+#, php-format
+msgid "%d redirect imported"
+msgid_plural "%d redirects imported"
+msgstr[0] "%d redirection importée"
+msgstr[1] "%d redirections importées"
+
+#: admin/class-fg-magento-to-woocommerce-users.php:128
+msgid "Users deleted"
+msgstr "Utilisateurs supprimés"
+
+#: admin/class-fg-magento-to-woocommerce-users.php:157
+msgid "Importing users..."
+msgstr "Import des utilisateurs..."
+
+#: admin/class-fg-magento-to-woocommerce-users.php:204
+#, php-format
+msgid "%d user imported"
+msgid_plural "%d users imported"
+msgstr[0] "%d utilisateur importé"
+msgstr[1] "%d utilisateurs importés"
+
+#: admin/partials/premium-actions.php:2
+msgid "Update:"
+msgstr "Mise à jour :"
+
+#: admin/partials/premium-actions.php:4
+msgid "Update the products stocks only"
+msgstr "Mettre à jour les stocks de produits uniquement"
+
+#: admin/partials/premium-actions.php:12
+msgid "Update existing products, categories, customers and orders status"
+msgstr ""
+"Mettre à jour les produits, les catégories, les clients et les statuts des "
+"commandes existants"
+
+#: admin/partials/premium-actions.php:16
+msgid "Stop update"
+msgstr "Arrêter la mise à jour"
+
+#: admin/partials/premium-features.php:2
+msgid "Meta keywords:"
+msgstr "Mots-clefs :"
+
+#: admin/partials/premium-features.php:3
+msgid "Import meta keywords as tags"
+msgstr "Importer les meta keywords en tant que mots-clefs"
+
+#: admin/partials/premium-features.php:6
+msgid "SEO:"
+msgstr "SEO :"
+
+#: admin/partials/premium-features.php:8
+msgid "Import the SEO meta data (compatible with Yoast SEO and Rank Math SEO)"
+msgstr ""
+"Importer les méta données SEO (compatible avec Yoast SEO et Rank Math SEO)"
+
+#: admin/partials/premium-features.php:10
+msgid "Redirect the Magento URLs"
+msgstr "Rediriger les URLs de Magento"
+
+#: admin/partials/premium-features.php:15
+msgid "Multisites / Multistores:"
+msgstr "Multisites / Multistores :"
+
+#: admin/partials/premium-features.php:17
+msgid "Import the web site:"
+msgstr "Importer le site web :"
+
+#: admin/partials/premium-features.php:22
+msgid "Import the store:"
+msgstr "Importer la boutique :"
+
+#: admin/partials/premium-features.php:27
+msgid "Import customers and orders:"
+msgstr "Importer les clients et les commandes :"
+
+#: admin/partials/premium-features.php:28
+msgid "from all stores"
+msgstr "de toutes les boutiques"
+
+#: admin/partials/premium-features.php:29
+msgid "from the selected store only"
+msgstr "uniquement de la boutique sélectionnée"
+
+#: admin/partials/premium-features.php:34
+msgid "Partial import:"
+msgstr "Import partiel :"
+
+#: admin/partials/premium-features.php:36
+msgid "expand / collapse"
+msgstr "développer / réduire"
+
+#: admin/partials/premium-features.php:38
+msgid "Don't import the CMS"
+msgstr "Ne pas importer le CMS"
+
+#: admin/partials/premium-features.php:40
+msgid "Don't import the products categories"
+msgstr "Ne pas importer les catégories de produits"
+
+#: admin/partials/premium-features.php:42
+msgid "Don't import the disabled products categories"
+msgstr "Ne pas importer les catégories de produits désactivées"
+
+#: admin/partials/premium-features.php:44
+msgid "Don't import the products"
+msgstr "Ne pas importer les produits"
+
+#: admin/partials/premium-features.php:46
+msgid "Don't import the disabled products"
+msgstr "Ne pas importer les produits désactivés"
+
+#: admin/partials/premium-features.php:48
+msgid "Don't import the product attributes"
+msgstr "Ne pas importer les attributs des produits"
+
+#: admin/partials/premium-features.php:50
+msgid "Don't import the users"
+msgstr "Ne pas importer les utilisateurs"
+
+#: admin/partials/premium-features.php:52
+msgid "Don't import the customers"
+msgstr "Ne pas importer les clients"
+
+#: admin/partials/premium-features.php:54
+msgid "Don't import the customers without order"
+msgstr "Ne pas importer les clients sans commande"
+
+#: admin/partials/premium-features.php:56
+msgid "Don't import the orders"
+msgstr "Ne pas importer les commandes"
+
+#: admin/partials/premium-features.php:58
+msgid "Don't import the reviews"
+msgstr "Ne pas importer les avis"
+
+#: admin/partials/premium-features.php:60
+msgid "Don't import the coupons"
+msgstr "Ne pas importer les codes promo"
+
+#: admin/partials/premium-features.php:62
+msgid "Don't import the redirects"
+msgstr "Ne pas importer les redirections"
+
+#: includes/class-fg-magento-to-woocommerce-premium.php:386
+msgid "Import"
+msgstr "Importer"
+
+#~ msgid ""
+#~ "This plugin will import product categories, products, images, CMS, users, "
+#~ "customers, orders, reviews and coupons from Magento to WooCommerce.<br /"
+#~ ">Compatible with Magento versions 1.3 to 1.9."
+#~ msgstr ""
+#~ "Le plugin va importer les catégories de produit, les produits, les "
+#~ "images, le CMS, les utilisateurs, les clients, les commandes, les avis et "
+#~ "les codes promo de Magento vers WooCommerce.<br />Compatible avec Magento "
+#~ "versions 1.3 à 1.9."
+
+#~ msgid "Too many variations for product #%d"
+#~ msgstr "Trop de variations pour le produit #%d"
+
+#~ msgid ""
+#~ "Import the meta description and the meta keywords to WordPress SEO by "
+#~ "Yoast"
+#~ msgstr ""
+#~ "Importer la méta description et les méta mots-clés vers le plugin "
+#~ "«WordPress SEO by Yoast»"
+
+#~ msgid ""
+#~ "This plugin will import product categories, products, images, CMS, users, "
+#~ "customers and orders from Magento to WooCommerce.<br />Compatible with "
+#~ "Magento versions 1.3 to 1.9."
+#~ msgstr ""
+#~ "Le plugin va importer les catégories de produit, les produits, les "
+#~ "images, le CMS, les utilisateurs, les clients et les commandes de Magento "
+#~ "vers WooCommerce.<br />Compatible avec Magento versions 1.3 à 1.9."
+
+#~ msgid "Refresh the lists of websites and stores"
+#~ msgstr "Actualiser les listes des sites web et des boutiques"
+
+#~ msgid "Multistore:"
+#~ msgstr "Multistore :"
+
+#~ msgid "Refresh the list of stores"
+#~ msgstr "Actualiser la liste des boutiques"
+
+#~ msgid ""
+#~ "This plugin will import product categories, products, images, CMS, users, "
+#~ "customers and orders from Magento to WooCommerce.<br />Compatible with "
+#~ "Magento versions 1.4 to 1.9."
+#~ msgstr ""
+#~ "Le plugin va importer les catégories de produit, les produits, les "
+#~ "images, le CMS, les utilisateurs, les clients et les commandes de Magento "
+#~ "vers WooCommerce.<br />Compatible avec Magento versions 1.4 à 1.9."
+
+#~ msgid ""
+#~ "For any issue, please read the <a href=\"http://www.fredericgilles.net/fg-"
+#~ "magento-to-woocommerce/faq\" target=\"_blank\">FAQ</a> first."
+#~ msgstr ""
+#~ "En cas de problème, veuillez d’abord vous référez à la <a href=\"http://"
+#~ "www.fredericgilles.net/fg-magento-to-woocommerce/faq\" target=\"_blank"
+#~ "\">FAQ</a>."
+
+#~ msgid "Save settings"
+#~ msgstr "Enregistrer les paramètres"
+
+#~ msgid "Import content from Magento to WooCommerce"
+#~ msgstr "Importer le contenu de Magento vers WooCommerce"
+
+#~ msgid "Behavior"
+#~ msgstr "Comportement"
+
+#~ msgid "Medias:"
+#~ msgstr "Médias :"
+
+#~ msgid "Skip media"
+#~ msgstr "Ne pas importer les médias"
+
+#~ msgid "Import first image:"
+#~ msgstr "Importer la première image :"
+
+#~ msgid "The first image will be kept in the post content"
+#~ msgstr "La première image sera conservée dans le contenu"
+
+#~ msgid "as is"
+#~ msgstr "tel quelle"
+
+#~ msgid ""
+#~ "The first image will be removed from the post content and imported as the "
+#~ "featured image only"
+#~ msgstr ""
+#~ "La première image sera supprimée du contenu et importée en image à la une"
+
+#~ msgid "as featured only"
+#~ msgstr "en tant qu'image à la une seulement"
+
+#~ msgid ""
+#~ "The first image will be kept in the post content and imported as the "
+#~ "featured image"
+#~ msgstr ""
+#~ "La première image sera conservée dans le contenu et importée en image à "
+#~ "la une"
+
+#~ msgid "as is and as featured"
+#~ msgstr "tel quelle et en tant qu'image à la une"
+
+#~ msgid "Import external media"
+#~ msgstr "Importer les médias externes"
+
+#~ msgid ""
+#~ "Checked: download the media with their full path in order to import media "
+#~ "with identical names."
+#~ msgstr ""
+#~ "Coché : télécharge les médias avec leur nom complet afin d'importer les "
+#~ "médias comportant des noms identiques."
+
+#~ msgid "Import media with duplicate names"
+#~ msgstr "Importer les médias avec des noms identiques"
+
+#~ msgid ""
+#~ "Checked: download the media even if it has already been imported. "
+#~ "Unchecked: Download only media which were not already imported."
+#~ msgstr ""
+#~ "Coché : télécharge les médias même s'ils ont déjà été importés. Décoché : "
+#~ "télécharge uniquement les médias qui n'ont pas déjà été importés."
+
+#~ msgid ""
+#~ "Force media import. Keep unchecked except if you had previously some "
+#~ "media download issues."
+#~ msgstr ""
+#~ "Forcer l'import des médias. Laisser décoché sauf si vous avez auparavant "
+#~ "rencontré des problèmes d'import de médias."
+
+#~ msgid "Don't include the first image into the product gallery"
+#~ msgstr "Ne pas inclure la première image dans la galerie d'images"
+
+#~ msgid "Timeout for each media:"
+#~ msgstr "Timeout pour chaque média :"
+
+#~ msgid "seconds"
+#~ msgstr "secondes"
+
+#~ msgid "Import prices:"
+#~ msgstr "Importer les prix :"
+
+#~ msgid "excluding tax"
+#~ msgstr "HT"
+
+#~ msgid ""
+#~ "including tax <small>in this case, you must define a default tax rate "
+#~ "before running the import</small>"
+#~ msgstr ""
+#~ "TTC <small>dans ce cas, vous devez préalablement définir une taxe par "
+#~ "défaut</small>"
+
+#~ msgid "Create pages:"
+#~ msgstr "Créer des pages :"
+
+#~ msgid "Import as pages instead of blog posts (without categories)"
+#~ msgstr "Importer en tant que pages au lieu d'articles (sans les catégories)"
+
+#~ msgid "WordPress database"
+#~ msgstr "Base de données WordPress"
+
+#~ msgid ""
+#~ "If you want to restart the import from scratch, you must empty the "
+#~ "WordPress content with the button hereafter."
+#~ msgstr ""
+#~ "Si vous souhaitez relancer l'import à partir de zéro, vous devez vider le "
+#~ "contenu de WordPress avec le bouton ci-contre."
+
+#~ msgid "Remove only new imported data"
+#~ msgstr "Supprimer seulement les nouvelles données importées"
+
+#~ msgid "Remove all WordPress content"
+#~ msgstr "Supprimer tout le contenu de WordPress"
+
+#~ msgid "Empty WordPress content"
+#~ msgstr "Supprimer le contenu de WordPress"
+
+#~ msgid ""
+#~ "If you found this plugin useful and it saved you many hours or days, "
+#~ "please rate it on <a href=\"https://wordpress.org/support/view/plugin-"
+#~ "reviews/fg-magento-to-woocommerce\" target=\"_blank\">FG Magento to "
+#~ "WooCommerce</a>. You can also make a donation using the button below."
+#~ msgstr ""
+#~ "Si vous avez trouvé ce plugin utile et qu'il vous a fait gagner de "
+#~ "précieuses heures ou jours, merci de le noter sur <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/fg-magento-to-woocommerce\" "
+#~ "target=\"_blank\">FG Magento to WooCommerce</a>. Vous pouvez aussi faire "
+#~ "un don en utilisant le bouton ci-dessous."
+
+#~ msgid "Automatic removal:"
+#~ msgstr "Suppression automatique :"
+
+#~ msgid "Automatically remove all the WordPress content before each import"
+#~ msgstr ""
+#~ "Supprimer automatiquement le contenu de WordPress avant chaque import"
+
+#~ msgid "Magento web site parameters"
+#~ msgstr "Paramètres du site Web Magento"
+
+#~ msgid "URL of the live Magento web site"
+#~ msgstr "URL du site Web Magento de production"
+
+#~ msgid "Magento database parameters"
+#~ msgstr "Paramètres de la base Magento"
+
+#~ msgid "Hostname"
+#~ msgstr "Serveur"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "Database"
+#~ msgstr "Nom de la base"
+
+#~ msgid "Username"
+#~ msgstr "Identifiant"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Magento table prefix"
+#~ msgstr "Préfixe des tables Magento"
+
+#~ msgid "Test the connection"
+#~ msgstr "Tester la connexion"
+
+#~ msgid ""
+#~ "All new imported posts or pages and their comments will be deleted from "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Tous les nouveaux articles ou pages importés vont être supprimés de "
+#~ "WordPress."
+
+#~ msgid "All content will be deleted from WordPress."
+#~ msgstr "Toutes les données vont être supprimées de WordPress."
+
+#~ msgid "Please select a remove option."
+#~ msgstr "Veuillez sélectionner une option de suppression."
+
+#~ msgid "Magento"
+#~ msgstr "Magento"
+
+#~ msgid ""
+#~ "Import product categories, products, images and CMS from Magento to "
+#~ "WooCommerce."
+#~ msgstr ""
+#~ "Importe les catégories de produits, les produits, les images et le CMS de "
+#~ "Magento à WooCommerce."
+
+#~ msgid "The wp-content directory must be writable."
+#~ msgstr "Le répertoire wp-content doit avoir les permissions en écriture."
+
+#~ msgid "WordPress content removed"
+#~ msgstr "Contenu supprimé de WordPress"
+
+#~ msgid "Couldn't remove content"
+#~ msgstr "Impossible de supprimer le contenu"
+
+#~ msgid "Settings saved"
+#~ msgstr "Paramètres enregistrés"
+
+#~ msgid "Import Magento"
+#~ msgstr "Import Magento"
+
+#~ msgid ""
+#~ "For any issue, please read the <a href=\"http://wordpress.org/plugins/fg-"
+#~ "magento-to-woocommerce/faq/\" target=\"_blank\">FAQ</a> first."
+#~ msgstr ""
+#~ "En cas de problème, veuillez d'abord consulter la <a href=\"http://"
+#~ "wordpress.org/plugins/fg-magento-to-woocommerce/faq/\" target=\"_blank"
+#~ "\">FAQ</a>."
+
+#~ msgid "%d post"
+#~ msgid_plural "%d posts"
+#~ msgstr[0] "%d article"
+#~ msgstr[1] "%d articles"
+
+#~ msgid "%d page"
+#~ msgid_plural "%d pages"
+#~ msgstr[0] "%d page"
+#~ msgstr[1] "%d pages"
+
+#~ msgid "%d product category"
+#~ msgid_plural "%d product categories"
+#~ msgstr[0] "%d catégorie de produit"
+#~ msgstr[1] "%d catégories de produit"
+
+#~ msgid "%d product"
+#~ msgid_plural "%d products"
+#~ msgstr[0] "%d produit"
+#~ msgstr[1] "%d produits"
+
+#~ msgid "%d media"
+#~ msgid_plural "%d medias"
+#~ msgstr[0] "%d média"
+#~ msgstr[1] "%d médias"
+
+#~ msgid "Instructions"
+#~ msgstr "Instructions"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid ""
+#~ "<a href=\"http://wordpress.org/plugins/fg-magento-to-woocommerce/faq/\" "
+#~ "target=\"_blank\">FAQ</a>"
+#~ msgstr ""
+#~ "<a href=\"http://wordpress.org/plugins/fg-magento-to-woocommerce/faq/\" "
+#~ "target=\"_blank\">FAQ</a>"
+
+#~ msgid "PDO is required. Please enable it."
+#~ msgstr "PDO est requis. Veuillez l'activer."
+
+#~ msgid ""
+#~ "Couldn't connect to the Magento database. Please check your parameters. "
+#~ "And be sure the WordPress server can access the Magento database."
+#~ msgstr ""
+#~ "Impossible de se connecter à la base de données de Magento. Merci de "
+#~ "vérifier vos paramètres. Et soyez certains que le serveur WordPress ait "
+#~ "accès à la base de données de Magento."
+
+#~ msgid "WooCommerce data deleted"
+#~ msgstr "Données WooCommerce supprimées"
+
+#~ msgid "WooCommerce default data created"
+#~ msgstr "Données par défaut de WooCommerce créées"
+
+#~ msgid "Connected with success to the Magento database"
+#~ msgstr "Connecté avec succès à la base de données Magento"
+
+#~ msgid ""
+#~ "Error: the <a href=\"https://wordpress.org/plugins/woocommerce/\" target="
+#~ "\"_blank\">WooCommerce plugin</a> must be installed and activated to "
+#~ "import the products."
+#~ msgstr ""
+#~ "Erreur: le <a href=\"https://wordpress.org/plugins/woocommerce/\" target="
+#~ "\"_blank\">plugin WooCommerce</a> doit être installé et activé pour "
+#~ "importer les produits."
+
+#~ msgid "Magento data found:"
+#~ msgstr "Données Magento trouvées :"
+
+#~ msgid "%d CMS page"
+#~ msgid_plural "%d CMS pages"
+#~ msgstr[0] "%d page CMS"
+#~ msgstr[1] "%d pages CMS"
+
+#~ msgid "Don't forget to modify internal links."
+#~ msgstr "N'oubliez pas de modifier les liens internes."
+
+#~ msgid "%d article imported"
+#~ msgid_plural "%d articles imported"
+#~ msgstr[0] "%d article importé"
+#~ msgstr[1] "%d articles importés"
+
+#~ msgid "%d product category imported"
+#~ msgid_plural "%d product categories imported"
+#~ msgstr[0] "%d catégorie de produit importée"
+#~ msgstr[1] "%d catégories de produit importées"
+
+#~ msgid "%d product imported"
+#~ msgid_plural "%d products imported"
+#~ msgstr[0] "%d produit importé"
+#~ msgstr[1] "%d produits importés"
+
+#~ msgid "%d media imported"
+#~ msgid_plural "%d medias imported"
+#~ msgstr[0] "%d média importé"
+#~ msgstr[1] "%d médias importés"
+
+#~ msgid ""
+#~ "This plugin will import product categories, products, images and CMS from "
+#~ "Magento to WooCommerce.<br />Compatible with Magento version 1.9."
+#~ msgstr ""
+#~ "Ce plugin va importer les catégories de produits, les produits, les "
+#~ "images et le CMS de Magento à WooCommerce.<br>Compatible avec Magento "
+#~ "version 1.9."
+
+#~ msgid ""
+#~ "This plugin will import product categories, products, images, CMS, users, "
+#~ "customers and orders from Magento to WooCommerce.<br />Compatible with "
+#~ "Magento version 1.9."
+#~ msgstr ""
+#~ "Le plugin va importer les catégories de produit, les produits, les "
+#~ "images, le CMS, les utilisateurs, les clients et les commandes de Magenta "
+#~ "vers WooCommerce.<br />Compatible avec Magento version 1.9."
+
+#~ msgid ""
+#~ "If you found this plugin useful and it saved you many hours or days, "
+#~ "please rate it on <a href=\"https://wordpress.org/plugins/fg-magento-to-"
+#~ "woocommerce/\">FG Magento to WooCommerce</a>. You can also make a "
+#~ "donation using the button below."
+#~ msgstr ""
+#~ "Si vous avez trouvé ce plugin utile et qu'il vous a fait gagner de "
+#~ "précieuses heures ou jours, merci de le noter sur <a href=\"https://"
+#~ "wordpress.org/plugins/fg-magento-to-woocommerce/\">FG Magento to "
+#~ "WooCommerce</a>. Vous pouvez aussi faire un don en utilisant le bouton ci-"
+#~ "dessous."
+
+#~ msgid "%d category"
+#~ msgid_plural "%d categories"
+#~ msgstr[0] "%d catégorie"
+#~ msgstr[1] "%d catégories"
+
+#~ msgid "%d internal link modified"
+#~ msgid_plural "%d internal links modified"
+#~ msgstr[0] "%d lien interne modifié"
+#~ msgstr[1] "%d liens internes modifiés"
+
+#~ msgid "Remove only new imported posts"
+#~ msgstr "Supprimer seulement les nouveaux articles importés"
+
+#~ msgid "Joomla (FG)"
+#~ msgstr "Joomla (FG)"
+
+#~ msgid ""
+#~ "Import categories, articles and medias (images, attachments) from a "
+#~ "Joomla database into WordPress."
+#~ msgstr ""
+#~ "Importer les catégories, articles et médias (images, fichiers attachés) "
+#~ "depuis une base Joomla vers WordPress."
+
+#~ msgid "Prefixes removed from categories"
+#~ msgstr "Préfixes de catégories supprimés"
+
+#~ msgid "Import Joomla (FG)"
+#~ msgstr "Import Joomla (FG)"
+
+#~ msgid ""
+#~ "This plugin will import sections, categories, posts, medias (images, "
+#~ "attachments) and web links from a Joomla database into WordPress.<br /"
+#~ ">Compatible with Joomla versions 1.5, 1.6, 1.7, 2.5, 3.0, 3.1, 3.2, 3.3 "
+#~ "and 3.4."
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles, "
+#~ "les médias (images, fichiers attachés) et les liens web depuis une base "
+#~ "Joomla vers WordPress.<br />Compatible avec Joomla versions 1.5, 1.6, "
+#~ "1.7, 2.5, 3.0, 3.1, 3.2, 3.3 et 3.4."
+
+#~ msgid ""
+#~ "For any issue, please read the <a href=\"http://wordpress.org/plugins/fg-"
+#~ "joomla-to-wordpress/faq/\" target=\"_blank\">FAQ</a> first."
+#~ msgstr ""
+#~ "En cas de problème, veuillez d'abord vous référez à la <a href=\"http://"
+#~ "wordpress.org/plugins/fg-joomla-to-wordpress/faq/\" target=\"_blank"
+#~ "\">FAQ</a>."
+
+#~ msgid "%d tag"
+#~ msgid_plural "%d tags"
+#~ msgstr[0] "%d mot-clef"
+#~ msgstr[1] "%d mots-clefs"
+
+#~ msgid ""
+#~ "<a href=\"http://wordpress.org/plugins/fg-joomla-to-wordpress/faq/\" "
+#~ "target=\"_blank\">FAQ</a>"
+#~ msgstr ""
+#~ "<a href=\"http://wordpress.org/plugins/fg-joomla-to-wordpress/faq/\" "
+#~ "target=\"_blank\">FAQ</a>"
+
+#~ msgid ""
+#~ "Couldn't connect to the Joomla database. Please check your parameters. "
+#~ "And be sure the WordPress server can access the Joomla database."
+#~ msgstr ""
+#~ "Impossible de se connecter à la base de données de Joomla. Merci de "
+#~ "vérifier vos paramètres. Et soyez certains que le serveur WordPress ait "
+#~ "accès à la base de données de Joomla."
+
+#~ msgid "Connected with success to the Joomla database"
+#~ msgstr "Connecté avec succès à la base de données Joomla"
+
+#~ msgid ""
+#~ "Your version of Joomla (probably 1.0) is not supported by this plugin. "
+#~ "Please consider upgrading to the <a href=\"http://www.fredericgilles.net/"
+#~ "fg-joomla-to-wordpress/\" target=\"_blank\">Premium version</a>."
+#~ msgstr ""
+#~ "Votre version de Joomla (probablement la 1.0) n'est pas supportée par ce "
+#~ "plugin. Veuillez considérer le passage en <a href=\"http://www."
+#~ "fredericgilles.net/fg-joomla-to-wordpress/\" target=\"_blank\">version "
+#~ "Premium</a>."
+
+#~ msgid "Joomla data found:"
+#~ msgstr "Données Joomla trouvées :"
+
+#~ msgid "%d section"
+#~ msgid_plural "%d sections"
+#~ msgstr[0] "%d section"
+#~ msgstr[1] "%d sections"
+
+#~ msgid "%d article"
+#~ msgid_plural "%d articles"
+#~ msgstr[0] "%d article"
+#~ msgstr[1] "%d articles"
+
+#~ msgid "%d web link"
+#~ msgid_plural "%d web links"
+#~ msgstr[0] "%d lien"
+#~ msgstr[1] "%d liens"
+
+#~ msgid "%d page imported"
+#~ msgid_plural "%d pages imported"
+#~ msgstr[0] "%d page importée"
+#~ msgstr[1] "%d pages importées"
+
+#~ msgid "%d post imported"
+#~ msgid_plural "%d posts imported"
+#~ msgstr[0] "%d article importé"
+#~ msgstr[1] "%d articles importés"
+
+#~ msgid ""
+#~ "Your Joomla database contains %s. You need the <a href=\"%s\" target="
+#~ "\"_blank\">Premium version</a> to import them."
+#~ msgstr ""
+#~ "Votre base de données Joomla contient %s. Vous avez besoin de la <a href="
+#~ "\"%s\" target=\"_blank\">version Premium</a> pour les importer."
+
+#~ msgid ""
+#~ "Your Joomla database contains %s. You need the <a href=\"%s\" target="
+#~ "\"_blank\">Premium version</a> and the <a href=\"%s\" target=\"_blank\">"
+#~ "%s</a> to import them."
+#~ msgstr ""
+#~ "Votre base de données Joomla contient %s. Vous avez besoin de la <a href="
+#~ "\"%s\" target=\"_blank\">version Premium</a> et <a href=\"%s\" target="
+#~ "\"_blank\">%s</a> pour les importer."
+
+#~ msgid "several users"
+#~ msgstr "plusieurs utilisateurs"
+
+#~ msgid "some tags"
+#~ msgstr "des mots-clefs"
+
+#~ msgid "some K2 items"
+#~ msgstr "des éléments K2"
+
+#~ msgid "K2 add-on"
+#~ msgstr "du module K2"
+
+#~ msgid "some Flexicontent items"
+#~ msgstr "des éléments Flexicontent"
+
+#~ msgid "Flexicontent add-on"
+#~ msgstr "du module Flexicontent"
+
+#~ msgid "some EasyBlog posts"
+#~ msgstr "des articles EasyBlog"
+
+#~ msgid "EasyBlog add-on"
+#~ msgstr "du module EasyBlog"
+
+#~ msgid "some Joom!Fish translations"
+#~ msgstr "des traductions Joom!Fish"
+
+#~ msgid "Joom!Fish add-on"
+#~ msgstr "du module Joom!Fish"
+
+#~ msgid "some Zoo items"
+#~ msgstr "des éléments Zoo"
+
+#~ msgid "Zoo add-on"
+#~ msgstr "du module Zoo"
+
+#~ msgid "some sh404sef redirections"
+#~ msgstr "des redirections sh404sef"
+
+#~ msgid "sh404sef add-on"
+#~ msgstr "du module sh404sef"
+
+#~ msgid "some JoomSEF redirections"
+#~ msgstr "des redirections JoomSEF"
+
+#~ msgid "JoomSEF add-on"
+#~ msgstr "du module JoomSEF"
+
+#~ msgid "some OpenSEF redirections"
+#~ msgstr "des redirections OpenSEF"
+
+#~ msgid "OpenSEF add-on"
+#~ msgstr "du module OpenSEF"
+
+#~ msgid "some JComments comments"
+#~ msgstr "des commentaires JComments"
+
+#~ msgid "JComments add-on"
+#~ msgstr "du module JComments"
+
+#~ msgid "some JomComment comments"
+#~ msgstr "des commentaires JomComment"
+
+#~ msgid "JomComment add-on"
+#~ msgstr "du module JomComment"
+
+#~ msgid "a Kunena forum"
+#~ msgstr "un forum Kunena"
+
+#~ msgid "Kunena add-on"
+#~ msgstr "du module Kunena"
+
+#~ msgid "some attachments"
+#~ msgstr "des fichiers joints"
+
+#~ msgid "Attachments add-on"
+#~ msgstr "du module Attachments"
+
+#~ msgid "some Joomlatags tags"
+#~ msgstr "des mots-clefs Joomlatags"
+
+#~ msgid "Joomlatags add-on"
+#~ msgstr "du module Joomlatags"
+
+#~ msgid "some JoomGallery galleries"
+#~ msgstr "des galeries JoomGallery"
+
+#~ msgid "JoomGallery add-on"
+#~ msgstr "du module JoomGallery"
+
+#~ msgid "some PhocaGallery galleries"
+#~ msgstr "des images PhocaGallery"
+
+#~ msgid "PhocaGallery add-on"
+#~ msgstr "du module Phocagallery"
+
+#~ msgid "some JEvents events"
+#~ msgstr "des évènements JEvents"
+
+#~ msgid "JEvents add-on"
+#~ msgstr "du module JEvents"
+
+#~ msgid "some contacts"
+#~ msgstr "des contacts"
+
+#~ msgid "Contact Manager add-on"
+#~ msgstr "du module Contact Manager"
+
+#~ msgid "some Docman documents"
+#~ msgstr "des documents Docman"
+
+#~ msgid "Docman add-on"
+#~ msgstr "du module Docman"
+
+#~ msgid "a Virtuemart e-commerce solution"
+#~ msgstr "une boutique en ligne Virtuemart"
+
+#~ msgid "Virtuemart add-on"
+#~ msgstr "du module Virtuemart"
+
+#~ msgid "some JReviews data"
+#~ msgstr "des données JReviews"
+
+#~ msgid "JReviews add-on"
+#~ msgstr "du module JReviews"
+
+#~ msgid "a Mosets Tree directory"
+#~ msgstr "un annuaire Mosets Tree"
+
+#~ msgid "Mosets Tree add-on"
+#~ msgstr "du module Mosets Tree"
+
+#~ msgid "user groups"
+#~ msgstr "des groupes d'utilisateurs"
+
+#~ msgid "User Groups add-on"
+#~ msgstr "du module User Groups"
+
+#~ msgid "%d links category imported"
+#~ msgid_plural "%d links categories imported"
+#~ msgstr[0] "%d catégorie de liens importée"
+#~ msgstr[1] "%d catégories de liens importées"
+
+#~ msgid "%d web link imported"
+#~ msgid_plural "%d web links imported"
+#~ msgstr[0] "%d lien web importé"
+#~ msgstr[1] "%d liens web importés"
+
+#~ msgid "%d link"
+#~ msgid_plural "%d links"
+#~ msgstr[0] "%d lien"
+#~ msgstr[1] "%d liens"
+
+#~ msgid "Joomla web site parameters"
+#~ msgstr "Paramètres du site Web Joomla"
+
+#~ msgid "URL of the live Joomla web site"
+#~ msgstr "URL du site web Joomla de production"
+
+#~ msgid "Joomla database parameters"
+#~ msgstr "Paramètres de la base Joomla"
+
+#~ msgid "Joomla Table Prefix"
+#~ msgstr "Préfixe des table Joomla"
+
+#~ msgid "Import introtext:"
+#~ msgstr "Importer le texte d'introduction :"
+
+#~ msgid ""
+#~ "The text before the «Read more» split will be imported into the excerpt."
+#~ msgstr ""
+#~ "Le texte situé avant la marque «Lire la suite» sera importé dans "
+#~ "l'extrait."
+
+#~ msgid "to the excerpt"
+#~ msgstr "dans l'extrait"
+
+#~ msgid ""
+#~ "The text before the «Read more» split will be imported into the post "
+#~ "content with a «read more» link."
+#~ msgstr ""
+#~ "Le texte situé avant la marque «Lire la suite» sera importé dans le "
+#~ "contenu de l'article avec un lien «Lire la suite»."
+
+#~ msgid "to the content"
+#~ msgstr "dans le contenu de l'article"
+
+#~ msgid ""
+#~ "The text before the «Read more» split will be imported into both the "
+#~ "excerpt and the post content."
+#~ msgstr ""
+#~ "Le texte situé avant la marque «Lire la suite» sera importé dans "
+#~ "l'extrait et dans le contenu de l'article."
+
+#~ msgid "to both"
+#~ msgstr "dans les deux"
+
+#~ msgid "Archived posts:"
+#~ msgstr "Articles archivés :"
+
+#~ msgid "Do not import archived posts"
+#~ msgstr "Ne pas importer les articles archivés"
+
+#~ msgid "Not imported"
+#~ msgstr "Non importés"
+
+#~ msgid "Import archived posts as drafts"
+#~ msgstr "Importer les articles archivés comme brouillons"
+
+#~ msgid "Import as drafts"
+#~ msgstr "Importer comme brouillons"
+
+#~ msgid "Import archived posts as published posts"
+#~ msgstr "Importer les articles archivés comme articles publiés"
+
+#~ msgid "Import as published posts"
+#~ msgstr "Importer comme articles publiés"
+
+#~ msgid "Import content from Joomla to WordPress"
+#~ msgstr "Importer le contenu de Joomla vers WordPress"
+
+#~ msgid "After the migration"
+#~ msgstr "Après la migration"
+
+#~ msgid ""
+#~ "During the migration, prefixes have been added to the categories slugs to "
+#~ "avoid categories duplicates. This button will remove these prefixes which "
+#~ "are useless after the migration."
+#~ msgstr ""
+#~ "Pendant la migration, des préfixes ont été ajoutés aux URLs des "
+#~ "catégories pour éviter les doublons. Ce bouton supprimera ces préfixes "
+#~ "qui sont inutiles après la migration."
+
+#~ msgid "Remove the prefixes from the categories"
+#~ msgstr "Supprimer les préfixes des catégories"
+
+#~ msgid ""
+#~ "If you have links between articles, you need to modify internal links."
+#~ msgstr ""
+#~ "Si vous avez des liens entre articles, vous avez besoin de modifier les "
+#~ "liens internes."
+
+#~ msgid "Modify internal links"
+#~ msgstr "Modifier les liens internes"
+
+#~ msgid "Do you need extra features?"
+#~ msgstr "Vous avez besoin de fonctionnalités supplémentaires ?"
+
+#~ msgid "authors and all users migration"
+#~ msgstr "migration des auteurs et de tous les utilisateurs"
+
+#~ msgid "menus migration"
+#~ msgstr "migration des menus"
+
+#~ msgid "HTML modules migration"
+#~ msgstr "migration des modules HTML"
+
+#~ msgid "SEO: keeps Joomla IDs or redirects standard Joomla URLs"
+#~ msgstr ""
+#~ "SEO : garde les IDs de Joomla ou redirige les URLs standards de Joomla"
+
+#~ msgid "SEO: Keeps meta description and meta keywords"
+#~ msgstr "SEO : Garde les meta description et meta keywords"
+
+#~ msgid "SEO: Keeps sh404sef, JoomSEF and OpenSEF URLs"
+#~ msgstr "SEO : garde les URLs sh404sef, JoomSEF et OpenSEF"
+
+#~ msgid "Joomla views counts migration"
+#~ msgstr "migration des compteurs de vues de Joomla"
+
+#~ msgid "Joomla 1.0 compatible"
+#~ msgstr "compatible Joomla 1.0"
+
+#~ msgid "Joomla 2.5+ featured images"
+#~ msgstr "images d'intro de Joomla 2.5+"
+
+#~ msgid "Joomla 3.1+ tags"
+#~ msgstr "mots-clefs de Joomla 3.1+"
+
+#~ msgid "Joomla contacts"
+#~ msgstr "contacts Joomla"
+
+#~ msgid "Mambo 4.5 and 4.6 compatible"
+#~ msgstr "compatible Mambo 4.5 et 4.6"
+
+#~ msgid "K2 content"
+#~ msgstr "contenu K2"
+
+#~ msgid "EasyBlog content"
+#~ msgstr "contenu EasyBlog"
+
+#~ msgid "Kunena forum to bbPress"
+#~ msgstr "forum Kunena vers bbPress"
+
+#~ msgid "Flexicontent content"
+#~ msgstr "contenu Flexicontent"
+
+#~ msgid "Zoo content"
+#~ msgstr "contenu Zoo"
+
+#~ msgid "Jcomments and Jomcomment comments"
+#~ msgstr "commentaires Jcomments et Jomcomment"
+
+#~ msgid "Joomlatags tags"
+#~ msgstr "mots-clefs Joomlatags"
+
+#~ msgid "Attachments"
+#~ msgstr "fichiers joints Attachments"
+
+#~ msgid "Rokbox images"
+#~ msgstr "images Rokbox"
+
+#~ msgid "JoomGallery images"
+#~ msgstr "images JoomGallery"
+
+#~ msgid "Phocagallery images"
+#~ msgstr "images Phocagallery"
+
+#~ msgid "Joom!Fish translations to WPML"
+#~ msgstr "traductions Joom!Fish vers WPML"
+
+#~ msgid "JEvents events"
+#~ msgstr "évènements JEvents"
+
+#~ msgid "Docman documents"
+#~ msgstr "documents Docman"
+
+#~ msgid "Virtuemart e-commerce"
+#~ msgstr "boutique en ligne Virtuemart"
+
+#~ msgid "JReviews reviews"
+#~ msgstr "revues JReviews"
+
+#~ msgid "Mosets Tree directory"
+#~ msgstr "annuaire Mosets Tree"
+
+#~ msgid "This feature needs an add-on in addition to the Premium version."
+#~ msgstr ""
+#~ "Cette fonctionnalité nécessite un module supplémentaire en plus de la "
+#~ "version Premium."
+
+#~ msgid ""
+#~ "If you found this plugin useful and it saved you many hours or days, "
+#~ "please rate it on <a href=\"http://wordpress.org/extend/plugins/fg-joomla-"
+#~ "to-wordpress/\">FG Joomla to WordPress</a>. You can also make a donation "
+#~ "using the button below."
+#~ msgstr ""
+#~ "Si vous avez trouvé cette extension utile et qu'elle vous a fait gagner "
+#~ "de nombreuses heures ou jours, merci de voter pour elle sur <a href="
+#~ "\"http://wordpress.org/extend/plugins/fg-joomla-to-wordpress/\">FG Joomla "
+#~ "to WordPress</a>. Vous pouvez aussi faire une donation en utilisant le "
+#~ "bouton ci-dessous."
+
+#~ msgid "URL (beginning with http://)"
+#~ msgstr "URL (commençant par http://)"
+
+#~ msgid ""
+#~ "Please note that some of these features need an add-on in addition to the "
+#~ "Premium version."
+#~ msgstr ""
+#~ "Veuillez noter que certaines de ces fonctionnalités nécessitent un module "
+#~ "supplémentaire en plus de la version Premium."
+
+#~ msgid ""
+#~ "If you want to rerun the import, you must empty the WordPress content "
+#~ "with the button hereafter."
+#~ msgstr ""
+#~ "Si vous souhaitez relancer l'import, vous devez vider le contenu de "
+#~ "WordPress avec le bouton ci-contre."
+
+#~ msgid ""
+#~ "This plugin will import sections, categories, posts, medias (images, "
+#~ "attachments) and web links from a Joomla database into WordPress.<br /"
+#~ ">Compatible with Joomla versions 1.5, 1.6, 1.7, 2.5, 3.0, 3.1, 3.2 and "
+#~ "3.3."
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles, "
+#~ "les médias (images, fichiers attachés) et les liens web depuis une base "
+#~ "Joomla vers WordPress.<br />Compatible avec Joomla versions 1.5, 1.6, "
+#~ "1.7, 2.5, 3.0, 3.1, 3.2 et 3.3."
+
+#~ msgid "Contact Directory contacts"
+#~ msgstr "contacts de Contact Directory"
+
+#~ msgid "some Contact Directory contacts"
+#~ msgstr "des contacts de Contact Directory"
+
+#~ msgid "Contact Directory add-on"
+#~ msgstr "module Contact Directory"
+
+#~ msgid "des fichiers joints"
+#~ msgstr "des fichiers joints"
+
+#~ msgid "Joomla version"
+#~ msgstr "Version de Joomla"
+
+#~ msgid "SEO: Keeps JoomSEF URLs"
+#~ msgstr "SEO : garde les URLs JoomSEF"
+
+#~ msgid "SEO: Keeps OpenSEF URLs"
+#~ msgstr "SEO : garde les URLs OpenSEF"
+
+#~ msgid "Posts with a \"read more\" split:"
+#~ msgstr "Articles avec «Lire la suite» :"
+
+#~ msgid "Remove all posts, categories, tags, medias, comments and pages"
+#~ msgstr ""
+#~ "Supprimer tous les articles, catégories, mots-clefs, médias, commentaires "
+#~ "et pages"
+
+#~ msgid ""
+#~ "All posts, categories, tags, medias, comments and pages will be deleted "
+#~ "from WordPress."
+#~ msgstr ""
+#~ "Tous les articles, catégories, mots-clefs, médias, commentaires et pages "
+#~ "vont être supprimés de WordPress."
+
+#~ msgid "SEO"
+#~ msgstr "SEO"
+
+#~ msgid "Categories, tags, posts, comments, pages and medias deleted"
+#~ msgstr ""
+#~ "Catégories, mots-clefs, articles, commentaires, pages et médias supprimés"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "%d image"
+#~ msgid_plural "%d images"
+#~ msgstr[0] "%d image"
+#~ msgstr[1] "%d images"
+
+#~ msgid "Images:"
+#~ msgstr "Images :"
+
+#, fuzzy
+#~ msgid "FG Joomla to WordPress"
+#~ msgstr "Importer le contenu de Joomla vers WordPress"
+
+#, fuzzy
+#~ msgid ""
+#~ "A plugin to migrate categories, posts and images from Joomla to WordPress"
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles et "
+#~ "les images depuis une base Joomla vers WordPress."

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//dev.rositarealfoods.co.nz/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://dev.rositarealfoods.co.nz/shop/</loc>
+		<lastmod>2024-03-01T06:49:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dev.rositarealfoods.co.nz/product/cod-liver-oil-softgel-90s/</loc>
+		<lastmod>2024-03-01T06:49:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dev.rositarealfoods.co.nz/wp-content/uploads/sites/2/2017/08/rosita-softgels-new-label-side-1200x1200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://dev.rositarealfoods.co.nz/wp-content/uploads/sites/2/2017/08/rosita-softgels-new-label-supplement-facts-1200x1200.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dev.rositarealfoods.co.nz/product/rosita-bee-bread/</loc>
+		<lastmod>2024-02-29T07:54:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dev.rositarealfoods.co.nz/wp-content/uploads/sites/2/2023/12/bee-bread-side-1200x1200.jpg_1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://dev.rositarealfoods.co.nz/wp-content/uploads/sites/2/2023/12/bee-bread-back-1200x1200.jpg_1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dev.rositarealfoods.co.nz/product/cod-liver-oil-liquid/</loc>
+		<lastmod>2024-02-29T06:44:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dev.rositarealfoods.co.nz/wp-content/uploads/sites/2/2017/08/rosita_liquid_nutritional_label_medsafe.png</image:loc>
+		</image:image>
+	</url>
+</urlset>

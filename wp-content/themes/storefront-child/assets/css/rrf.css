@@ -1,0 +1,237 @@
+/*======================================= Common CSS ========================================*/
+
+html {
+  font-size: 10px;
+}
+
+@font-face {
+  font-family: "MegaFresh";
+  src: url("../fonts/MegaFresh.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Bold.eot");
+  src: url("../fonts/Raleway-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-Bold.woff2") format("woff2"),
+    url("../fonts/Raleway-Bold.woff") format("woff"),
+    url("../fonts/Raleway-Bold.ttf") format("truetype"),
+    url("../fonts/Raleway-Bold.svg#Raleway-Bold") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-ExtraBold.eot");
+  src: url("../fonts/Raleway-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Raleway-ExtraBold.woff") format("woff"),
+    url("../fonts/Raleway-ExtraBold.ttf") format("truetype"),
+    url("../fonts/Raleway-ExtraBold.svg#Raleway-ExtraBold") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-ExtraLight.eot");
+  src: url("../fonts/Raleway-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-ExtraLight.woff2") format("woff2"),
+    url("../fonts/Raleway-ExtraLight.woff") format("woff"),
+    url("../fonts/Raleway-ExtraLight.ttf") format("truetype"),
+    url("../fonts/Raleway-ExtraLight.svg#Raleway-ExtraLight") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Heavy.eot");
+  src: url("../fonts/Raleway-Heavy.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-Heavy.woff2") format("woff2"),
+    url("../fonts/Raleway-Heavy.woff") format("woff"),
+    url("../fonts/Raleway-Heavy.ttf") format("truetype"),
+    url("../fonts/Raleway-Heavy.svg#Raleway-Heavy") format("svg");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Light.eot");
+  src: url("../fonts/Raleway-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-Light.woff2") format("woff2"),
+    url("../fonts/Raleway-Light.woff") format("woff"),
+    url("../fonts/Raleway-Light.ttf") format("truetype"),
+    url("../fonts/Raleway-Light.otf") format("opentype"),
+    url("../fonts/Raleway-Light.svg#Raleway-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Medium.eot");
+  src: url("../fonts/Raleway-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-Medium.woff2") format("woff2"),
+    url("../fonts/Raleway-Medium.woff") format("woff"),
+    url("../fonts/Raleway-Medium.ttf") format("truetype"),
+    url("../fonts/Raleway-Medium.svg#Raleway-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-SemiBold.eot");
+  src: url("../fonts/Raleway-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-SemiBold.woff2") format("woff2"),
+    url("../fonts/Raleway-SemiBold.woff") format("woff"),
+    url("../fonts/Raleway-SemiBold.ttf") format("truetype"),
+    url("../fonts/Raleway-SemiBold.svg#Raleway-SemiBold") format("svg");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Thin.eot");
+  src: url("../fonts/Raleway-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway-Thin.woff2") format("woff2"),
+    url("../fonts/Raleway-Thin.woff") format("woff"),
+    url("../fonts/Raleway-Thin.ttf") format("truetype"),
+    url("../fonts/Raleway-Thin.svg#Raleway-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway.eot");
+  src: url("../fonts/Raleway.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Raleway.woff2") format("woff2"),
+    url("../fonts/Raleway.woff") format("woff"),
+    url("../fonts/Raleway.ttf") format("truetype"),
+    url("../fonts/Raleway.svg#Raleway") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MyriadPro-Regular";
+  src: url("../fonts/MyriadPro-Regular.eot");
+  src: url("../fonts/MyriadPro-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/MyriadPro-Regular.woff") format("woff"),
+    url("../fonts/MyriadPro-Regular.ttf") format("truetype"),
+    url("../fonts/MyriadPro-Regular.otf") format("opentype"),
+    url("../fonts/MyriadPro-Regular.svg#MyriadPro-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "helvetica-webfont";
+  src: url("../fonts/helvetica-webfont.woff2") format("woff2"),
+    url("../fonts/helvetica-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Raleway, Roboto, sans-serif;
+}
+
+.ehf-stylesheet-storefront-child button {
+  background-image: none;
+  background: #eee;
+  border: 1px solid #ccc;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  margin: 0;
+  padding: 7px 15px;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+.page-main {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 128rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  width: auto;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+input[type*="date"],
+input[type="email"] {
+  background: #fff;
+  background-clip: padding-box;
+  border: 1px solid transparent;
+  border-radius: 1px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.4rem;
+  height: 4rem;
+  line-height: 1.42857143;
+  padding: 0 0.9rem !important;
+  vertical-align: baseline;
+  width: 100%;
+  box-sizing: border-box;
+  box-shadow: none !important;
+}
+
+input:focus {
+  outline: none !important;
+}
+
+body.transparent-footer footer .footer-width-fixer .elementor-element.page-footer {
+  margin-top: -4rem;
+  background-color: transparent;
+  background-image: url(../images/footerbg-new.png);
+}
+
+@media only screen and (min-width: 76.8rem) {
+  .page-main {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 76.7rem) {
+  body.transparent-footer footer .footer-width-fixer .elementor-element.page-footer {
+    margin-top: -4rem;
+    background-color: transparent;
+    background-image: url(../images/footermobile-new.png);
+  }
+}

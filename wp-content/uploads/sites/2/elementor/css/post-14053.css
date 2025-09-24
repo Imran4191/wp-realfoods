@@ -1,0 +1,22 @@
+.elementor-14053 .elementor-element.elementor-element-a86c61f{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}/* Start custom CSS */.elementor-element.e-con {
+    --container-max-width: 100%;
+}
+
+.elementor-element.elementor-element-a86c61f.e-flex.e-con-boxed.e-con.e-parent {
+    width: 100%;
+    padding: 0;
+}
+
+@supports (-webkit-touch-callout: none) {
+    @media screen and (max-width: 767px){
+        img.privacy-img {
+             margin-top: 2rem !important;
+        }
+    } 
+}
+@media (max-width: 990px) and (min-width: 768px){
+    .page-main .left-content {
+    width: 100%;
+    padding: 0 2.5rem;
+}
+}/* End custom CSS */

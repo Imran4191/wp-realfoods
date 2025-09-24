@@ -1,0 +1,25 @@
+@config '../../../tailwind.admin.config.js';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "~modaal/dist/css/modaal.min.css";
+
+.cfw-tw {
+    input[type="checkbox"]:checked::before {
+        content: '';
+    }
+
+    input[type="radio"]:checked::before {
+        background-color: unset;
+    }
+
+    table {
+        border-collapse:separate;
+        border-spacing:1.25rem;
+    }
+}
+
+.cfw-tw .modaal-content-container {
+    padding: unset;
+}

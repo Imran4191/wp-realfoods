@@ -1,0 +1,188 @@
+custID,firstname,lastname,email,"orders #",Status,"date ordered",store,"delivery country",sku,"product name","qty ordered","Price Paid","Row Total","Total order"
+10861,Beata,Krynicki,krynicki@unipay.com.au,RRAU200142,completed,"2024-05-05 10:50:15",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",6,61.32,404.7,404
+10861,Beata,Krynicki,krynicki@unipay.com.au,RRAU200142,completed,"2024-05-05 10:50:15",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",3,0,0,404
+0,Clara,Hajda,clarahajda@gmail.com,RRAU200141,completed,"2024-05-05 10:14:12",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10860,Gregory,O'Connor,rosita-cod-liver-oil.twiddling657@passmail.net,RRAU200140,completed,"2024-05-05 10:07:11",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,293
+10860,Gregory,O'Connor,rosita-cod-liver-oil.twiddling657@passmail.net,RRAU200140,completed,"2024-05-05 10:07:11",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,293
+10860,Gregory,O'Connor,rosita-cod-liver-oil.twiddling657@passmail.net,RRAU200140,completed,"2024-05-05 10:07:11",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,293
+10859,Louise,Mclaren,louis6175@gmail.com,RRAU200139,completed,"2024-05-05 08:43:10",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10858,Kaitlin,Hateley,kaitlin_1011@hotmail.com,RRAU200138,completed,"2024-05-05 07:57:04",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10857,Sophie,Ball,sj_kemp@hotmail.com,RRAU200137,completed,"2024-05-05 04:31:33",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10856,Carissa,Johnson,carissa_aust@hotmail.com,RRAU200136,completed,"2024-05-05 02:58:20",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10855,Madeleine,Brown,madeleinebrown11@gmail.com,RRAU200135,completed,"2024-05-05 02:08:16",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10855,Madeleine,Brown,madeleinebrown11@gmail.com,RRAU200135,completed,"2024-05-05 02:08:16",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+10854,Hanny,Anderson,liisanderson@hotmail.com,RRAU200134,completed,"2024-05-04 20:07:35",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+0,Nadia,Bachler,azzopardinadia@gmail.com,RRAU200133,completed,"2024-05-04 10:06:05",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+0,Fiona,Gass,fgass@moamagrammar.nsw.edu.au,RRAU200132,completed,"2024-05-04 08:03:54",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+10853,Sue,Gribbin,Bluey712@gmail.com,RRAU200131,completed,"2024-05-04 05:17:16",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10853,Sue,Gribbin,Bluey712@gmail.com,RRAU200130,completed,"2024-05-04 05:08:39",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+0,Matthew,Shanks,msha0098@gmail.com,RRAU200129,completed,"2024-05-04 04:41:04",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+0,Matthew,Shanks,msha0098@gmail.com,RRAU200129,completed,"2024-05-04 04:41:04",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,142
+0,Anchisa,Lee,anchisalee8@gmail.com,RRAU200128,completed,"2024-05-04 04:23:05",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10852,Georgia,Sultana,gahawes@hotmail.com,RRAU200127,completed,"2024-05-03 23:42:42",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10492,Bo,"Van Graan",bolu79@gmail.com,RRAU200126,completed,"2024-05-03 23:15:41",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,68.14,149.9,149
+10492,Bo,"Van Graan",bolu79@gmail.com,RRAU200126,completed,"2024-05-03 23:15:41",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,149
+0,Lauren,Farquhar,laurenjfarquhar@outlook.com,RRAU200125,completed,"2024-05-03 22:18:40",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10850,Shelly,Vernon,elkins_shelly@yahoo.com.au,RRAU200124,completed,"2024-05-03 11:18:57",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,141
+9186,Daniele,Barletta,danielevbarletta@gmail.com,RRAU200121,completed,"2024-05-03 04:56:56",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,63.59,139.9,139
+0,jaydyn,Games,jaydyn_123@hotmail.com,RRAU200120,completed,"2024-05-03 01:36:24",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,61.32,202.35,391
+0,jaydyn,Games,jaydyn_123@hotmail.com,RRAU200120,completed,"2024-05-03 01:36:24",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,391
+10845,Maria,Golotta,maria@maresifoods.com.au,RRAU200119,completed,"2024-05-02 22:42:38",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,144
+0,leonie,stephens,leonie43@live.com.au,RRAU200118,completed,"2024-05-02 22:10:57",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+0,leonie,stephens,leonie43@live.com.au,RRAU200118,completed,"2024-05-02 22:10:57",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,142
+10844,Josephine,Cimino,jocimino@internode.on.net,RRAU200117,completed,"2024-05-02 21:41:45",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,144
+10843,Sophie,Hardman,sophiefhardman@outlook.com,RRAU200116,completed,"2024-05-02 20:45:55",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10838,Yelena,Cecovic,yelenacecovic1971@gmail.com,RRAU200115,completed,"2024-05-02 11:25:03",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+0,Lauren,Cleggett,laurencleggett@gmail.com,RRAU200114,completed,"2024-05-02 10:25:48",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10837,Ben,Schemel,benn.schemel@gmail.com,RRAU200113,completed,"2024-05-02 09:54:32",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+10837,Ben,Schemel,benn.schemel@gmail.com,RRAU200113,completed,"2024-05-02 09:54:32",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+10836,Penny,Clements,penny-orders@pm.me,RRAU200110,completed,"2024-05-02 07:02:23",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,141
+10835,Meg,Roberts,roberts_m5@hotmail.com,RRAU200109,completed,"2024-05-02 05:03:11",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10835,Meg,Roberts,roberts_m5@hotmail.com,RRAU200109,completed,"2024-05-02 05:03:11",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+0,Maddie,Whitling,Madeleine.whitling@hotmail.com,RRAU200108,completed,"2024-05-02 04:00:16",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+0,Rebecca,Hendrie,bex.hendrie7@googlemail.com,RRAU200107,completed,"2024-05-02 03:13:00",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10834,Craig,Moxey,cmo38938@bigpond.net.au,RRAU200106,completed,"2024-05-02 01:32:41",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10833,Helen,Sixsmith,sandlsixsmith@gmail.com,RRAU200105,completed,"2024-05-02 00:09:03",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+10833,Helen,Sixsmith,sandlsixsmith@gmail.com,RRAU200105,completed,"2024-05-02 00:09:03",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,142
+0,Emma,Loughrey,emma.loughrey@outlook.com,RRAU200104,completed,"2024-05-01 23:22:36",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Athena,Zappia,athenazappia@gmail.com,RRAU200103,completed,"2024-05-01 21:06:49",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,86
+0,Abbey,French,abbeyrosefrench@hotmail.com,RRAU200102,completed,"2024-05-01 10:49:40",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Melek,Yaman,karapinar.m@hotmail.com,RRAU200101,completed,"2024-05-01 10:27:36",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+0,Melek,Yaman,karapinar.m@hotmail.com,RRAU200101,completed,"2024-05-01 10:27:36",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+0,Arthur,Tzanatos,arthurtzanatos@icloud.com,RRAU200100,completed,"2024-05-01 09:18:14",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,86
+0,Marianna,Ruge,rugooles@bigpond.com,RRAU200099,completed,"2024-05-01 09:08:03",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+0,Marianna,Ruge,rugooles@bigpond.com,RRAU200099,completed,"2024-05-01 09:08:03",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+0,Callie,Black,callie.black6@det.nsw.edu.au,RRAU200098,completed,"2024-05-01 06:31:16",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Alana,Middleton,alanamiddleton93@gmail.com,RRAU200097,completed,"2024-05-01 04:43:54",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,61.32,202.35,202
+0,Alana,Middleton,alanamiddleton93@gmail.com,RRAU200097,completed,"2024-05-01 04:43:54",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",2,0,0,202
+10830,LEANNE,BISHOP,j.l.bishop@bigpond.com,RRAU200096,completed,"2024-05-01 02:40:47",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10829,Lauren,Piddington,piddilol@yahoo.com.au,RRAU200095,completed,"2024-05-01 02:26:49",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10828,Tania,Askin,taniaaskin1@gmail.com,RRAU200094,completed,"2024-05-01 01:14:38",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10827,Sally,Geeve,sallygeeve@bigpond.com,RRAU200093,completed,"2024-05-01 00:56:57",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,61.32,202.35,202
+10827,Sally,Geeve,sallygeeve@bigpond.com,RRAU200093,completed,"2024-05-01 00:56:57",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",2,0,0,202
+10826,Erin,Woodford,erin_brown@hotmail.com,RRAU200092,completed,"2024-05-01 00:14:57",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10826,Erin,Woodford,erin_brown@hotmail.com,RRAU200092,completed,"2024-05-01 00:14:57",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+10200,Milena,Minichiello,milena@thelifeharvest.com,RRAU200091,completed,"2024-04-30 23:49:54",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,63.59,139.9,139
+0,Jessica,Karandrews,jessicakarandrews@hotmail.com,RRAU200090,completed,"2024-04-30 23:19:11",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,86
+0,Astrid,McCormack,astmccormack@gmail.com,RRAU200089,completed,"2024-04-30 23:05:54",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10825,Mabior,Wai,mabiorkutt@yahoo.com,RRAU200088,completed,"2024-04-30 13:19:35",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10824,Tessa,Kimura,t.kimura@live.com,RRAU200087,completed,"2024-04-30 11:16:25",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,57.23,251.8,251
+10823,Nikki,Gutierrez,raznik.gutierrez@gmail.com,RRAU200086,completed,"2024-04-30 11:13:29",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,61.32,202.35,202
+10823,Nikki,Gutierrez,raznik.gutierrez@gmail.com,RRAU200086,completed,"2024-04-30 11:13:29",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",2,0,0,202
+10822,Scott,Laughton,codeowl@gmail.com,RRAU200085,completed,"2024-04-30 10:30:57",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Nadine,Levy,n.taaffe@hotmail.com,RRAU200084,completed,"2024-04-30 07:25:16",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10819,Polly,Wagstaff,pollyperrywagstaff@gmail.com,RRAU200083,completed,"2024-04-30 06:09:38",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",6,57.23,377.7,377
+9823,Nicole,Tan,nicole.tan@me.com,RRAU200082,completed,"2024-04-30 04:26:31",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,63.59,279.8,279
+10818,Emma,Hallpike,emmahallpike@gmail.com,RRAU200081,completed,"2024-04-30 04:09:08",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10817,NILGUN,HAYDARDEDEOGLU,nhaydar@nyps.com.au,RRAU200080,completed,"2024-04-30 03:48:54",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+0,Rachel,"Elia Kayrouz",rachel.elia@hotmail.com,RRAU200079,completed,"2024-04-30 03:31:44",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10816,Aiza,"De Monteverde",aizaqendt@yahoo.com,RRAU200078,completed,"2024-04-30 03:19:41",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10815,Anna,Graham,annagraham.aust@gmail.com,RRAU200077,completed,"2024-04-30 03:12:58",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+8911,Louise,Loader,louiseloadernutrition@gmail.com,RRAU200076,completed,"2024-04-30 03:09:30",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,54.51,179.88,179
+8911,Louise,Loader,louiseloadernutrition@gmail.com,RRAU200076,completed,"2024-04-30 03:09:30",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",2,0,0,179
+0,Jasmin,Miller,jasminnobrien@gmail.com,RRAU200075,completed,"2024-04-30 02:59:06",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+0,Madison,McClintock,madimcclintock@gmail.com,RRAU200074,completed,"2024-04-30 01:42:37",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10814,Virginie,Rutgers,Virginie0309@yahoo.fr,RRAU200073,completed,"2024-04-29 21:08:35",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10813,Michael,French,mfrench28@live.com,RRAU200072,completed,"2024-04-29 14:13:39",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+10813,Michael,French,mfrench28@live.com,RRAU200072,completed,"2024-04-29 14:13:39",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,142
+10812,Krystal,Wilson,krystal@boulderventures.com.au,RRAU200071,completed,"2024-04-29 11:30:16",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10812,Krystal,Wilson,krystal@boulderventures.com.au,RRAU200071,completed,"2024-04-29 11:30:16",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+10811,Ashley,Azzi,ashley.zerafa01@gmail.com,RRAU200070,completed,"2024-04-29 11:23:23",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+10811,Ashley,Azzi,ashley.zerafa01@gmail.com,RRAU200070,completed,"2024-04-29 11:23:23",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+10810,Kara,Wybrow,kara.wybrow@gmail.com,RRAU200069,completed,"2024-04-29 05:38:58",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,144
+10809,Bethany,Young,bethyoung86@gmail.com,RRAU200068,completed,"2024-04-29 04:00:08",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10808,Estera,Szpunar,szpunarestera@gmail.com,RRAU200067,completed,"2024-04-29 03:15:20",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,207
+10808,Estera,Szpunar,szpunarestera@gmail.com,RRAU200067,completed,"2024-04-29 03:15:20",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,207
+10808,Estera,Szpunar,szpunarestera@gmail.com,RRAU200067,completed,"2024-04-29 03:15:20",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,207
+10807,Jo,Shepley,shepleypng@gmail.com,RRAU200066,completed,"2024-04-29 02:08:19",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10729,Dimi,Nouragas,Dimi.Nouragas@det.nsw.edu.au,RRAU200064,completed,"2024-04-28 11:37:12",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,57.23,125.9,125
+0,Yianna,Tsakirios,Yianna.tsakirios@gmail.com,RRAU200063,completed,"2024-04-28 09:33:24",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,57.23,251.8,251
+10805,Ekaterina,Babkina,katena_64@mail.ru,RRAU200062,completed,"2024-04-28 04:08:56",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Timothy,Filtness,tfiltness@netspeed.com.au,RRAU200061,completed,"2024-04-28 01:14:04",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10804,Suzan,Kasparian,suzan.kasparian@gmail.com,RRAU200060,completed,"2024-04-27 23:28:56",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,57.23,251.8,251
+10803,Sarah,Rice,sarnjon@gmail.com,RRAU200059,completed,"2024-04-27 22:25:14",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10802,Sarah,Krelle,sarahkrelle2@gmail.com,RRAU200058,completed,"2024-04-27 21:03:33",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10802,Sarah,Krelle,sarahkrelle2@gmail.com,RRAU200058,completed,"2024-04-27 21:03:33",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+0,George,Raphael,graphael78@gmail.com,RRAU200057,completed,"2024-04-27 12:09:34",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+8417,Christos,Moungos,cmoungos68@gmail.com,RRAU200056,completed,"2024-04-27 08:40:40",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+8417,Christos,Moungos,cmoungos68@gmail.com,RRAU200056,completed,"2024-04-27 08:40:40",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+0,Theodora,Murdoch,theodora.murdoch@gmail.com,RRAU200055,completed,"2024-04-27 07:54:55",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+10801,shak,ab,shaakira.abader@hotmail.com,RRAU200054,completed,"2024-04-27 04:15:00",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10800,Tenille,Frisk,tenille-frisk@outlook.com,RRAU200053,completed,"2024-04-27 02:24:26",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Rochelle,Howard,rochellelouisehoward@hotmail.com,RRAU200052,completed,"2024-04-27 02:13:40",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+0,Rochelle,Howard,rochellelouisehoward@hotmail.com,RRAU200052,completed,"2024-04-27 02:13:40",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,142
+10799,Ebony,Birkett,thewildmother@protonmail.com,RRAU200051,completed,"2024-04-27 00:30:50",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,233
+10799,Ebony,Birkett,thewildmother@protonmail.com,RRAU200051,completed,"2024-04-27 00:30:50",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,233
+10799,Ebony,Birkett,thewildmother@protonmail.com,RRAU200051,completed,"2024-04-27 00:30:50",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,233
+0,Julie-Anne,Rowland,jrowland@y7mail.com,RRAU200050,completed,"2024-04-26 20:25:25",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10797,Laura,Gaymer,lc.gaymer@bigpond.com,RRAU200049,completed,"2024-04-26 11:53:56",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+10797,Laura,Gaymer,lc.gaymer@bigpond.com,RRAU200049,completed,"2024-04-26 11:53:56",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+10796,"Taïsa Eliza",Baars,taisa.elizs.baars@gmail.com,RRAU200048,completed,"2024-04-26 06:25:47",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10795,Suzannah,Hunter,suzannahhunter@hotmail.com,RRAU200047,completed,"2024-04-26 05:14:32",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+0,Natasha,Andreo,teachingtash89@gmail.com,RRAU200046,completed,"2024-04-26 04:43:24",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10794,Isabella,Beale,bellabeale01@gmail.com,RRAU200045,completed,"2024-04-26 02:44:10",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,144
+10794,Isabella,Beale,bellabeale01@gmail.com,RRAU200045,completed,"2024-04-26 02:44:10",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,144
+10794,Isabella,Beale,bellabeale01@gmail.com,RRAU200045,completed,"2024-04-26 02:44:10",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,144
+9091,"Garth & Gail",Martin,gamartin@bigpond.net.au,RRAU200044,completed,"2024-04-26 02:35:12",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,68.14,224.85,224
+9091,"Garth & Gail",Martin,gamartin@bigpond.net.au,RRAU200044,completed,"2024-04-26 02:35:12",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",2,0,0,224
+0,Melissa,Millard,melrk@y7mail.com,RRAU200043,completed,"2024-04-26 00:42:22",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10793,Alyce,Chiodo,alycechiodo@hotmail.com,RRAU200042,completed,"2024-04-26 00:35:15",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10792,Anthony,Jaeger,anthonyjaeger12@gmail.com,RRAU200041,completed,"2024-04-26 00:07:20",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,142
+10792,Anthony,Jaeger,anthonyjaeger12@gmail.com,RRAU200041,completed,"2024-04-26 00:07:20",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,142
+10791,Carla,Veith-Carter,carlaveithcarter@hotmail.com,RRAU200040,completed,"2024-04-25 22:07:06",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10790,Natasha,Tully,tashctully@gmail.com,RRAU200039,completed,"2024-04-25 11:46:35",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10789,Christy,Jones,christydsnape@gmail.com,RRAU200038,completed,"2024-04-25 11:05:54",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Dejan,Vucicevic,dejanv2003@gmail.com,RRAU200037,completed,"2024-04-25 07:23:18",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+0,C,THIAN,cjthian@gmail.com,RRAU200036,completed,"2024-04-25 04:46:01",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,86
+10788,Jessica,Rixon,jessica_rixon2@hotmail.com,RRAU200035,completed,"2024-04-25 04:39:58",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+10787,Patricia,Saint,ljdsaint8@gmail.com,RRAU200034,completed,"2024-04-25 03:28:38",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10786,Brianna,Morris,bree.morris4@outlook.com,RRAU200033,completed,"2024-04-25 03:07:21",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10786,Brianna,Morris,bree.morris4@outlook.com,RRAU200033,completed,"2024-04-25 03:07:21",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+10784,Rachel,Leigh,travelthisworld@hotmail.com,RRAU200032,completed,"2024-04-25 02:40:53",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10783,Ben,Lai,benlai0702@gmail.com,RRAU200031,completed,"2024-04-25 02:04:14",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,64.73,142.4,275
+10783,Ben,Lai,benlai0702@gmail.com,RRAU200031,completed,"2024-04-25 02:04:14",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,275
+10783,Ben,Lai,benlai0702@gmail.com,RRAU200031,completed,"2024-04-25 02:04:14",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,275
+10782,Elinor,Cripps,elinor.cripps@gmail.com,RRAU200030,completed,"2024-04-25 00:45:02",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,Annamaria,Zeppieri,amzepp4@gmail.com,RRAU200029,completed,"2024-04-24 22:40:10",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10781,David,Moberley,david.moberley@gmail.com,RRAU200028,completed,"2024-04-24 21:26:38",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+0,April,Thewlis,april.thewlis@gmail.com,RRAU200027,completed,"2024-04-24 12:57:35",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10780,Ben,sty,styles4321@live.com,RRAU200026,completed,"2024-04-24 12:06:23",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,57.23,251.8,267
+0,Nicola,Tucker,nicola@goodlending.co,RRAU200025,completed,"2024-04-24 11:24:44",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,86
+0,Leonie,Donovan,leoniedonovan@hotmail.com,RRAU200024,completed,"2024-04-24 09:44:15",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10779,Rodna,Krstevska,krstevskarodna@hotmail.com,RRAU200023,completed,"2024-04-24 09:10:02",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+10779,Rodna,Krstevska,krstevskarodna@hotmail.com,RRAU200023,completed,"2024-04-24 09:10:02",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+10778,Krish,De,krishde@gmail.com,RRAU200022,completed,"2024-04-24 05:23:20",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+10778,Krish,De,krishde@gmail.com,RRAU200022,completed,"2024-04-24 05:23:20",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+0,Katie,King,k.king@hotmail.com.au,RRAU200021,completed,"2024-04-24 04:55:26",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+10777,Tanya,Corner,tanya.corner@itcg.com.au,RRAU200020,completed,"2024-04-24 04:15:11",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10776,Kylie,Sperber,sperberk@optusnet.com.au,RRAU200019,completed,"2024-04-24 02:43:21",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+0,Madelein,Badenhorst,madbadenhorst@gmail.com,RRAU200018,completed,"2024-04-24 01:15:15",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+0,Madelein,Badenhorst,madbadenhorst@gmail.com,RRAU200018,completed,"2024-04-24 01:15:15",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+10774,Monika,Price,Monikak@outlook.com.au,RRAU200017,completed,"2024-04-23 23:37:10",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,90
+10774,Monika,Price,Monikak@outlook.com.au,RRAU200017,completed,"2024-04-23 23:37:10",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,90
+10773,Tennille,Bertram,tennille_17@hotmail.com,RRAU200016,completed,"2024-04-23 22:09:00",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+10772,Rebecca,Little,beckelittle@hotmail.com,RRAU200015,completed,"2024-04-23 21:42:50",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,57.23,251.8,251
+10771,Marney,Salmon,marneyraesalmon@gmail.com,RRAU200014,completed,"2024-04-23 13:26:04",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,144
+10770,Jody,Boukarroum,Jody_bouka@hotmail.com,RRAU200013,completed,"2024-04-23 12:46:05",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",3,57.23,188.85,188
+0,Tina,Millar,tina@staff.xocolatl.com.au,RRAU200012,completed,"2024-04-23 12:16:24",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,60.41,132.9,132
+10769,Emily,Bennison,emily.bennison@hotmail.com,RRAU200011,completed,"2024-04-23 11:09:37",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,78
+0,Arianne,Guehrer,amburchill@gmail.com,RRAU200006,completed,"2024-04-23 08:45:40",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,61.32,202.35,202
+0,Rozanne,Anley,roxy23.anley@googlemail.com,RRAU200004,completed,"2024-04-23 08:09:38",AU,AU,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,63.59,69.95,81
+29,"Test Order","Test Order",alvin@bwipholdings.com,RRAU200001,completed,"2024-04-23 06:20:03",AU,AU,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,68.14,74.95,94
+29,"Test Order","Test Order",alvin@bwipholdings.com,RRAU200001,completed,"2024-04-23 06:20:03",AU,AU,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,94
+2022,Md.,Nayem,info@rositarealfoods.co.nz,RRNZ100002,completed,"2024-03-29 06:31:03",NZ,GB,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,74.95,74.95,144
+2022,Md.,Nayem,info@rositarealfoods.co.nz,RRNZ100002,completed,"2024-03-29 06:31:03",NZ,GB,ROSITACHILLED,"Rosita Thermal Packaging",1,0,0,144
+2022,Md.,Nayem,info@rositarealfoods.co.nz,RRNZ100002,completed,"2024-03-29 06:31:03",NZ,GB,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,69.95,69.95,144
+8107,Test,Test,info@rositarealfoods.eu,RREU100001,completed,"2024-03-29 06:36:55",EU,US,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,44.95,134.85,134
+8142,Md.,Nayem,nayemclient@gmail.com,31,completed,"2024-03-23 18:06:35",UK,GB,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",3,37.46,134.85,177.8
+8142,Md.,Nayem,nayemclient@gmail.com,31,completed,"2024-03-23 18:06:35",UK,GB,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,35.79,42.95,177.8
+0,Test,UK,alvin@bwipholdings.com,30,completed,"2024-03-21 09:40:00",UK,GB,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,37.46,44.95,48.45
+0,Test,NZ,alvin@bwipholdings.com,13927,completed,"2024-03-21 14:33:03",NZ,NZ,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,74.95,74.95,78
+0,Test,EU,alvin@bwipholdings.com,9058,completed,"2024-03-21 14:28:22",EU,NL,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,44.95,44.95,51
+8144,Test,A,alvinretail1@yopmail.com,18,completed,"2024-03-12 06:19:37",UK,GB,857605004021,"Ratfish Liver Oil (RFLO) 50ml",1,89.13,106.95,106.95
+8175,Test,Testtt,rrfwelcomenz@yopmail.com,13922,completed,"2024-03-12 06:27:31",NZ,NZ,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,74.95,74.95,78
+8174,Test,Testing,rrfwelcomeeu@yopmail.com,9053,completed,"2024-03-12 06:24:18",EU,GB,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",2,44.95,89.9,102
+0,imran,hossain,imran@bwipholdings.com,13920,completed,"2024-03-11 03:39:38",NZ,NZ,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",1,69.95,69.95,73
+8163,as,test,testpractionerrrfnz1@yopmail.com,13919,completed,"2024-03-01 06:49:10",NZ,,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",4,69.95,279.8,279
+8162,aav,aasss,testpractionerrrfeu1@yopmail.com,9052,completed,"2024-03-01 06:35:51",EU,,857605004069,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Softgels",2,42.95,85.9,85
+8160,aa,aa,testpractionerrrfuk1@yopmail.com,8,completed,"2024-02-29 10:32:44",UK,GB,857605004007,"Rosita Extra Virgin Cod Liver Oil (EVCLO) Liquid",1,37.46,44.95,49.95
